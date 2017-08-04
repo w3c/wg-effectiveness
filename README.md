@@ -4,16 +4,16 @@ Our main document: [Common Standards Issues](CSI.md)
 
 ## Expectations
 
-* Review of current chair tools, welcome emails, resources
+* [ ] Review of current chair tools, welcome emails, resources
 * Working on resources for:
-** New chairs (how to start a WG, how to run a WG)
-** Tools for chairs to refer to when issues arrive in WGs
-** Help in progressing standards resources
+  * [ ] New chairs (how to start a WG, how to run a WG)
+  * [ ] Tools for chairs to refer to when issues arrive in WGs
+  * [ ] Help in progressing standards resources
 * [Common Standards Issues](CSI.md) Document
 * For TPAC 2017:
-** Breakout session, meet with the task force after the breakout session (no more than 2 hours)
-** Chairs breakfast presentation
-* (Possibly) recommendations to AB on process improvements for Working Group effectiveness
+  * [ ] Breakout session, meet with the task force after the breakout session (no more than 2 hours)
+  * [ ] Chairs breakfast presentation
+* [ ] (Possibly) recommendations to AB on process improvements for Working Group effectiveness
 
 Timeline is to wrap up this Task Force at the end of November.
 
