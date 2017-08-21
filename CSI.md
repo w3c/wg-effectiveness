@@ -12,7 +12,7 @@ Below is a list of common causes of issues experienced by working groups. It inc
 
 ### Huge Impact
 
-* **Description:** The technology being standardised has a huge impact on the web and industry. Or, the hype around the impact of the technology is extremely high inducing blog posts, speakers referencing the technology at large events, impacts corporate strategy or even news articles. This places a large burden on the standardisation effort. This can lead to further causes such as **[Perfectionism](#perfectionism)** and **[Tight Deadline](#tight-deadline)**. Leads to **[Scope Creep / Super-Spec](#scope-creep--super-spec)**, **[Incomplete Spec](#incomplete-spec)**, **[Never-Ending Discussion](#never-ending-discussion)**. 
+* **Description:** The technology being standardised has a huge impact on the web and industry. Or, the hype around the impact of the technology is extremely high inducing blog posts, speakers referencing the technology at large events, impacts corporate strategy or even news articles. This places a large burden on the standardisation effort. This can lead to further causes such as **[Perfectionism](#perfectionism)** and **[Tight Deadline](#tight-deadline)**. Leads to **[Scope Creep / Super-Spec](#scope-creep--super-spec)**, **[Incomplete Spec](#incomplete-spec)**, **[Never-Ending Discussion](#never-ending-discussion)**.
 * **Sufferers:** WebRTC, ServiceWorker
 
 ### Spec/Innovation Race Condition
@@ -38,7 +38,7 @@ Below is a list of common causes of issues experienced by working groups. It inc
 ### No Implementation
 
 * **Description:** No implementation of the draft exists. Not only does this result in **[Incomplete Spec](#incomplete-spec)** but also results in **[Failed Spec](#failed-spec)** as when implementations do arise they’re not tested in real world scenarios and end up being phased out or not completed.  
-* **Sufferers:** 
+* **Sufferers:**
 
 ### Assertive Implementers and Assertive Experts
 
@@ -47,32 +47,32 @@ Below is a list of common causes of issues experienced by working groups. It inc
 
 ### Author Lack
 
-* **Description:** No-one from the working group is willing or qualified to write the specification. Alternatively, no-one from the working group has time allowance to complete the spec. This leads to **[Incomplete Spec](#incomplete-spec)**. 
+* **Description:** No-one from the working group is willing or qualified to write the specification. Alternatively, no-one from the working group has time allowance to complete the spec. This leads to **[Incomplete Spec](#incomplete-spec)**.
 * **Sufferers:** Web and Mobile IG
 
 ### Expert Lack (including Implementer Lack)
 
 * **Description:** The Working Group suffers with a lack of understanding in one or more particular areas related to the technology being standardised, building the specification, the standards process, developer expectation or implementer expectation. Can incite other causes such as **[Clashing Implementation](#clashing-implementation)** or **[Assertive Implementers](#assertive-implementers)**. Leads to **[Failed Spec](#failed-spec)**.
-* **Sufferers:** PaymentRequest and subsequent specs. 
+* **Sufferers:** PaymentRequest and subsequent specs.
 
 ### Drive Lack
 
-* **Description:** In this situation the charter and scope of work may be well defined but there is no drive within the group to complete the work. This may be fuelled by **[Expert Lack](#Expert-Lack)** and **[Leadership Needs Improvement](#leadership-needs-improvement)**. Leads to **[Incomplete Spec](#incomplete-spec)**, **[Never-Ending Discussion](#never-ending-discussion)**.
+* **Description:** In this situation the charter and scope of work may be well defined but there is no drive within the group to complete the work. This may be fuelled by **[Expert Lack](#expert-lack-including-implementer-lack)** and **[Leadership Needs Improvement](#leadership-needs-improvement)**. Leads to **[Incomplete Spec](#incomplete-spec)**, **[Never-Ending Discussion](#never-ending-discussion)**.
 * **Sufferers:** Web and Mobile IG
 
 ### Perfectionism
 
-* **Description:** The group persists on making a “perfect” specification. This can be fuelled by **[Huge Impact](#Huge-Impact)**. Leads to **[Scope Creep / Super-Spec](#scope-creep--super-spec)**, **[Incomplete Spec](#incomplete-spec)**, **[Never-Ending Discussion](#never-ending-discussion)**.
+* **Description:** The group persists on making a “perfect” specification. This can be fuelled by **[Huge Impact](#huge-impact)**. Leads to **[Scope Creep / Super-Spec](#scope-creep--super-spec)**, **[Incomplete Spec](#incomplete-spec)**, **[Never-Ending Discussion](#never-ending-discussion)**.
 * **Sufferers:** WebRTC, CSS 2.1
 
 ### Leadership Needs Improvement
 
 * **Description:** Everyone starts somewhere. Sometimes new chairs and team contacts may not have the experience or tools needed to push the group to consensus or encourage authors to progress documents. Finding ways to support these chairs is key. Leads to **[Scope Creep / Super-Spec](#scope-creep--super-spec)**, **[Incomplete Spec](#incomplete-spec)**, **[Never-Ending Discussion](#never-ending-discussion)**, **[Failed Spec](#failed-spec)**.
-* **Sufferers:** 
+* **Sufferers:**
 
 ### No Test
 
-* **Description:** It is generally felt that if a group brings in test cases, they are more likely to converge more quickly. Testing also helps implementation, interoperability, and aids the editors to understand how the spec will work within real world scenarios. If no tests exist it can lead to a **[Failed Spec](#failed-spec)**. 
+* **Description:** It is generally felt that if a group brings in test cases, they are more likely to converge more quickly. Testing also helps implementation, interoperability, and aids the editors to understand how the spec will work within real world scenarios. If no tests exist it can lead to a **[Failed Spec](#failed-spec)**.
 * **Sufferers:**
 
 ### Ineffective Incubation
@@ -88,12 +88,12 @@ Below is a list of common causes of issues experienced by working groups. It inc
 
 ### Not Understanding Spec Dependencies
 
-* **Description:** Some specs require an understanding of others or underlying technologies in order to be successfully implemented and used. For example, understanding WebIDL is important for certain spec development, in-depth understanding DOM may be crucial for others. Lack of understanding of these dependencies can lead to **[Failed Spec](#failed-spec)**. 
+* **Description:** Some specs require an understanding of others or underlying technologies in order to be successfully implemented and used. For example, understanding WebIDL is important for certain spec development, in-depth understanding DOM may be crucial for others. Lack of understanding of these dependencies can lead to **[Failed Spec](#failed-spec)**.
 * **Sufferers:**
 
 ### Lack of Consensus
 
-* **Description:** The group cannot come to a consensus on a topic. Can lead to **[Never-Ending Discussion](#never-ending-discussion)** and **[Incomplete Spec](#incomplete-spec)**. 
+* **Description:** The group cannot come to a consensus on a topic. Can lead to **[Never-Ending Discussion](#never-ending-discussion)** and **[Incomplete Spec](#incomplete-spec)**.
 * **Sufferers:** HTML 5.0
 
 ### Lack of Extensibility
@@ -104,16 +104,16 @@ Below is a list of common causes of issues experienced by working groups. It inc
 
 ### Anti-Privacy or Anti-Security
 
-* **Description:** The specification missed negative security or privacy implications. If the spec ever reaches standard status, implementers refuse to maintain it or developers refuse to use it as it puts their users at risk. Can lead to **[Failed Spec](#failed-spec)**. 
+* **Description:** The specification missed negative security or privacy implications. If the spec ever reaches standard status, implementers refuse to maintain it or developers refuse to use it as it puts their users at risk. Can lead to **[Failed Spec](#failed-spec)**.
 * **Sufferers:**
 
 ## Common Results
 
-Below is a list of issues which result from the causes outlined above. It includes scope creep, incomplete specs and lack of extensibility. Solutions are suggested. 
+Below is a list of issues which result from the causes outlined above. It includes scope creep, incomplete specs and lack of extensibility. Solutions are suggested.
 
 ### Scope Creep / Super-Spec
 
-* **Description:** A WG charter describes the scope of the standards to be completed within the WG during the charter period. Even so, due to many factors (such as **[Huge Impact](#Huge-Impact)** and   **[Spec/Innovation Race Condition](#specinnovation-race-condition)**) the scope of the spec begins to creep to include aspects that some members of the working group or public have expressed as important for the current working draft version of the spec. The specification becomes complicated and decisions on the new ideas are rushed.  
+* **Description:** A WG charter describes the scope of the standards to be completed within the WG during the charter period. Even so, due to many factors (such as **[Huge Impact](#huge-impact)** and   **[Spec/Innovation Race Condition](#specinnovation-race-condition)**) the scope of the spec begins to creep to include aspects that some members of the working group or public have expressed as important for the current working draft version of the spec. The specification becomes complicated and decisions on the new ideas are rushed.  
 * **Solution:** Can be solved by **[Versioning](#versioning)**, **[Extensibility](#extensibility)**, **[Drive to Ship](#drive-to-ship)**, **[Strong Leadership](#strong-leadership)**.
 
 ### Incomplete Spec
@@ -124,7 +124,7 @@ Below is a list of issues which result from the causes outlined above. It includ
 ### Never-Ending Discussion
 
 * **Description:** The working group has a tendency to constantly discuss issues without making decisions and moving forward. It is likely the group cannot reach consensus around a topic and so continues to discuss a topic without coming to a resolution. In other cases, the group may be turning into a “talking shop”; discussing key issues without taking action.  
-* **Solution:** Can be solved by **[Strong Leadership](#strong-leadership)**, **[Scope-Strict Charter](#Scope-Strict-Charter)**, **[Drive to Ship](#drive-to-ship)**, **[SMART](#smart)**. 
+* **Solution:** Can be solved by **[Strong Leadership](#strong-leadership)**, **[Scope-Strict Charter](#scope-strict-charter)**, **[Drive to Ship](#drive-to-ship)**, **[SMART](#smart)**.
 
 ### Failed Spec
 
@@ -141,7 +141,7 @@ A working group should have expertise in implementation and testing from through
 
 * Market / business and end-user needs in the area of the specification
 * Developers who produce content
-* Content production and management software, 
+* Content production and management software,
 * Developer-facing libraries like React, Dojo (there are many of these)
 * Consumption software - e.g. browsers or processors
 
@@ -179,7 +179,7 @@ Charter scope should be defined during the working group planning phase and shou
 
 ### SMART
 
-Objective should be SMART (this model is well known for a reason!). This means objectives, including standards deadlines and scopes should be Specific (well defined within the scope), Measurable (in W3C, this is most likely a completed standard with ''x'' number of implementations), Attainable (able to be achieved), Relevant (indicated by whether the industry, developers and implementers want this specification to exist) and Timely (within a defined and achievable time period). 
+Objective should be SMART (this model is well known for a reason!). This means objectives, including standards deadlines and scopes should be **Specific** (well defined within the scope), **Measurable** (in W3C, this is most likely a completed standard with ''x'' number of implementations), **Attainable** (able to be achieved), **Relevant** (indicated by whether the industry, developers and implementers want this specification to exist) and **Timely** (within a defined and achievable time period).
 
 ### Implementation
 
@@ -189,7 +189,7 @@ Specifications need implementation to complete the W3C process. Your working gro
 
 Working on specs is both difficult and time consuming. If there is no drive to complete work then the specifications will fail. Your group must have drive to complete its scoped work. This could come from:
 
-* Developer Community: developers express the need for a new specification to allow for functionality which does not exist on the web platform, or they wish for a current ill-defined spec to be altered. 
+* Developer Community: developers express the need for a new specification to allow for functionality which does not exist on the web platform, or they wish for a current ill-defined spec to be altered.
 * User Community: users are consuming a technology which is currently not built onto the web platform (e.g. VR)
 * Industry: drive from the affected industry to deliver new web functionality
 * Web End Point Innovation: a web end point, usually a browser vendor, develops key innovation which would benefit the web.
