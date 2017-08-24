@@ -8,18 +8,18 @@ Below is a list of links to key process documents and guides of which all workin
 * [Tips for Getting to Recommendation Faster](https://www.w3.org/2002/05/rec-tips)
 * [Recommendation Track Readiness Best Practices](https://www.w3.org/Guide/standards-track/)
 * [Predicting milestones](https://www.w3.org/Guide/predicting-milestones.html)
-* Additional information on spec advice in the [Guide](https://www.w3.org/Guide/#spec-advice)
-
-## w3.org Wikis
-Below is a list of w3.org wiki pages and locations of use to working group directors and working group members in producing effective working groups and work items.
-
 * For Chairs:
   * [Role of the Group Chair](https://www.w3.org/Guide/chair-roles.html)
   * [Guidance for Multiple Chairs](https://www.w3.org/wiki/MultipleChairs)
   * [On Chairing a group](https://www.w3.org/Guide/reagles-experiences.html)
 * For team contacts:
   * [Role of the Team Contact](https://www.w3.org/Guide/staff-contact.html)
+* Additional information on spec advice in the [Guide](https://www.w3.org/Guide/#spec-advice)
 
+## w3.org Wikis
+Below is a list of w3.org wiki pages and locations of use to working group directors and working group members in producing effective working groups and work items.
+
+* 
 
 ## Case Studies
 The below links are case studies for working groups researching their inividual issues in being effective or non effective.
