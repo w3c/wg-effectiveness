@@ -19,7 +19,8 @@ Below is a list of links to key process documents and guides of which all workin
 ## w3.org Wikis
 Below is a list of w3.org wiki pages and locations of use to working group directors and working group members in producing effective working groups and work items.
 
-* 
+* [Advisory Committee](https://www.w3.org/wiki/AdvisoryCommittee)
+* [2014 Member Survey](https://www.w3.org/wiki/2014MemberSurvey)
 
 ## Case Studies
 The below links are case studies for working groups researching their inividual issues in being effective or non effective.
