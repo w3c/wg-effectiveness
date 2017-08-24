@@ -21,16 +21,7 @@ First Call in September.
 
 ## Links to current chair/team resources:
 
-* [Recommendation Track Readiness Best Practices](https://www.w3.org/Guide/standards-track/)
-* [Tips for Getting to Recommendation Faster](https://www.w3.org/2002/05/rec-tips)
-* [Predicting milestones](https://www.w3.org/Guide/predicting-milestones.html)
-* For Chairs:
-  * [Role of the Group Chair](https://www.w3.org/Guide/chair-roles.html)
-  * [Guidance for Multiple Chairs](https://www.w3.org/wiki/MultipleChairs)
-  * [On Chairing a group](https://www.w3.org/Guide/reagles-experiences.html)
-* For team contacts:
-  * [Role of the Team Contact](https://www.w3.org/Guide/staff-contact.html)
-* Additional information in the [Guide](https://www.w3.org/Guide/#spec-advice)
+Now [https://github.com/w3c/wg-effectiveness/blob/master/current_wg_resources.md](here)
 
 ## Questions to ask chairs and key group members
 
