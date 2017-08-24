@@ -21,7 +21,7 @@ First Call in September.
 
 ## Links to current chair/team resources:
 
-Now [https://github.com/w3c/wg-effectiveness/blob/master/current_wg_resources.md](here)
+Now [here](current_wg_resources.md)
 
 ## Questions to ask chairs and key group members
 
