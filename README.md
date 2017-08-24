@@ -21,7 +21,7 @@ First Call in September.
 
 ## Links to current chair/team resources:
 
-Now [here](current_wg_resources.md)
+Now [here](current_wg_resources.md).
 
 ## Questions to ask chairs and key group members
 
