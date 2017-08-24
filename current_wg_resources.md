@@ -1,10 +1,11 @@
 # Current Working Group Resources
 This page is a list of all available working group resources available on the w3.org domain or externally.
 
-## Key Process Documents
+## Key Process Documents and Guides
 Below is a list of links to key process documents of which all working group chairs and members should be familar. 
 
 * [World Wide Web Consortium Process Document](https://www.w3.org/2017/Process-20170301/#charter-extension)
+* [Tips for Getting to Recommendation Faster](https://www.w3.org/2002/05/rec-tips)
 * [Recommendation Track Readiness Best Practices](https://www.w3.org/Guide/standards-track/)
 * [Predicting milestones](https://www.w3.org/Guide/predicting-milestones.html)
 * Additional information on spec advice in the [Guide](https://www.w3.org/Guide/#spec-advice)
@@ -12,7 +13,6 @@ Below is a list of links to key process documents of which all working group cha
 ## w3.org Wikis
 Below is a list of w3.org wiki pages and locations of use to working group directors and working group members in producing effective working groups and work items.
 
-* [Tips for Getting to Recommendation Faster](https://www.w3.org/2002/05/rec-tips)
 * For Chairs:
   * [Role of the Group Chair](https://www.w3.org/Guide/chair-roles.html)
   * [Guidance for Multiple Chairs](https://www.w3.org/wiki/MultipleChairs)
