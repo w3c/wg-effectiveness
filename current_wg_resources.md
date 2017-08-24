@@ -21,6 +21,7 @@ Below is a list of w3.org wiki pages and locations of use to working group direc
 
 * [Advisory Committee](https://www.w3.org/wiki/AdvisoryCommittee)
 * [2014 Member Survey](https://www.w3.org/wiki/2014MemberSurvey)
+* [Events](https://www.w3.org/wiki/E)
 
 ## Case Studies
 The below links are case studies for working groups researching their inividual issues in being effective or non effective.
