@@ -2,7 +2,7 @@
 This page is a list of all available working group resources available on the w3.org domain or externally.
 
 ## Key Process Documents and Guides
-Below is a list of links to key process documents of which all working group chairs and members should be familar. 
+Below is a list of links to key process documents and guides of which all working group chairs and members should be familar. 
 
 * [World Wide Web Consortium Process Document](https://www.w3.org/2017/Process-20170301/#charter-extension)
 * [Tips for Getting to Recommendation Faster](https://www.w3.org/2002/05/rec-tips)
