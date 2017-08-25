@@ -8,6 +8,7 @@ Below is a list of links to key process documents and guides of which all workin
 * [Tips for Getting to Recommendation Faster](https://www.w3.org/2002/05/rec-tips)
 * [Recommendation Track Readiness Best Practices](https://www.w3.org/Guide/standards-track/)
 * [Predicting milestones](https://www.w3.org/Guide/predicting-milestones.html)
+* [Scribing](https://www.w3.org/2008/04/scribe.html)
 * For Chairs:
   * [Role of the Group Chair](https://www.w3.org/Guide/chair-roles.html)
   * [Guidance for Multiple Chairs](https://www.w3.org/wiki/MultipleChairs)
@@ -19,9 +20,24 @@ Below is a list of links to key process documents and guides of which all workin
 ## w3.org Wikis
 Below is a list of w3.org wiki pages and locations of use to working group directors and working group members in producing effective working groups and work items.
 
-* [Advisory Committee](https://www.w3.org/wiki/AdvisoryCommittee)
 * [2014 Member Survey](https://www.w3.org/wiki/2014MemberSurvey)
+* [Advisory Committee](https://www.w3.org/wiki/AdvisoryCommittee)
+* [Community Groups](https://www.w3.org/wiki/CommunityGroups)
+* [Chair Training](https://www.w3.org/wiki/ChairTraining)
+* [DocumentReview](https://www.w3.org/wiki/DocumentReview)
 * [Events](https://www.w3.org/wiki/E)
+* [Guide/AllGetStarted](https://www.w3.org/wiki/Guide/AllGetStarted)
+* [Guide/GetStartedChair](https://www.w3.org/wiki/Guide/GetStartedChair)
+* [Guide/IPR](https://www.w3.org/wiki/Guide/IPR)
+* [Guide/Meetings](https://www.w3.org/wiki/Guide/Meetings)
+* [Guide/W3CGlossary - incomplete](https://www.w3.org/wiki/Guide/W3CGlossary)
+* [GuideDocDrafts - empty](https://www.w3.org/wiki/GuideDocDrafts)
+* [Guide/ProjectManagement](https://www.w3.org/wiki/Guide/ProjectManagement)
+* [Guide/InterestGroup](https://www.w3.org/wiki/Guide/InterestGroup)
+* []()
+* []()
+* []()
+* []()
 
 ## Case Studies
 The below links are case studies for working groups researching their inividual issues in being effective or non effective.
