@@ -17,6 +17,12 @@ Below is a list of links to key process documents and guides of which all workin
   * [Role of the Team Contact](https://www.w3.org/Guide/staff-contact.html)
 * Additional information on spec advice in the [Guide](https://www.w3.org/Guide/#spec-advice)
 
+## Tools Guides
+A list of links for working with W3C Tools (excluding wiki pages, which are in a further section below).
+
+* [W3C on GitHub](https://w3c.github.io/)
+* [Web Platform Tests on GitHub](https://github.com/w3c/web-platform-tests)
+
 ## w3.org Wikis
 Below is a list of w3.org wiki pages and locations of use to working group directors and working group members in producing effective working groups and work items.
 
@@ -26,6 +32,10 @@ Below is a list of w3.org wiki pages and locations of use to working group direc
 * [Chair Training](https://www.w3.org/wiki/ChairTraining)
 * [DocumentReview](https://www.w3.org/wiki/DocumentReview)
 * [Events](https://www.w3.org/wiki/E)
+* [Evolution/Terminology](https://www.w3.org/wiki/Evolution/Terminology)
+* []()
+* []()
+* []()
 * [Guide/AllGetStarted](https://www.w3.org/wiki/Guide/AllGetStarted)
 * [Guide/GetStartedChair](https://www.w3.org/wiki/Guide/GetStartedChair)
 * [Guide/IPR](https://www.w3.org/wiki/Guide/IPR)
@@ -34,10 +44,34 @@ Below is a list of w3.org wiki pages and locations of use to working group direc
 * [GuideDocDrafts - empty](https://www.w3.org/wiki/GuideDocDrafts)
 * [Guide/ProjectManagement](https://www.w3.org/wiki/Guide/ProjectManagement)
 * [Guide/InterestGroup](https://www.w3.org/wiki/Guide/InterestGroup)
+* [Guide/ContributeTest](https://www.w3.org/wiki/Guide/ContributeTest)
+* [Guide/NewWork](https://www.w3.org/wiki/Guide/NewWork)
+* [Guide/Publish](https://www.w3.org/wiki/Guide/Publish)
+* [Guide/TestSuites](https://www.w3.org/wiki/Guide/TestSuites)
+* [Guide/WorkingGroup](https://www.w3.org/wiki/Guide/WorkingGroup)
+* [GitHub](https://www.w3.org/wiki/GitHub)
+* [GettingStarted](https://www.w3.org/wiki/GettingStarted) - specific for Semantic Web
+* [HTML/Elements](https://www.w3.org/wiki/HTML/Elements)
+* [HTML/Learn](https://www.w3.org/wiki/HTML/Learn)
+* [HTML/Specifications](https://www.w3.org/wiki/HTML/Specifications)
+* [How does the Internet work](https://www.w3.org/wiki/How_does_the_Internet_work)
+* [IssueReport](https://www.w3.org/wiki/IssueReport)
+* [Languages](https://www.w3.org/wiki/Languages)
 * []()
 * []()
 * []()
 * []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* [Testing/Authoring/](https://www.w3.org/html/wg/wiki/Testing/Authoring/)
+* [Testing/Approval/](https://www.w3.org/html/wg/wiki/Testing/Approval/)
 
 ## Case Studies
 The below links are case studies for working groups researching their inividual issues in being effective or non effective.
