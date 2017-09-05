@@ -44,13 +44,37 @@ These questions and subsequent discussion should help us understand what needs t
 * Where is the current available information on how to participate in a WG, and how to progress a standard though the standard process?
 * Would clearer documentation assist the various types of attendee?
   * See below "Proposal for Easy to Read and Access Information for New and Existing Attendees"
+* Are meetings necessary?
+  * Is there a culture of teleconf schedules, and are they useful?
+* Are language and other cultural barriers an issue?
+  * what can be done to overcome these?
+* How does testing push or delay the standards process within WGs?
+  * What testing tools are available at present?
+  * Are these easy to use?
+* Would 
+* What other questions do you have?
 
 ## Proposal for Easy to Read and Access Information for New and Existing Attendees
 Documentation on how to participate in W3C WGs is split between multiple wikipages, github repos and emails. This means new members find difficulty in finding information as to how to participate and maybe give up trying. This proposal is a simple extension to one of the W3C sites (w3.org?) where all attendees can discover simple (and easily translated) documentation on how to be an affective W3C attendee.
 
 * Location: /participate
 * /participate/chair
-  * intructions on how to chair 
+  * Intructions on how to chair WGs including managing meetings, setting up the homepage, maintaining the wiki
+* /participate/scribe
+  * Instructions on how to scibe
+* /participate/meetings
+  * Instructions on how to setup and join meetings
+* /participate/irc
+  * Instructions on how to setup and use IRC
+* /participate/regional
+  * Guidance on where to go to receive regional support (e.g. Keio office for Japanese assistance)
+* /participate/teamcontact
+  * Guidance on the role of the team contact, and what to expect from them.
+
+## Proposal for Ombudsman for WGE
+An Ombudsman is an individual or set of individuals who can be approached anonymously to discuss something with which an attendee is concerned about. Standards bodies often have ombudsman for "code of conduct" related reasons. In this case, the Ombudsman will be available to discuss any WGE issues which may be occuring within a WG and with which that individual does not feel comfortable discussing openly. The Ombudsmand then takes action, with full coordination with the individual expressing the concern initially. 
+
+
 
 
 
