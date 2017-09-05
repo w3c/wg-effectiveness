@@ -7,7 +7,7 @@ Below is a list of links to key process documents and guides of which all workin
 * [World Wide Web Consortium Process Document](https://www.w3.org/2017/Process-20170301/#charter-extension)
 * [Tips for Getting to Recommendation Faster](https://www.w3.org/2002/05/rec-tips)
 * [Recommendation Track Readiness Best Practices](https://www.w3.org/Guide/standards-track/)
-* [Predicting milestones](https://www.w3.org/Guide/predicting-milestones.html)
+* [Predicting milestones](https://www.w3.org/Guide/predicting-milestones.html), [Milestones calculator](https://w3c.github.io/spec-releases/milestones/)
 * [Scribing](https://www.w3.org/2008/04/scribe.html)
 * For Chairs:
   * [Role of the Group Chair](https://www.w3.org/Guide/chair-roles.html)
