@@ -21,7 +21,9 @@ Below is a list of links to key process documents and guides of which all workin
 A list of links for working with W3C Tools (excluding wiki pages, which are in a further section below).
 
 * [W3C on GitHub](https://w3c.github.io/)
+  * [w3c/WebPlatformWG](https://github.com/w3c/WebPlatformWG/blob/gh-pages/Newbie.md)
 * [Web Platform Tests on GitHub](https://github.com/w3c/web-platform-tests)
+* [Test the Web Forward](http://testthewebforward.org/)
 
 ## w3.org Wikis
 Below is a list of w3.org wiki pages and locations of use to working group directors and working group members in producing effective working groups and work items.
@@ -69,15 +71,29 @@ Below is a list of w3.org wiki pages and locations of use to working group direc
 * [Process/faq](https://www.w3.org/wiki/Process/faq)
 * [QA](https://www.w3.org/wiki/QA)
 * [QATemplate](https://www.w3.org/wiki/QATemplate)
+* [QaFramework](https://www.w3.org/wiki/QaFramework)
 * [Project/](https://www.w3.org/wiki/Project/)
 * [Project Management Training](https://www.w3.org/wiki/Project_Management_Training)
-* []()
-* []()
-* []()
-* []()
-* []()
+* [Socialwg/Github Process](https://www.w3.org/wiki/Socialwg/Github_Process)
+* [Speaker Resources](https://www.w3.org/wiki/Speaker_Resources)
+* [Spec Advancement](https://www.w3.org/wiki/Spec_Advancement)
+* [Socialwg/Scribes](https://www.w3.org/wiki/Socialwg/scribes)
+* [RequirementsDocument](https://www.w3.org/wiki/RequirementsDocument)
+* [Resources about JavaScript and Node.js](https://www.w3.org/wiki/Resources_about_JavaScript_and_Node.js)
+* [TPAC/2015/FAQ](https://www.w3.org/wiki/TPAC2015/FAQ)
 * [Testing/Authoring/](https://www.w3.org/html/wg/wiki/Testing/Authoring/)
 * [Testing/Approval/](https://www.w3.org/html/wg/wiki/Testing/Approval/)
+* [Testing/Groups](https://www.w3.org/wiki/Testing/Groups)
+* [The web standards curriculum glossary](https://www.w3.org/wiki/The_web_standards_curriculum_glossary)
+* [The history of the Web](https://www.w3.org/wiki/The_history_of_the_Web)
+* [The web standards model - HTML CSS and JavaScript](https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript)
+* [W3CinPlainEnglish](https://www.w3.org/wiki/W3CinPlainEnglish)
+* [Your first look at JavaScript](https://www.w3.org/wiki/Your_first_look_at_JavaScript)
+* [Web Education Community Group](https://www.w3.org/community/webed/wiki/Main_Page)
+* [Validation101](https://www.w3.org/wiki/Validation101)
+* [W3c chinese members home](https://www.w3.org/wiki/W3c_chinese_members_home)
+* [VirtualWorkshop](https://www.w3.org/wiki/VirtualWorkshop)
+* [Zakim-SIP](https://www.w3.org/2006/tools/wiki/Zakim-SIP)
 
 ## Case Studies
 The below links are case studies for working groups researching their inividual issues in being effective or non effective.
