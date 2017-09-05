@@ -41,7 +41,14 @@ These questions and subsequent discussion should help us understand what needs t
   * could be answered by the [Common Standards Issues](https://github.com/w3c/wg-effectiveness/blob/master/CSI.md) document
   * if so, further work could be done to improve this document
   * Is that enough?
+* Are issues "common"?
+  * or - are WGs too different and experience different issues (therefore defining "common issues" is impossible)
 * Where is the current available information on how to participate in a WG, and how to progress a standard though the standard process?
+* What needs to different types of attendees have?
+* How do chairs impact the WG effectives?
+  * What can be done to support chairs?
+* How do team contacts impact the WG effectives?
+  * What can be done to support team contacts?
 * Would clearer documentation assist the various types of attendee?
   * See below "Proposal for Easy to Read and Access Information for New and Existing Attendees"
 * Are meetings necessary?
@@ -51,7 +58,6 @@ These questions and subsequent discussion should help us understand what needs t
 * How does testing push or delay the standards process within WGs?
   * What testing tools are available at present?
   * Are these easy to use?
-* Would 
 * What other questions do you have?
 
 ## Proposal for Easy to Read and Access Information for New and Existing Attendees
@@ -80,7 +86,12 @@ Documentation on how to participate in W3C WGs is split between multiple wikipag
 ## Proposal for Ombudsman for WGE
 An Ombudsman is an individual or set of individuals who can be approached anonymously to discuss something with which an attendee is concerned about. Standards bodies often have ombudsman for "code of conduct" related reasons. In this case, the Ombudsman will be available to discuss any WGE issues which may be occuring within a WG and with which that individual does not feel comfortable discussing openly. The Ombudsmand then takes action, with full coordination with the individual expressing the concern initially. 
 
-
+## Outcomes (to be agreed on)
+* [Common Standards Issues](https://github.com/w3c/wg-effectiveness/blob/master/CSI.md) Document
+* Ombudsman for WGE
+* New /participate guide (Easy to Read and Access Information for New and Existing Attendees)
+  * Update schedule 
+  * deletion of old information, guidance to chairs and team contacts that this new information must be uses
 
 
 
