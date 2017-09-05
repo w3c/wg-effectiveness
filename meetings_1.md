@@ -47,6 +47,7 @@ These questions and subsequent discussion should help us understand what needs t
 * What needs to different types of attendees have?
 * How do chairs impact the WG effectives?
   * What can be done to support chairs?
+  * How effective is the current chair training?
 * How do team contacts impact the WG effectives?
   * What can be done to support team contacts?
 * Would clearer documentation assist the various types of attendee?
@@ -64,6 +65,8 @@ These questions and subsequent discussion should help us understand what needs t
 Documentation on how to participate in W3C WGs is split between multiple wikipages, github repos and emails. This means new members find difficulty in finding information as to how to participate and maybe give up trying. This proposal is a simple extension to one of the W3C sites (w3.org?) where all attendees can discover simple (and easily translated) documentation on how to be an affective W3C attendee.
 
 * Location: /participate
+* /participate/process
+  * Explanation as to how the standards process works
 * /participate/chair
   * Intructions on how to chair WGs including managing meetings, setting up the homepage, maintaining the wiki
 * /participate/scribe
