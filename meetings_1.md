@@ -1,6 +1,6 @@
 # Working Group Effectiveness Task Force Meeting #1
 
-[minutes](https://www.w3.org/2017/09/05-wge-minutes.html)
+The [minutes](https://www.w3.org/2017/09/05-wge-minutes.html) of this call are available.
 
 ## Admin
 * Welcome
