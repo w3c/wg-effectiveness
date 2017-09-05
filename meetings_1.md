@@ -64,6 +64,12 @@ Documentation on how to participate in W3C WGs is split between multiple wikipag
   * Instructions on how to scibe
 * /participate/meetings
   * Instructions on how to setup and join meetings
+* /participate/author
+  * Guide on how to author a specification, including ReSpec or other spec making programs
+* /participate/contributor
+  * Guide on how to contribute to standards
+* /participate/github
+  * Guide on using github (other tools)
 * /participate/irc
   * Instructions on how to setup and use IRC
 * /participate/regional
