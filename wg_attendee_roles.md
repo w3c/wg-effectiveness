@@ -12,5 +12,7 @@ This list has been created to aid the Working Group Effectiveness Task Force in 
 * __Tester:__ a working group attendee who understands testing process and is or is able to work on tests for the specifications being worked on within the group.
 * __Security Expert:__ an expert on web security and the security impacts of the specifications being worked on in the working group.
 * __Privacy Expert:__ an expert on privacy on the web and the privacy impacts of the specifications being worked on in the working group.
+* __Accessibility Expert:__ an expert on accessibility on the web and cab give guidance on how the specifications being worked on in the working group can be improved to be accessible.
+* __Internationalisation Expert:__ an expert on internationalisation on the web and the how the specifications being worked on in the working group can improve to be developed with and consumed by as many users around the world as possible.
 * __Technology Enthusiasts:__ an attendee who neither works for an implementer or works with the technologies being specified, but is enthused about the working group chartered work and the web generally.
 * __Blockers:__ working group attendees who attempt to stop specification work for progressing.
