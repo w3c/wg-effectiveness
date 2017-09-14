@@ -35,6 +35,11 @@ Below is a list of common causes of issues experienced by working groups. It inc
 * **Description:** Two or more implementations exist, but the extent in which they differ mean one spec cannot meet both specifications. One or both implementations will need to adapt; this can lead to **[Never-Ending Discussion](#never-ending-discussion)** and **[Incomplete Spec](#incomplete-spec)**.
 * **Sufferers:** WebRTC
 
+### Existing Implementation
+
+* **Description:** An "Existing Implementation" exists, which may bring aspirational improvements to a spec in conflict with the implementor's resistance to change code/break sites already relying on the implementation. Leads to **[Scope Creep / Super-Spec](#scope-creep--super-spec)**, and **[Incomplete Spec](#incomplete-spec)**.  
+* **Sufferers:**
+
 ### No Implementation
 
 * **Description:** No implementation of the draft exists. Not only does this result in **[Incomplete Spec](#incomplete-spec)** but also results in **[Failed Spec](#failed-spec)** as when implementations do arise they’re not tested in real world scenarios and end up being phased out or not completed.  
