@@ -14,7 +14,7 @@ The group has agreed to work on the current outcomes.
 ### Common Standards Issues Document
 Continued development of the [Common Standards Issues](https://github.com/w3c/wg-effectiveness/blob/master/CSI.md) document.
 
-* Owner: Natasha
+Owner: Natasha
 
 ### Ombudsman for Working Group Effectiveness with Guidelines for Escalation
 W3C currently has team contacts who can be approached with issues related to working group effectivness. This team should be reviewed (possibly adding some non team contacts) and promoted within the W3C. The team should have guidelines on what happens when issues need to be escalated. The task force will need to work on a flow. 
