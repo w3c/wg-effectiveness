@@ -33,14 +33,18 @@ These questions and subsequent discussion should help us understand what needs t
 * How do team contacts impact the WG effectives?
   * What can be done to support team contacts?
 * Would clearer documentation assist the various types of attendee?
-  * See below "Proposal for Easy to Read and Access Information for New and Existing Attendees"
+  * /guide/ and /participate/
 * Are meetings necessary?
   * Is there a culture of teleconf schedules, and are they useful?
 * Are language and other cultural barriers an issue?
   * what can be done to overcome these?
+* How do tools impact the progress of the WG?
+  * How do groups use Github? Should this be standard?
+  * Payment Request uses "Future Candidate Request" and "CR-Exit" on issues to keep people aligned; should this process be promoted for all working groups? If so, how will other chairs knows how to use it?
 * How does testing push or delay the standards process within WGs?
   * What testing tools are available at present?
   * Are these easy to use?
+  * Are wg attendees able to work on testing? (See marcos's point)
 * What other questions do you have?
 
 ## Review /guide/
@@ -49,8 +53,9 @@ These questions and subsequent discussion should help us understand what needs t
 ## Outcomes (to be agreed on)
 * [Common Standards Issues](https://github.com/w3c/wg-effectiveness/blob/master/CSI.md) Document
 * Ombudsman for WGE (further promotion)
-* New /participate guide (Easy to Read and Access Information for New and Existing Attendees)
+* New /participate and updated /guide (Easy to Read and Access Information for New and Existing Attendees)
   * Update schedule 
   * deletion of old information, guidance to chairs and team contacts that this new information must be uses
+ 
 
 
