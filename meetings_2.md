@@ -1,9 +1,13 @@
 # Working Group Effectiveness Task Force Meeting #2
+IRC: #WGE
 
 ## Admin
 * Welcome
-* Agenda
 * Aim: decide on objectives of the group based on the questions and discussion in today's call.
+* Agenda
+
+# Issues
+Quick review of open github issues.
 
 ## New Documents
 * [updated README.md](README.md)
