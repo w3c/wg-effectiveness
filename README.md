@@ -23,12 +23,12 @@ W3C currently has team contacts who can be approached with issues related to wor
 
 ### Updated /guide (Easy to Read and Access Information for New and Existing Attendees)
   * Needs to include targetted information for:
-    * chairs
-    * participants
-    * implementers
+    ** chairs
+    ** participants
+    ** implementers
   * Re-organised so attendees can find information easily (this is an information architecture exercise)
   * Must include information on how to effectively use tools
-    * including the effective use of github
+    ** including the effective use of github
   * Updated look and feel - ask team who work on W3C spec design
   * Must include an update schedule
   
