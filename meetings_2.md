@@ -56,6 +56,6 @@ These questions and subsequent discussion should help us understand what needs t
 * New /participate and updated /guide (Easy to Read and Access Information for New and Existing Attendees)
   * Update schedule 
   * deletion of old information, guidance to chairs and team contacts that this new information must be uses
- 
+* Something to enable groups to work on better Testing
 
 
