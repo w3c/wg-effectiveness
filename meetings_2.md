@@ -6,6 +6,7 @@ IRC: #WGE
 * Aim: decide on objectives of the task force based on the questions and discussion in today's call.
 * Agenda
 * Marcos Caceres
+* Weekly call time
 
 # Issues
 Quick review of open github [issues](https://github.com/w3c/wg-effectiveness/issues).
