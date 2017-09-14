@@ -5,8 +5,8 @@
 * Agenda
 
 ## New Documents
-* [wg_attendee_roles.md](https://github.com/w3c/wg-effectiveness/blob/master/wg_attendee_roles.md)
-* [wg_effective.md](https://github.com/w3c/wg-effectiveness/blob/master/wg_effective.md)
+* [wg_attendee_roles.md](wg_attendee_roles.md)
+* [wg_effective.md](wg_effective.md)
 
 ## Further Questions to Answer
 These questions and subsequent discussion should help us understand what needs to be completed as part of the Task Force Activities. 
