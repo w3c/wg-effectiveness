@@ -11,17 +11,17 @@ For other goals of the task force, see the below "Expectations" seciton.
 ## Outcomes
 The group has agreed to work on the current outcomes. 
 
-### Common Standards Issues Document
+## Common Standards Issues Document
 Continued development of the [Common Standards Issues](https://github.com/w3c/wg-effectiveness/blob/master/CSI.md) document.
 
-Owner: Natasha
+__Owner: Natasha__
 
-### Ombudsman for Working Group Effectiveness with Guidelines for Escalation
+## Ombudsman for Working Group Effectiveness with Guidelines for Escalation
 W3C currently has team contacts who can be approached with issues related to working group effectivness. This team should be reviewed (possibly adding some non team contacts) and promoted within the W3C. The team should have guidelines on what happens when issues need to be escalated. The task force will need to work on a flow. 
 
-Owner: plh (suggested)
+__Owner: plh (suggested)__
 
-### Updated /guide (Easy to Read and Access Information for New and Existing Attendees)
+## Updated /guide (Easy to Read and Access Information for New and Existing Attendees)
 Updated guidance and information in an easy to find and access location for chairs, participants and implementers in how to work effectively in working groups. This information also needs regular assessing and updating as necessary. Currenly much of this information can be found in [https://www.w3.org/Guide/], this needs to be re-organised, redeisgned and must include:
 * information on how to effectively use tools
   * including the effective use of github
@@ -30,23 +30,23 @@ Updated guidance and information in an easy to find and access location for chai
 * Updated look and feel - ask team who work on W3C spec design
 
   
-Owners: (suggested)
+__Owners: (suggested)
 * Information Architecture: 
 * Effective Use of Github Info: DKA
 * Information for Chairs: Alan
-* Information for Participants: Natasha
+* Information for Participants: Natasha__
 
-### Testing
+## Testing
 Something to enable groups to work on better Testing (currently not defined) .
 
 Owner: 
 
-### Dedicated TPAC Sessions
-* Dedicated breakout sessions at TPAC will be both information giving and sharing sessions. Task Force members can inform chairs as to the new available tools and information. Chairs can share information on what has and has not worked for them in their respective groups. 
-* Task Force members should also have some one-to-one discussions with chairs to get some more insight into issues working groups have experiences and how they have dealt with these. 
-* Chairs breakfast presnetation. 
+## Chair Sessions
+Chair sessions including dedicated breakout sessions at TPAC which can be both information giving and sharing sessions. Task Force members can inform chairs as to the new available tools and information. Chairs can share information on what has and has not worked for them in their respective groups. TPAC usuaully has a chairs breakfast presentation, in which the Task Force can present its findings. 
 
-Owner:
+Task Force members should also have some one-to-one discussions with chairs to get some more insight into issues working groups have experiences and how they have dealt with these. 
+
+__Owner:__
 
 ## Expectations
 
