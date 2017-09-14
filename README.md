@@ -13,7 +13,7 @@ For other goals of the task force, see the below "Expectations" seciton.
 ## Outcomes
 The group has agreed to work on the current outcomes. 
 
-## Common Standards Issues Document
+### Common Standards Issues Document
 Continued development of the [Common Standards Issues](https://github.com/w3c/wg-effectiveness/blob/master/CSI.md) document.
 
 __Owner: Natasha__
