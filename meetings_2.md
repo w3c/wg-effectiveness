@@ -8,7 +8,7 @@ IRC: #WGE
 * Marcos Caceres
 
 # Issues
-Quick review of open github issues.
+Quick review of open github [issues](/issues).
 
 ## New Documents
 * [updated README.md](README.md)
