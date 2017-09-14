@@ -19,18 +19,16 @@ Continued development of the [Common Standards Issues](https://github.com/w3c/wg
 ### Ombudsman for Working Group Effectiveness with Guidelines for Escalation
 W3C currently has team contacts who can be approached with issues related to working group effectivness. This team should be reviewed (possibly adding some non team contacts) and promoted within the W3C. The team should have guidelines on what happens when issues need to be escalated. The task force will need to work on a flow. 
 
-* Owner: plh (suggested)
+Owner: plh (suggested)
 
 ### Updated /guide (Easy to Read and Access Information for New and Existing Attendees)
-* Needs to include targetted information for:
-  * chairs
-  * participants
-  * implementers
-* Re-organised so attendees can find information easily (this is an information architecture exercise)
-* Must include information on how to effectively use tools
+Updated guidance and information in an easy to find and access location for chairs, participants and implementers in how to work effectively in working groups. This information also needs regular assessing and updating as necessary. Currenly much of this information can be found in [https://www.w3.org/Guide/], this needs to be re-organised, redeisgned and must include:
+* information on how to effectively use tools
   * including the effective use of github
+* information for chairs, participants, implementers
+* information on testing
 * Updated look and feel - ask team who work on W3C spec design
-* Must include an update schedule
+
   
 Owners: (suggested)
 * Information Architecture: 
