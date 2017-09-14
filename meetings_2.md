@@ -1,6 +1,8 @@
 # Working Group Effectiveness Task Force Meeting #2
 IRC: #WGE
 
+[minutes](https://www.w3.org/2017/09/14-wge-minutes.html)
+
 ## Admin
 * Welcome
 * Aim: decide on objectives of the task force based on the questions and discussion in today's call.
