@@ -1,4 +1,4 @@
-# Current Working Group Resources
+  # Current Working Group Resources
 This page is a list of all available working group resources available on the w3.org domain or externally.
 
 ## Key Process Documents and Guides
@@ -48,7 +48,7 @@ Below is a list of w3.org wiki pages and locations of use to working group chair
 * [GitHub](https://www.w3.org/wiki/GitHub)
 * [IssueReport](https://www.w3.org/wiki/IssueReport)
 * [Languages](https://www.w3.org/wiki/Languages)
-* [ModernGuide](https://www.w3.org/wiki/ModernGuide)
+* [ModernGuide](https://www.w3.org/wiki/ModernGuide) (2013 attempt at modernizing the /Guide)
 * [Open web tool](https://www.w3.org/wiki/Open_web_tool)
 * [Mobile/New Participants](https://www.w3.org/wiki/Mobile/New_Participants)
 * [Mobile/Meetings](https://www.w3.org/wiki/Mobile/Meetings)
