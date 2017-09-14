@@ -5,6 +5,7 @@ IRC: #WGE
 * Welcome
 * Aim: decide on objectives of the group based on the questions and discussion in today's call.
 * Agenda
+* Marcos Caceres
 
 # Issues
 Quick review of open github issues.
