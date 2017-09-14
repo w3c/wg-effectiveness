@@ -40,9 +40,9 @@ __Owners: (suggested)__
 * Information for Participants: Natasha
 
 ### Testing
-Something to enable groups to work on better Testing (currently not defined) .
+Something to enable groups to work on better testing (currently not defined) .
 
-Owner: 
+__Owner: __
 
 ### Chair Sessions
 Chair sessions including dedicated breakout sessions at TPAC which can be both information giving and sharing sessions. Task Force members can inform chairs as to the new available tools and information. Chairs can share information on what has and has not worked for them in their respective groups. TPAC usuaully has a chairs breakfast presentation, in which the Task Force can present its findings. 
