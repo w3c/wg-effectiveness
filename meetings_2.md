@@ -8,7 +8,7 @@ IRC: #WGE
 * Marcos Caceres
 
 # Issues
-Quick review of open github [issues](/issues).
+Quick review of open github [issues](https://github.com/w3c/wg-effectiveness/issues).
 
 ## New Documents
 * [updated README.md](README.md)
