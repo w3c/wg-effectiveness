@@ -1,4 +1,6 @@
 # Working Group Effectiveness Task Force
+Weekly call time 1pm UTC on Thursdays. Natasha Rooney chairs.
+
 The Working Group Effectiveness Task Force is a W3C AB organised task force which aims to assess and work on solutions to improve working group effectiveness in W3C working groups. 
 
 The Task Force was setup after the assessment of some working groups which, although producing well used technologies, were not able to complete their chartered specifications on time. In response, the [Common Standards Issues](CSI.md) document was created, which aimed to help working groups identify issues affecting their progress, and help them solve these. The creation of the [Common Standards Issues](CSI.md) document lead to the creation of this Task Force. 
@@ -27,14 +29,15 @@ Updated guidance and information in an easy to find and access location for chai
   * including the effective use of github
 * information for chairs, participants, implementers
 * information on testing
+* information for new chairs and new attendees on how to get started within W3C (perhaps including welcome emails and welcome pack)
 * Updated look and feel - ask team who work on W3C spec design
 
   
-__Owners: (suggested)
+__Owners: (suggested)__
 * Information Architecture: 
 * Effective Use of Github Info: DKA
 * Information for Chairs: Alan
-* Information for Participants: Natasha__
+* Information for Participants: Natasha
 
 ## Testing
 Something to enable groups to work on better Testing (currently not defined) .
@@ -49,24 +52,9 @@ Task Force members should also have some one-to-one discussions with chairs to g
 __Owner:__
 
 ## Expectations
-
-* [ ] Review of current chair tools, welcome emails, resources
-* Working on resources for:
-  * [ ] New chairs (how to start a WG, how to run a WG)
-  * [ ] Tools for chairs to refer to when issues arrive in WGs
-  * [ ] Help in progressing standards resources
-* [Common Standards Issues](CSI.md) Document
-* For TPAC 2017:
-  * [ ] Breakout session, meet with the task force after the breakout session (no more than 2 hours)
-  * [ ] Chairs breakfast presentation
-* [ ] (Possibly) recommendations to AB on process improvements for Working Group effectiveness
-
 Timeline is to wrap up this Task Force at the end of November.
 
-First Call in September.
-
 ## Links to current chair/team resources:
-
 Now [here](current_wg_resources.md).
 
 ## Questions to ask chairs and key group members
