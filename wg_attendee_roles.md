@@ -19,3 +19,4 @@ This list has been created to aid the Working Group Effectiveness Task Force in 
 * __Late Arrivers:__ working group attendees who began participating in the working group late.
 * __AC Member:__ working group attendee who is also an AC member.
 * __Users:__ a working group attendee who understands interests of the users of the specification (in this case users means web-users, not developers working with the specification).
+* __Company Attendee:__ a working group attendee who represents a company which will be impacted or has a direct interest in the development of the technology within the specification or working group charter.
