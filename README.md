@@ -1,6 +1,11 @@
-# Working Group effectiveness Task Force
+# Working Group Effectiveness Task Force
+The Working Group Effectiveness Task Force is a W3C AB organised task force which aims to assess and work on solutions to improve working group effectiveness in W3C working groups. 
 
-Our main document: [Common Standards Issues](CSI.md)
+The Task Force was setup after the assessment of some working groups which, although producing well used technologies, were not able to complete their chartered specifications on time. In response, the [Common Standards Issues](CSI.md) document was created, which aimed to help working groups identify issues affecting their progress, and help them solve these. The creation of the [Common Standards Issues](CSI.md) document lead to the creation of this Task Force. 
+
+The Task Force is currently identifying [what makes a working group affective](wg_effective.md) and [attendee roles within a working group](wg_attendee_roles.md). Identifying these will allow the Task Force to give advice and create solutions which allow all working group attendees to contribute to successful working groups.
+
+For other goals of the task force, see the below "Expectations" seciton.
 
 ## Expectations
 
