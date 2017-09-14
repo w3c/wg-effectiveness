@@ -46,12 +46,9 @@ These questions and subsequent discussion should help us understand what needs t
 ## Review /guide/
 * Natasha quickly reviewed [/guide/](https://www.w3.org/Guide/)
 
-## Ombudsman for WGE Promotion
-* Does this need further promotion?
-
 ## Outcomes (to be agreed on)
 * [Common Standards Issues](https://github.com/w3c/wg-effectiveness/blob/master/CSI.md) Document
-* Ombudsman for WGE
+* Ombudsman for WGE (further promotion)
 * New /participate guide (Easy to Read and Access Information for New and Existing Attendees)
   * Update schedule 
   * deletion of old information, guidance to chairs and team contacts that this new information must be uses
