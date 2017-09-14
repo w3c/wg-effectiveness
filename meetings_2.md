@@ -6,7 +6,7 @@
 
 ## New Documents
 * [wg_attendee_roles.md](https://github.com/w3c/wg-effectiveness/blob/master/wg_attendee_roles.md)
-* [https://github.com/w3c/wg-effectiveness/blob/master/wg_effective.md](https://github.com/w3c/wg-effectiveness/blob/master/wg_effective.md)
+* [wg_effective.md](https://github.com/w3c/wg-effectiveness/blob/master/wg_effective.md)
 
 ## Further Questions to Answer
 These questions and subsequent discussion should help us understand what needs to be completed as part of the Task Force Activities. 
@@ -37,9 +37,10 @@ These questions and subsequent discussion should help us understand what needs t
 * What other questions do you have?
 
 ## Review /guide/
-
+* Natasha quickly reviewed [/guide/](https://www.w3.org/Guide/)
 
 ## Ombudsman for WGE Promotion
+* Does this need further promotion?
 
 ## Outcomes (to be agreed on)
 * [Common Standards Issues](https://github.com/w3c/wg-effectiveness/blob/master/CSI.md) Document
