@@ -22,17 +22,17 @@ W3C currently has team contacts who can be approached with issues related to wor
 * Owner: plh (suggested)
 
 ### Updated /guide (Easy to Read and Access Information for New and Existing Attendees)
-  * Needs to include targetted information for:
-    ** chairs
-    ** participants
-    ** implementers
-  * Re-organised so attendees can find information easily (this is an information architecture exercise)
-  * Must include information on how to effectively use tools
-    ** including the effective use of github
-  * Updated look and feel - ask team who work on W3C spec design
-  * Must include an update schedule
+* Needs to include targetted information for:
+  * chairs
+  * participants
+  * implementers
+* Re-organised so attendees can find information easily (this is an information architecture exercise)
+* Must include information on how to effectively use tools
+  * including the effective use of github
+* Updated look and feel - ask team who work on W3C spec design
+* Must include an update schedule
   
-* Owners: (suggested)
+Owners: (suggested)
 * Information Architecture: 
 * Effective Use of Github Info: DKA
 * Information for Chairs: Alan
@@ -41,14 +41,14 @@ W3C currently has team contacts who can be approached with issues related to wor
 ### Testing
 Something to enable groups to work on better Testing (currently not defined) .
 
-* Owner: 
+Owner: 
 
 ### Dedicated TPAC Sessions
-  * Dedicated breakout sessions at TPAC will be both information giving and sharing sessions. Task Force members can inform chairs as to the new available tools and information. Chairs can share information on what has and has not worked for them in their respective groups. 
-  * Task Force members should also have some one-to-one discussions with chairs to get some more insight into issues working groups have experiences and how they have dealt with these. 
-  * Chairs breakfast presnetation. 
+* Dedicated breakout sessions at TPAC will be both information giving and sharing sessions. Task Force members can inform chairs as to the new available tools and information. Chairs can share information on what has and has not worked for them in their respective groups. 
+* Task Force members should also have some one-to-one discussions with chairs to get some more insight into issues working groups have experiences and how they have dealt with these. 
+* Chairs breakfast presnetation. 
 
-* Owner:
+Owner:
 
 ## Expectations
 
