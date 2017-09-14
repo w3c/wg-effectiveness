@@ -7,6 +7,29 @@ The Task Force is currently identifying [what makes a working group affective](w
 
 For other goals of the task force, see the below "Expectations" seciton.
 
+
+## Outcomes
+The group has agreed to work on the current outcomes. 
+
+1. [Common Standards Issues](https://github.com/w3c/wg-effectiveness/blob/master/CSI.md) Document
+1. Ombudsman for Working Group Effectiveness with Guidelines for Escalation
+  * W3C currently has team contacts who can be approached with issues related to working group effectivness. This team should be reviewed (possibly adding some non team contacts) and promoted within the W3C
+  * The team should have guidelines on what happens when issues need to be escalated. The task force will need to work on a flow. 
+1. Updated /guide (Easy to Read and Access Information for New and Existing Attendees)
+  * Needs to include targetted information for:
+    * chairs
+    * participants
+    * implementers
+  * Re-organised so attendees can find information easily (this is an information architecture exercise)
+  * Must include information on how to effectively use tools
+  * Updated look and feel - ask team who work on W3C spec design
+  * Must include an update schedule
+1. Something to enable groups to work on better Testing
+1. Dedicated TPAC Sessions
+  * Dedicated sessions at TPAC will be both information giving and sharing sessions. Task Force members can inform chairs as to the new available tools and information. Chairs can share information on what has and has not worked for them in their respective groups. 
+  * Task Force members should also have some one-to-one discussions with chairs to get some more insight into issues working groups have experiences and how they have dealt with these. 
+
+
 ## Expectations
 
 * [ ] Review of current chair tools, welcome emails, resources
