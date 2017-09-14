@@ -3,8 +3,10 @@
 ## Admin
 * Welcome
 * Agenda
+* Aim: decide on objectives of the group based on the questions and discussion in today's call.
 
 ## New Documents
+* [updated README.md](README.md)
 * [wg_attendee_roles.md](wg_attendee_roles.md)
 * [wg_effective.md](wg_effective.md)
 
