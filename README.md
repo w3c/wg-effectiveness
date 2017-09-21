@@ -1,4 +1,4 @@
-New to this repo? Feel free to comment on and add [issues](https://github.com/w3c/wg-effectiveness/issues).
+_New to this repo? Feel free to comment on and add [issues](https://github.com/w3c/wg-effectiveness/issues)._
 
 # Working Group Effectiveness Task Force
 Weekly call time 1pm UTC on Thursdays. Natasha Rooney chairs.
