@@ -53,7 +53,7 @@ Below is a list of common symptoms of issues experienced by working groups. It i
 ### Author Lack
 
 * **Description:** No-one from the working group is willing or qualified to write the specification. Alternatively, no-one from the working group has time allowance to complete the spec. This leads to **[Incomplete Spec](#incomplete-spec)**.
-* **Sufferers:** Web and Mobile IG
+* **Sufferers:** 
 
 ### Expert Lack (including Implementer Lack)
 
@@ -63,7 +63,7 @@ Below is a list of common symptoms of issues experienced by working groups. It i
 ### Drive Lack
 
 * **Description:** In this situation the charter and scope of work may be well defined but there is no drive within the group to complete the work. This may be fuelled by **[Expert Lack](#expert-lack-including-implementer-lack)** and **[Leadership Needs Improvement](#leadership-needs-improvement)**. Leads to **[Incomplete Spec](#incomplete-spec)**, **[Never-Ending Discussion](#never-ending-discussion)**.
-* **Sufferers:** Web and Mobile IG
+* **Sufferers:**
 
 ### Perfectionism
 
