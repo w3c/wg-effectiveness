@@ -27,7 +27,7 @@ Below is a list of common symptoms of issues experienced by working groups. It i
 
 ### Tight Deadline
 
-* **Description:** The deadline set by the charter or by the editors and chairs is too restrictive. The time allowed does not allow for the standardisation process to complete, it does not allow for all of the experts to comment, or possibly even allow for the editor to complete the draft. This leads to **[Incomplete Spec](#incomplete-spec)**. Can be addressed with **[SMART](#smart)**, **[Strong Leadership](#strong-leadership)**.
+* **Description:** The deadline set by the charter or by the editors and chairs is too restrictive. The time allowed does not allow for the standardisation process to complete, it does not allow for all of the experts to comment, or possibly even allow for the editor to complete the draft. This leads to **[Incomplete Spec](#incomplete-spec)**. Can be addressed with **[SMART](#smart)**, **[Diplomatic Leadership](#strong-leadership)**.
 * **Sufferers:** WebRTC
 
 ### Clashing Implementation
@@ -119,17 +119,17 @@ Below is a list of issues which result from the symptoms outlined above. It incl
 ### Scope Creep / Super-Spec
 
 * **Description:** A WG charter describes the scope of the standards to be completed within the WG during the charter period. Even so, due to many factors (such as **[Huge Impact](#huge-impact)** and   **[Spec/Innovation Race Condition](#specinnovation-race-condition)**) the scope of the spec begins to creep to include aspects that some members of the working group or public have expressed as important for the current working draft version of the spec. The specification becomes complicated and decisions on the new ideas are rushed.  
-* **Solution:** Can be solved by **[Versioning](#versioning)**, **[Extensibility](#extensibility)**, **[Drive to Ship](#drive-to-ship)**, **[Strong Leadership](#strong-leadership)**.
+* **Solution:** Can be solved by **[Versioning](#versioning)**, **[Extensibility](#extensibility)**, **[Drive to Ship](#drive-to-ship)**, **[Diplomatic Leadership](#strong-leadership)**.
 
 ### Incomplete Spec
 
 * **Description:** The specification remains incomplete. Either the draft was not written, implementations were not built, tests were not conducted or the standards process did not complete (or has not completed).  
-* **Solution:** Can be solved with **[Expert Mix](#expert-mix)**, **[Strong Leadership](#strong-leadership)**, **[Scope-Strict Charter](#scope-strict-charter)**, **[Implementation](#implementation)**, **[Drive to Ship](#drive-to-ship)**, **[SMART](#smart)**.
+* **Solution:** Can be solved with **[Expert Mix](#expert-mix)**, **[Diplomatic Leadership](#strong-leadership)**, **[Scope-Strict Charter](#scope-strict-charter)**, **[Implementation](#implementation)**, **[Drive to Ship](#drive-to-ship)**, **[SMART](#smart)**.
 
 ### Never-Ending Discussion
 
 * **Description:** The working group has a tendency to constantly discuss issues without making decisions and moving forward. It is likely the group cannot reach consensus around a topic and so continues to discuss a topic without coming to a resolution. In other cases, the group may be turning into a “talking shop”; discussing key issues without taking action.  
-* **Solution:** Can be solved by **[Strong Leadership](#strong-leadership)**, **[Scope-Strict Charter](#scope-strict-charter)**, **[Drive to Ship](#drive-to-ship)**, **[SMART](#smart)**.
+* **Solution:** Can be solved by **[Diplomatic Leadership](#strong-leadership)**, **[Scope-Strict Charter](#scope-strict-charter)**, **[Drive to Ship](#drive-to-ship)**, **[SMART](#smart)**.
 
 ### Failed Spec
 
@@ -156,23 +156,23 @@ Working groups will be less likely to be unpleasantly surprised by horizontal re
 
 **Internationalisation**
 
-   These will be an important consideration for any specification dealing with user-facing components - interfaces or information ultimately presented to users.
+These will be an important consideration for any specification dealing with user-facing components - interfaces or information ultimately presented to users.
 
 **Architecture**
 
-   This is an important consideration for any specification. Inventing a new architecture imposes a significant barrier to developers learning to use the technology, and choices between existing architectural patterns can have significant consequences including for the other aspects mentioned here
+This is an important consideration for any specification. Inventing a new architecture imposes a significant barrier to developers learning to use the technology, and choices between existing architectural patterns can have significant consequences including for the other aspects mentioned here
 
 **Privacy**
 
 **Security**
 
-   These aspects should be reviewed for almost any specification from protocols to user interfaces - there are many ways to go wrong for one or both of these requirements in almost all areas of development.
+These aspects should be reviewed for almost any specification from protocols to user interfaces - there are many ways to go wrong for one or both of these requirements in almost all areas of development.
 
 In some cases a working group will also need regulation and policy expertise. For example payment is subject to strict and widely varied regulatory frameworks, so understanding that variety is important to develop technology that can be successfully deployed.
 
 It is helpful to have more than one perspective in any area where there is scope for different interpretation, rather than assuming a single embedded expert will always produce the right answer to a given question.
 
-### Strong Leadership
+### Diplomatic Leadership
 
 Effective leadership is key to a successful working group. Chairs should have technical understanding of their group's topic, they should have a drive to complete the work and the skills to encourage their group members to work on their scoped specifications. They should be organised and approachable. Chairs should also be fair and accepting of all groups members.
 
