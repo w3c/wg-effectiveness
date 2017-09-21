@@ -83,7 +83,7 @@ Below is a list of common symptoms of issues experienced by working groups. It i
 ### Ineffective Incubation
 
 * **Description:** New ideas for standards come from industry, implementers, developers and others. Incubation takes these ideas and preps them for standards work, by allowing some experts in W3C process and implementations to comment and guide new ideas. A lack of or incorrect incubation may lead to **[Incomplete Spec](#incomplete-spec)**, **[Never-Ending Discussion](#never-ending-discussion)**, **[Failed Spec](#failed-spec)**.
-* **Sufferers:** Verifiable Claims, AppCache
+* **Sufferers:** Verifiable Claims, AppCache, Payment Handler API
 * **Solution:** Early incubation through WICG or a dedicated Community Group which includes the right  **[Expert Mix](#expert-mix)**.
 
 ### SDO Collaboration
