@@ -13,8 +13,15 @@ For other goals of the task force, see the below "Expectations" seciton.
 ## Outcomes
 The group has agreed to work on the current outcomes. 
 
+### Process Changes
+Some discussion within this task force has suggested process changes. These decisions cannot be made by the group, but the group can work towards promoting these and aiding the wide discussion. These possible changes are:
+
+* Ensuring the process adheres to the "Shipping as a Feature" model (see #12)
+* Tests should be required in the process 
+* A testing section should be built into specs, showing testing has completed (also a process change)
+
 ### Common Standards Issues Document
-Continued development of the [Common Standards Issues](https://github.com/w3c/wg-effectiveness/blob/master/CSI.md) document.
+* Continued development of the [Common Standards Issues](https://github.com/w3c/wg-effectiveness/blob/master/CSI.md) document. * Introduction of a Triage Process for when things do go wrong.
 
 __Owner: Natasha__
 
@@ -32,6 +39,10 @@ Updated guidance and information in an easy to find and access location for chai
 * information for new chairs and new attendees on how to get started within W3C (perhaps including welcome emails and welcome pack)
 * Updated look and feel - ask team who work on W3C spec design
 
+#### Github
+The use of Github will be of large importance within this deliverable. The groups utilising Github properly have generally been working very effectively. Therefore, which should take great care in greating documentation on guidelines for using github.
+
+* Github guidelines mentione in: #12
   
 __Owners: (suggested)__
 * Information Architecture: 
@@ -40,7 +51,16 @@ __Owners: (suggested)__
 * Information for Participants: Natasha
 
 ### Testing
-Something to enable groups to work on better testing (currently not defined) .
+Something to enable groups to work on better testing (currently not defined).
+
+* Tests should be required in the process (see [process_changes])
+* A testing section should be built into specs, showing testing has completed (see [process_changes])
+* Detail types of tests that are required (e.g. interoperability, stress tests, security tests, etc - sad that this is evidence I know so little about tests)
+  * this should all go into /guide/
+* No Tests No Merge should become a Github rule for our tools / github related outputs
+* Possible ombudsman for testing.
+
+Testing is referenced in issues: #21
 
 __Owner:__
 
