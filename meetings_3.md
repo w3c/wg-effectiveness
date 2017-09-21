@@ -42,3 +42,6 @@ How do tools impact the progress of the WG? | Tools can drastically aid the effe
 ## Using Issues Going Forward
 * todo
 
+## AOB
+* Connecting with design and info infrastructure teams in W3C
+
