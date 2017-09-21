@@ -13,7 +13,7 @@ For other goals of the task force, see the below "Expectations" seciton.
 ## Outcomes
 The group has agreed to work on the current outcomes. 
 
-### Process Changes
+### [Process] Process Changes
 Some discussion within this task force has suggested process changes. These decisions cannot be made by the group, but the group can work towards promoting these and aiding the wide discussion. These possible changes are:
 
 * Ensuring the process adheres to the "Shipping as a Feature" model (see [#12](/../../issues/12))
