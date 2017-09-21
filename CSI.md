@@ -22,7 +22,7 @@ Below is a list of common symptoms of issues experienced by working groups. It i
 
 ### Spec/Implementation Race Condition
 
-* **Description:** In general specification and implementation operate in parallel at W3C. Sometimes implementations push further forward than the specification which may cause a specification to be lead by one implementation, or incite symptoms **[Assertive Implementers](#assertive-implementers)** and **[Assertive Experts](#assertive-experts)**. Leads to **[Never-Ending Discussion](#never-ending-discussion)**, **[Failed Spec](#failed-spec)**.
+* **Description:** In general specification and implementation operate in parallel at W3C. Sometimes implementations push further forward than the specification which may cause a specification to be lead by one implementation, or incite symptoms **[Overly Assertive Implementers](#overly-assertive-implementers)** and **[Overly Assertive Experts](#overly-assertive-experts)**. Leads to **[Never-Ending Discussion](#never-ending-discussion)**, **[Failed Spec](#failed-spec)**.
 * **Sufferers:** Web Component elements
 
 ### Tight Deadline
@@ -45,7 +45,7 @@ Below is a list of common symptoms of issues experienced by working groups. It i
 * **Description:** No implementation of the draft exists. Not only does this result in **[Incomplete Spec](#incomplete-spec)** but also results in **[Failed Spec](#failed-spec)** as when implementations do arise they’re not tested in real world scenarios and end up being phased out or not completed.  
 * **Sufferers:**
 
-### Assertive Implementers and Assertive Experts
+### Overly Assertive Implementers and Overly Assertive Experts
 
 * **Description:** In working groups across SDOs there are sometimes individuals who assert themselves over others. In this case either the Implementers or the Experts (or both, or individuals who are both implementers and experts) assert themselves firmly over others in the working group. This is not to say that their opinion is incorrect; but that the method of assertion may be too strong. Leads to **[Scope Creep / Super-Spec](#scope-creep--super-spec)**, **[Incomplete Spec](#incomplete-spec)**, **[Never-Ending Discussion](#never-ending-discussion)**.
 * **Sufferers:** Web Payments, Web Component elements
@@ -57,7 +57,7 @@ Below is a list of common symptoms of issues experienced by working groups. It i
 
 ### Expert Lack (including Implementer Lack)
 
-* **Description:** The Working Group suffers with a lack of understanding in one or more particular areas related to the technology being standardised, building the specification, the standards process, developer expectation or implementer expectation. Can incite other symptoms such as **[Clashing Implementation](#clashing-implementation)** or **[Assertive Implementers](#assertive-implementers)**. Leads to **[Failed Spec](#failed-spec)**.
+* **Description:** The Working Group suffers with a lack of understanding in one or more particular areas related to the technology being standardised, building the specification, the standards process, developer expectation or implementer expectation. Can incite other symptoms such as **[Clashing Implementation](#clashing-implementation)** or **[Overly Assertive Implementers](#overly-assertive-implementers)**. Leads to **[Failed Spec](#failed-spec)**.
 * **Sufferers:** PaymentRequest and subsequent specs.
 
 ### Drive Lack
