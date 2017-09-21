@@ -20,18 +20,18 @@ Some discussion within this task force has suggested process changes. These deci
 * Tests should be required in the process 
 * A testing section should be built into specs, showing testing has completed (also a process change)
 
-### Common Standards Issues Document
+### [CSI] Common Standards Issues Document and Triage Process
 * Continued development of the [Common Standards Issues](https://github.com/w3c/wg-effectiveness/blob/master/CSI.md) document.
 * Introduction of a Triage Process for when things do go wrong.
 
 __Owner: Natasha__
 
-### Ombudsman for Working Group Effectiveness with Guidelines for Escalation
+### [Ombudsman] Ombudsman for Working Group Effectiveness with Guidelines for Escalation
 W3C currently has team contacts who can be approached with issues related to working group effectivness. This team should be reviewed (possibly adding some non team contacts) and promoted within the W3C. The team should have guidelines on what happens when issues need to be escalated. The task force will need to work on a flow. 
 
 __Owner: plh (suggested)__
 
-### Updated /guide (Easy to Read and Access Information for New and Existing Attendees)
+### [Guide & Github] Updated /guide (Easy to Read and Access Information for New and Existing Attendees)
 Updated guidance and information in an easy to find and access location for chairs, participants and implementers in how to work effectively in working groups. This information also needs regular assessing and updating as necessary. Currenly much of this information can be found in [https://www.w3.org/Guide/], this needs to be re-organised, redeisgned and must include:
 * information on how to effectively use tools
   * including the effective use of github
@@ -51,7 +51,7 @@ __Owners: (suggested)__
 * Information for Chairs: Alan
 * Information for Participants: Natasha
 
-### Testing
+### [Testing] Testing
 Something to enable groups to work on better testing (currently not defined).
 
 * Tests should be required in the process (see [process_changes])
@@ -65,7 +65,7 @@ Testing is referenced in issues: #21
 
 __Owner:__
 
-### Chair Sessions
+### [Chair Train] Chair Guidance and Sessions
 Chair sessions including dedicated breakout sessions at TPAC which can be both information giving and sharing sessions. Task Force members can inform chairs as to the new available tools and information. Chairs can share information on what has and has not worked for them in their respective groups. TPAC usuaully has a chairs breakfast presentation, in which the Task Force can present its findings. 
 
 Task Force members should also have some one-to-one discussions with chairs to get some more insight into issues working groups have experiences and how they have dealt with these. 
