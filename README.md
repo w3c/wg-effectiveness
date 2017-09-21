@@ -16,12 +16,13 @@ The group has agreed to work on the current outcomes.
 ### Process Changes
 Some discussion within this task force has suggested process changes. These decisions cannot be made by the group, but the group can work towards promoting these and aiding the wide discussion. These possible changes are:
 
-* Ensuring the process adheres to the "Shipping as a Feature" model (see [#12])
+* Ensuring the process adheres to the "Shipping as a Feature" model (see [#12](/../../issues/12))
 * Tests should be required in the process 
 * A testing section should be built into specs, showing testing has completed (also a process change)
 
 ### Common Standards Issues Document
-* Continued development of the [Common Standards Issues](https://github.com/w3c/wg-effectiveness/blob/master/CSI.md) document. * Introduction of a Triage Process for when things do go wrong.
+* Continued development of the [Common Standards Issues](https://github.com/w3c/wg-effectiveness/blob/master/CSI.md) document.
+* Introduction of a Triage Process for when things do go wrong.
 
 __Owner: Natasha__
 
@@ -42,7 +43,7 @@ Updated guidance and information in an easy to find and access location for chai
 #### Github
 The use of Github will be of large importance within this deliverable. The groups utilising Github properly have generally been working very effectively. Therefore, which should take great care in greating documentation on guidelines for using github.
 
-* Github guidelines mentione in: #12
+* Github guidelines mentione in: [#21](/../../issues/21)
   
 __Owners: (suggested)__
 * Information Architecture: 
