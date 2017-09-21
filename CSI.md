@@ -112,6 +112,11 @@ Below is a list of common symptoms of issues experienced by working groups. It i
 * **Description:** The specification missed negative security or privacy implications. If the spec ever reaches standard status, implementers refuse to maintain it or developers refuse to use it as it puts their users at risk. Can lead to **[Failed Spec](#failed-spec)**.
 * **Sufferers:**
 
+### Blocked
+
+* **Description:** An organisation or attendee blocks the development of a specification through various means. This could be by continued discussion, incorrect assumptions, or raising impossible targets. Another kind of blocker could wish for the working group to produce specifications, but only with their particular view. They are not open to collaboration and compromise. Finding a way to leverage their passion without disrupting the group can be very challenging. This may lead to **[Scope Creep / Super-Spec](#scope-creep--super-spec)**, **[Never-Ending Discussion](#never-ending-discussion)**, **[Incomplete Spec](#incomplete-spec)** and **[Failed Spec](#failed-spec)**.
+* **Sufferers:**
+
 ## Common Results
 
 Below is a list of issues which result from the symptoms outlined above. It includes scope creep, incomplete specs and lack of extensibility. Solutions are suggested.
