@@ -3,7 +3,7 @@ IRC: #WGE
 
 ## Admin
 * Welcome
-* Aim: 
+* Aim: Agree on outcomes and responsible individuals. Cover any key questions which may not be answered by our outcomes. 
 * Agenda
 
 ## Outcomes 
