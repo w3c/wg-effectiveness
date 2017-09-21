@@ -16,7 +16,7 @@ The group has agreed to work on the current outcomes.
 ### Process Changes
 Some discussion within this task force has suggested process changes. These decisions cannot be made by the group, but the group can work towards promoting these and aiding the wide discussion. These possible changes are:
 
-* Ensuring the process adheres to the "Shipping as a Feature" model (see [/issues/12])
+* Ensuring the process adheres to the "Shipping as a Feature" model (see [#12])
 * Tests should be required in the process 
 * A testing section should be built into specs, showing testing has completed (also a process change)
 
