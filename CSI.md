@@ -1,18 +1,18 @@
 # Common Standards Issues
 
-This page details some common issues working groups may experience when working on standards. The document lists "causes" of issues, a "result" of these causes (which are the core issues experienced), and ways to solve these by defining a list of qualities for a "Successful Working Group".
+This page details some common issues working groups may experience when working on standards. The document lists "symptoms" of issues, a "result" of these symptoms (which are the core issues experienced), and ways to solve these by defining a list of qualities for a "Successful Working Group".
 
 ## For Readers (Chairs, Editors, Implementers and WG Members)
 
-If you are visiting this page you may be experiencing some issues with progressing or completing the standards defined in your group's charter or you're being extra prudent to make sure issues do not happen within your currently well-working working group! In any case, to use this document go to the [Common Causes](#common-causes) section and see what causes you or others have experienced a working group. The [Common Causes](#common-causes) have related [Common Results](#common-results) which can be serious issues which affect the performance of a working group. Some advice on how to solve or avoid these causes and issues is given in the [Defining a Successful Working Group](#defining-a-successful-working-group) section.
+If you are visiting this page you may be experiencing some issues with progressing or completing the standards defined in your group's charter or you're being extra prudent to make sure issues do not happen within your currently well-working working group! In any case, to use this document go to the [Common Symptoms](#common-symptoms) section and see what symptoms you or others have experienced a working group. The [Common Symptoms](#common-symptoms) have related [Common Results](#common-results) which can be serious issues which affect the performance of a working group. Some advice on how to solve or avoid these symptoms and issues is given in the [Defining a Successful Working Group](#defining-a-successful-working-group) section.
 
-## Common Causes
+## Common Symptoms
 
-Below is a list of common causes of issues experienced by working groups. It includes working group member imbalance, lack of experts, perfectionism and lack of drive. The results are explained in **[Common Results](#common-results)**.
+Below is a list of common symptoms of issues experienced by working groups. It includes working group member imbalance, lack of experts, perfectionism and lack of drive. The results are explained in **[Common Results](#common-results)**.
 
 ### Huge Impact
 
-* **Description:** The technology being standardised has a huge impact on the web and industry. Or, the hype around the impact of the technology is extremely high inducing blog posts, speakers referencing the technology at large events, impacts corporate strategy or even news articles. This places a large burden on the standardisation effort. This can lead to further causes such as **[Perfectionism](#perfectionism)** and **[Tight Deadline](#tight-deadline)**. Leads to **[Scope Creep / Super-Spec](#scope-creep--super-spec)**, **[Incomplete Spec](#incomplete-spec)**, **[Never-Ending Discussion](#never-ending-discussion)**.
+* **Description:** The technology being standardised has a huge impact on the web and industry. Or, the hype around the impact of the technology is extremely high inducing blog posts, speakers referencing the technology at large events, impacts corporate strategy or even news articles. This places a large burden on the standardisation effort. This can lead to further symptoms such as **[Perfectionism](#perfectionism)** and **[Tight Deadline](#tight-deadline)**. Leads to **[Scope Creep / Super-Spec](#scope-creep--super-spec)**, **[Incomplete Spec](#incomplete-spec)**, **[Never-Ending Discussion](#never-ending-discussion)**.
 * **Sufferers:** WebRTC, ServiceWorker
 
 ### Spec/Innovation Race Condition
@@ -22,7 +22,7 @@ Below is a list of common causes of issues experienced by working groups. It inc
 
 ### Spec/Implementation Race Condition
 
-* **Description:** In general specification and implementation operate in parallel at W3C. Sometimes implementations push further forward than the specification which may cause a specification to be lead by one implementation, or incite causes **[Assertive Implementers](#assertive-implementers)** and **[Assertive Experts](#assertive-experts)**. Leads to **[Never-Ending Discussion](#never-ending-discussion)**, **[Failed Spec](#failed-spec)**.
+* **Description:** In general specification and implementation operate in parallel at W3C. Sometimes implementations push further forward than the specification which may cause a specification to be lead by one implementation, or incite symptoms **[Assertive Implementers](#assertive-implementers)** and **[Assertive Experts](#assertive-experts)**. Leads to **[Never-Ending Discussion](#never-ending-discussion)**, **[Failed Spec](#failed-spec)**.
 * **Sufferers:** Web Component elements
 
 ### Tight Deadline
@@ -57,7 +57,7 @@ Below is a list of common causes of issues experienced by working groups. It inc
 
 ### Expert Lack (including Implementer Lack)
 
-* **Description:** The Working Group suffers with a lack of understanding in one or more particular areas related to the technology being standardised, building the specification, the standards process, developer expectation or implementer expectation. Can incite other causes such as **[Clashing Implementation](#clashing-implementation)** or **[Assertive Implementers](#assertive-implementers)**. Leads to **[Failed Spec](#failed-spec)**.
+* **Description:** The Working Group suffers with a lack of understanding in one or more particular areas related to the technology being standardised, building the specification, the standards process, developer expectation or implementer expectation. Can incite other symptoms such as **[Clashing Implementation](#clashing-implementation)** or **[Assertive Implementers](#assertive-implementers)**. Leads to **[Failed Spec](#failed-spec)**.
 * **Sufferers:** PaymentRequest and subsequent specs.
 
 ### Drive Lack
@@ -114,7 +114,7 @@ Below is a list of common causes of issues experienced by working groups. It inc
 
 ## Common Results
 
-Below is a list of issues which result from the causes outlined above. It includes scope creep, incomplete specs and lack of extensibility. Solutions are suggested.
+Below is a list of issues which result from the symptoms outlined above. It includes scope creep, incomplete specs and lack of extensibility. Solutions are suggested.
 
 ### Scope Creep / Super-Spec
 
@@ -133,7 +133,7 @@ Below is a list of issues which result from the causes outlined above. It includ
 
 ### Failed Spec
 
-* **Description:** A specification can be classed as failed if it is [1] never implemented or has few implementations, [2] never or little used by developers, [3] becomes confusing for developers and implementers to work with and support, and [4] causes other issues to cause an implementer to cease support for the standard. This is not an exhaustive list. Effectively a **[Failed Spec](#failed-spec)** is one which is not used, not understood and / or not safe.  
+* **Description:** A specification can be classed as failed if it is [1] never implemented or has few implementations, [2] never or little used by developers, [3] becomes confusing for developers and implementers to work with and support, and [4] symptoms other issues to cause an implementer to cease support for the standard. This is not an exhaustive list. Effectively a **[Failed Spec](#failed-spec)** is one which is not used, not understood and / or not safe.  
 * **Solution:** Can be solved by all **[Defining a Successful Working Group](#defining-a-successful-working-group)** points.
 
 ## Defining a Successful Working Group
