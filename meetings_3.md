@@ -44,4 +44,6 @@ How do tools impact the progress of the WG? | Tools can drastically aid the effe
 
 ## AOB
 * Connecting with design and info infrastructure teams in W3C
+* Labels in Github
+* Weekly call time
 
