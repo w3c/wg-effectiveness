@@ -9,4 +9,8 @@ W3C is not currently incorporated. For legal contracts, W3C is represented by fo
 
 * Can a member organisation have more than one employee on the AB or TAG?
 * How does the voting system work?
+* How is consensus measured within W3C?
 
+https://w3c.github.io/w3process/#Consensus
+
+* 

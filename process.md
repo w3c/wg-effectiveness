@@ -88,6 +88,8 @@ For more information on TAG members, terms, election process and responsibilitie
 
 # W3C Interest and Working Groups
 
+Interest and Working Groups work to gain consensus on particular topics and issues related to specification development. To understand how consensus works in the W3C please see the [W3C Process Document](https://w3c.github.io/w3process/#Consensus). 
+
 ## Participants
 Participants in Interest and Working Groups should be technically capable, fair and confident to speak and interact with others in the group. AC members nominate people within their organisation to participate within groups (in some cases an AC member may be able to [nominate someone from outside their organisation](https://w3c.github.io/w3process/#member-rep)).
 
@@ -96,7 +98,13 @@ For more information on members including dismisal processes see the [W3C Proces
 A Conflict of Interest Policy exists which instructs participants on how to disclose any conflict of interest a participant may have with the W3C and / or group work. See the [W3C Process Document](https://w3c.github.io/w3process/#coi) for more information.
 
 ## Meetings
+Meetings can either be face-to-face or "distributed" (via teleconference, IRC and / or video conferencing). Meeting announcements are sent on Interest or Working Group mailing lists.
 
+Typically meetings are only open to group participants. Sometimes a meeting guest will be invited, this guest will not have voting rights. 
+
+Face-to-face meetings should be announced eight weeks before the meeting, distributed meetings one week before. 
+
+For more information on meetings please see the [W3C Process Document](https://w3c.github.io/w3process/#GeneralMeetings).
 
 
 
