@@ -8,7 +8,10 @@ IRC: #WGE
 
 ## Outcomes 
 * See [README.md](https://github.com/w3c/wg-effectiveness/) 
-* Is this enough?
+* Is this scope-strict!?
+* Phase Suggestion:
+  * Phase 1: [Guide & Github], [Testing], [Chair Train] 
+  * Phase 2: [CSI], [Process], [Ombudsman]
 
 ## Further Questions to Answer
 These questions and subsequent discussion should help us understand what needs to be completed as part of the Task Force Activities. Questions which have been discusses and covered by an outcome can be seen in the "Discussed" section below.
@@ -39,12 +42,19 @@ How do chairs impact the WG effectiveness? | Chairs have a large impact on the e
 How effective is the current chair training? | Need to assess this at next TPAC with dedicated discussions with chairs | Chair Sessions
 How do tools impact the progress of the WG? | Tools can drastically aid the effectiveness of working groups within W3C. However, not all groups understand how to use them. New easy to find and read guides should be published as to how to effectively use tools to aid working group effectiveness | Updated /guide
 
-## Using Issues Going Forward
-* todo
+## Github By Default
+* Decision was to give guidelines for using github but not require WGs to use it.
+
+## Going Forward
+* Github
+  * Labels in Github
+  * Issues
 
 ## AOB
+* Video tutorials
 * Connecting with design and info infrastructure teams in W3C
 * International Experts
-* Labels in Github
+* Super groups, sub groups
+* [Attendee Roles](https://github.com/w3c/wg-effectiveness/blob/master/wg_attendee_roles.md) has changed. Agree with changes?!
 * Weekly call time
 
