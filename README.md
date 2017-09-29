@@ -15,25 +15,9 @@ For other goals of the task force, see the below "Expectations" seciton.
 [AutomatedTester](https://github.com/AutomatedTester), [dontcallmedom](https://github.com/dontcallmedom), [torgo](https://github.com/torgo), [astearns](https://github.com/astearns), [plehegar](https://github.com/plehegar) (**team contact**), [nrooney](https://github.com/nrooney) (**chair**), [jeffjaffe](https://github.com/jeffjaffe), [marcoscaceres](https://github.com/marcoscaceres), Paul Cotton
 
 ## Outcomes
-The group has agreed to work on the current outcomes. 
+The group has agreed to work on the current outcomes. We have a number of outcomes, so a Phase 1 and a Phase 2 has been agreed.
 
-### [Process] Process Changes
-Some discussion within this task force has suggested process changes. These decisions cannot be made by the group, but the group can work towards promoting these and aiding the wide discussion. These possible changes are:
-
-* Ensuring the process adheres to the "Shipping as a Feature" model (see [#12](/../../issues/12))
-* Tests should be required in the process 
-* A testing section should be built into specs, showing testing has completed (also a process change)
-
-### [CSI] Common Standards Issues Document and Triage Process
-* Continued development of the [Common Standards Issues](https://github.com/w3c/wg-effectiveness/blob/master/CSI.md) document.
-* Introduction of a Triage Process for when things do go wrong.
-
-__Owner: Natasha__
-
-### [Ombudsman] Ombudsman for Working Group Effectiveness with Guidelines for Escalation
-W3C currently has team contacts who can be approached with issues related to working group effectivness. This team should be reviewed (possibly adding some non team contacts) and promoted within the W3C. The team should have guidelines on what happens when issues need to be escalated. The task force will need to work on a flow. 
-
-__Owner: plh (suggested)__
+### Phase 1
 
 ### [Guide & Github] Updated /guide (Easy to Read and Access Information for New and Existing Attendees)
 Updated guidance and information in an easy to find and access location for chairs, participants and implementers in how to work effectively in working groups. This information also needs regular assessing and updating as necessary. Currenly much of this information can be found in [https://www.w3.org/Guide/], this needs to be re-organised, redeisgned and must include:
@@ -75,6 +59,28 @@ Chair sessions including dedicated breakout sessions at TPAC which can be both i
 Task Force members should also have some one-to-one discussions with chairs to get some more insight into issues working groups have experiences and how they have dealt with these. 
 
 __Owner:__
+
+### Phase 2
+
+### [Process] Process Changes
+Some discussion within this task force has suggested process changes. These decisions cannot be made by the group, but the group can work towards promoting these and aiding the wide discussion. These possible changes are:
+
+* Ensuring the process adheres to the "Shipping as a Feature" model (see [#12](/../../issues/12))
+* Tests should be required in the process 
+* A testing section should be built into specs, showing testing has completed (also a process change)
+
+### [CSI] Common Standards Issues Document and Triage Process
+* Continued development of the [Common Standards Issues](https://github.com/w3c/wg-effectiveness/blob/master/CSI.md) document.
+* Introduction of a Triage Process for when things do go wrong.
+
+__Owner: Natasha__
+
+### [Ombudsman] Ombudsman for Working Group Effectiveness with Guidelines for Escalation
+W3C currently has team contacts who can be approached with issues related to working group effectivness. This team should be reviewed (possibly adding some non team contacts) and promoted within the W3C. The team should have guidelines on what happens when issues need to be escalated. The task force will need to work on a flow. 
+
+__Owner: plh (suggested)__
+
+
 
 ## Expectations
 Timeline is to wrap up this Task Force at the end of November.
