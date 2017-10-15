@@ -14,10 +14,15 @@ This document breaks down the 2018 W3C Process. This text can be included in the
 * __Charter Development__: the Interest / Working Group proponents work on the new group charter with a W3C team member.
 * __Member Review__: W3C members review the charter, and give feedback.
 * __Director Approval__: the Director approves the creation of the Interest / Working Group.
+* __Call For Participation__: the Director calls for participation in the newly formed group.
 
 Each Working Group and Interest Group will be supported by at least one [W3C team member](#). Group participants are usually [Member Represenatives](#) although [Invited Experts](#) may also be able to join groups.
 
 For more information, please see the [W3C Process Document](https://w3c.github.io/w3process/#introduction).
+
+### Group Extensions
+
+@todo 
 
 # Understanding W3C Participants
 W3C has a number of participants. Below is a list of these and their roles.
@@ -104,11 +109,22 @@ A group sometimes will have **Task Forces** which carry our assignments which ar
 For more information on groups see the [W3C Process Document](https://w3c.github.io/w3process/#ChapterGroups).
 
 ## Participants
-Participants in Interest and Working Groups should be technically capable, fair and confident to speak and interact with others in the group. AC members nominate people within their organisation to participate within groups (in some cases an AC member may be able to [nominate someone from outside their organisation](https://w3c.github.io/w3process/#member-rep)).
+Participants in Interest and Working Groups should be technically capable, fair and confident to speak and interact with others in the group. There are four types of group participant; all can participate in an Interest Group, all but ***public participants*** can participate in a Working Group.
 
-For more information on members including dismisal processes see the [W3C Process Document](https://w3c.github.io/w3process/#ParticipationCriteria).
+* **Member Representatives**: An individual representative from a W3C member oragnisation. AC members nominate people within their organisation to participate within groups (in some cases an AC member may be able to [nominate someone from outside their organisation](https://w3c.github.io/w3process/#member-rep)).
+* **Invited Experts**: an individual with valuable expertise to a group and is not an employee of a W3C Member. [Detailed rules](https://w3c.github.io/w3process/#group-participation) apply for becoming an Invited Expert. 
+* **Team Representatives**: staff members of W3C. Team members can be a Team Contact or a regular participant of a group. 
+* **Public Participants**: members of the public. Cannot be Working Group participants. 
+
+For more information on members including dismisal processes see the W3C Process Document on [Participation Criteria](https://w3c.github.io/w3process/#ParticipationCriteria) and [Group Participation](https://w3c.github.io/w3process/#group-participation).
 
 A Conflict of Interest Policy exists which instructs participants on how to disclose any conflict of interest a participant may have with the W3C and / or group work. See the [W3C Process Document](https://w3c.github.io/w3process/#coi) for more information.
+
+### Participation by Proxy
+Group participants can sometimes send people in their place when unable to attend themselves. Rules for this are detailed in the [W3C Process Document](https://w3c.github.io/w3process/#group-participation).
+
+### Group Size
+Working Groups work best when composed of a small number of experts. Interest Groups can often be larger. To find out more on group size and possible splitting of larger groups please see the [W3C Process Document](https://w3c.github.io/w3process/#group-participation).
 
 ## Meetings
 Meetings can either be face-to-face or "distributed" (via teleconference, IRC and / or video conferencing). Meeting announcements are sent on Interest or Working Group mailing lists.
