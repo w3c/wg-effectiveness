@@ -4,6 +4,13 @@ This document breaks down the 2018 W3C Process. This text can be included in the
 # Terms
 * __W3C Recommendation__: W3C standards are referred to as "W3C Recommendations".
 * __Technical Reports__:
+* __Reccomendation Track__:
+Adopted Working Draft
+eference Draft
+Candidate Recommendation
+Other Charter
+
+The Reference Draft is the latest Working Draft published within 90 days of the First Public Working Draft or if no Public Working Draft 
 
 
 # Standard Process Overview
@@ -21,8 +28,32 @@ Each Working Group and Interest Group will be supported by at least one [W3C tea
 For more information, please see the [W3C Process Document](https://w3c.github.io/w3process/#introduction).
 
 ### Group Extensions
+Interest and Working Group Charters can be extended past the duration initially identified in their Charter. For more rules associated with Charter extension please see the [W3C Process Document](https://w3c.github.io/w3process/#charter-extension).
 
-@todo 
+## Charters
+Interest and Working Group Charters include information related to the scope of the group's work, duration of the group, the deliverable, time commitments, milestones and dependancies. IPR information is also included. Deliverables which are to becomes Recommendation Track documents are included with their titles, URLs, publication date and status. For a full list of items to be included in the charter please see the [W3C Process Document](https://w3c.github.io/w3process/#WGCharter).
+
+## Technical Report (W3C Standard) Flow
+A Technical Report is a recognised W3C standard. A typical flow of a document from draft to Technical Report is:
+
+1. **Publication of the First Public Working Draft:** a draft document, which can be reviewed by the members of the group and the public. 
+1. **Publication of zero or more revised Public Working Drafts:** the community makes suggested changed to the drafts, these are considered and possibly added to make a revised Public Working Draft.
+1. **Publication of a Candidate Recommendation:** when the Working Group agrees the document is ready for final review the document is progressed to Candidate Recommendation. The AC reviews the draft, implementations are encouraged and an opportunity to provide a patent exclusion is made. 
+1. **Publication of a Proposed Recommendation:** The W3C Director has agreed the document is of sufficient quality to be a standard, the AC now reviews the document as final. Any changes at this stage requires a new Working Draft or Candidate Recommendation. 
+1. **Publication as a W3C Recommendation:** the document is now a standards for the Web. 
+1. **Possibly, Publication as an Edited Recommendation:** a W3C Recommendation receives edits, and must progress these edits through the process.
+
+Members of the group should review documents throughout the process; although reviewing and suggesting changes as-early-as-possible is advised.
+
+To get from one stage to the next, a document must meet a number of goals. These include: obtaining group consensus, Director approval, proof of any changes and Formal Objections. A full list of goals an exclusions is included in the [W3C Process Document](https://w3c.github.io/w3process/#transition-reqs).
+
+The W3C and / or the Director can stop the advancement of a draft at any stage; the AC will be made aware if this happens. Recommendations may become Obsolete or Resinded. For more information on these and detail breakdowns of the recommendation flow please see the [W3C Process Document](https://w3c.github.io/w3process/#maturity-levels).
+
+### Editors Drafts
+Editors Drafts are documents which individuals or groups work on as proposals to become Working Groups Drafts. Editors Drafts are an important part of many groups work; but they have no standing until they are upgraded to Working Drafts. 
+
+### Group Notes
+W3C Groups can also publish W3C Notes which are not Recommedation Track documents. These could be use case lists, guidance, status of abandonded work, etc. 
 
 # Understanding W3C Participants
 W3C has a number of participants. Below is a list of these and their roles.
