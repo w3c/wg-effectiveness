@@ -3,6 +3,7 @@ This document breaks down the 2018 W3C Process. This text can be included in the
 
 # Terms
 * __W3C Recommendation__: W3C standards are referred to as "W3C Recommendations".
+* __Technical Reports__:
 
 
 # Standard Process Overview
@@ -90,6 +91,18 @@ For more information on TAG members, terms, election process and responsibilitie
 
 Interest and Working Groups work to gain consensus on particular topics and issues related to specification development. To understand how consensus works in the W3C please see the [W3C Process Document](https://w3c.github.io/w3process/#Consensus). 
 
+## W3C Groups
+There are two types of W3C group:
+
+* **Working Groups**: work on deliverables, usually technical reports (standards).
+* **Interest Groups**: evaluate potential Web technologies and policies. Do not work on technical reports. 
+
+Groups have: a publicly available Charter, a Chair (or co-Chairs), a Team Contact, and a mailing list.
+
+A group sometimes will have **Task Forces** which carry our assignments which are already detailed in the group Charter. 
+
+For more information on groups see the [W3C Process Document](https://w3c.github.io/w3process/#ChapterGroups).
+
 ## Participants
 Participants in Interest and Working Groups should be technically capable, fair and confident to speak and interact with others in the group. AC members nominate people within their organisation to participate within groups (in some cases an AC member may be able to [nominate someone from outside their organisation](https://w3c.github.io/w3process/#member-rep)).
 
@@ -106,9 +119,29 @@ Face-to-face meetings should be announced eight weeks before the meeting, distri
 
 For more information on meetings please see the [W3C Process Document](https://w3c.github.io/w3process/#GeneralMeetings).
 
+## Consensus and Formal Objections
+Consensus is a core value of W3C. The W3C agreed definition for Consensus and Dissent is given below; for more information please see the [W3C Process Document](https://w3c.github.io/w3process/#Consensus).
+
+1. **Consensus:** A substantial number of individuals in the set support the decision and nobody in the set registers a Formal Objection. Individuals in the set may abstain. Abstention is either an explicit expression of no opinion or silence by an individual in the set. Unanimity is the particular case of consensus where all individuals in the set support the decision (i.e., no individual in the set abstains).
+2. **Dissent:** At least one individual in the set registers a Formal Objection.
+
+### Group Decision Appeals and Formal Objections
+A set of group members may appeal a group decision. The group should first register their opinion with the chair and team contact, and then rasie a **Group Decision Appeal** which requests the Director to review the decision. For more information please see the [W3C Process Document](https://w3c.github.io/w3process/#WGAppeals).
+
+Individuals may raise a **Formal Objection** against Interest or Working Group decisions. The Director will review any Formal Objections and the related group decision. Formal Objections should contain technical arguments and proposed changes. Formal Objections will be public. 
+
+For more information on Formal Objections please see the [W3C Process Document](https://w3c.github.io/w3process/#Consensus).
+
+## Votes
+Sometimes, no matter how hard a group tries, consensus cannot be reached for a decision. In these cases, voting is sometimes used. Chairs must follow clear steps and record a set of information when voting, for details on this please see the [W3C Process Document](https://w3c.github.io/w3process/#Votes).
+
+Voting may also be used for minority issues; these votes have less stringest rules. For details on this please see the [W3C Process Document](https://w3c.github.io/w3process/#Votes). 
 
 
+# Communication
+The W3C Team will publish information on W3C Technical Reports, the Mission Statement, Legal Documents (such a Membership Agreements), The Process Document and results of W3C Activites and Workshops. Other W3C related news is distributed regularly.
 
+For more information on communication and confidentiality levels please see the [W3C Process Document](https://w3c.github.io/w3process/#chapterDissemination).
 
 
 
