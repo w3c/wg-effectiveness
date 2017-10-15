@@ -52,6 +52,12 @@ The W3C and / or the Director can stop the advancement of a draft at any stage; 
 ### Editors Drafts
 Editors Drafts are documents which individuals or groups work on as proposals to become Working Groups Drafts. Editors Drafts are an important part of many groups work; but they have no standing until they are upgraded to Working Drafts. 
 
+### Implementation Experience
+***Adaquate implementation experience*** is required to progress documents to W3C Recommendation. There is no checklist for "adaquate implementation experience", but group participants should strive to gather implementations that are publicly deployed, matching the proposed draft, and implemented by those other than the draft authors. For full guidelines see the [W3C Process Document](https://w3c.github.io/w3process/#implementation-experience).
+
+### Document Changes
+The [W3C Process Document](https://w3c.github.io/w3process/#correction-classes) defines some classes of document changes which gives reviewers some aid in deciding whether the document status has to change (for example, a document at the Proposed Recommendation stage may need to go back to Working Draft). 
+
 ### Group Notes
 W3C Groups can also publish W3C Notes which are not Recommedation Track documents. These could be use case lists, guidance, status of abandonded work, etc. 
 
