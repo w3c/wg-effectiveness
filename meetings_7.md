@@ -12,7 +12,7 @@ IRC: #WGE
 ## Outcomes and Updates
 See [README.md](https://github.com/w3c/wg-effectiveness/) 
 
-### Guide & Github]: plh. See [w3c.github.io](https://w3c.github.io/)
+### [Guide & Github]: plh. See [w3c.github.io](https://w3c.github.io/)
 * w3c.github.io, updates, reviews and comments
 * Dan - work on guide for using labels and workflow with github
 * Understanding the process document
