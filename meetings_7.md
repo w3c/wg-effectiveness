@@ -6,6 +6,9 @@ IRC: #WGE
 * Aim: Update on new documentation, TPAC plans
 * Agenda
 
+### Continous Incubation
+* AB related discussion. Jeff
+
 ## Outcomes and Updates
 See [README.md](https://github.com/w3c/wg-effectiveness/) 
 
