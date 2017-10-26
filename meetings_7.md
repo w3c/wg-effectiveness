@@ -6,7 +6,7 @@ IRC: #WGE
 * Aim: Update on new documentation, TPAC plans
 * Agenda
 
-### Continous Incubation
+## Continous Incubation
 * AB related discussion. Jeff
 
 ## Outcomes and Updates
