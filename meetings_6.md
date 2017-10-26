@@ -1,4 +1,4 @@
-# Working Group Effectiveness Task Force Meeting #5
+# Working Group Effectiveness Task Force Meeting #6
 IRC: #WGE
 
 ## Admin
