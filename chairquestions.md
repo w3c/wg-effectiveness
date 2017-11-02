@@ -14,4 +14,4 @@ At this year's TPAC the members of the Working Group Effectiveness Task Force wi
 * Does your group use tools outside of the recognised W3C tools? If so, which tools and why?
 
 ## Meeting Related
-* Does 
+* @todo re telcons 
