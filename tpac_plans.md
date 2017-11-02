@@ -26,4 +26,4 @@ Below is a list of important TPAC items for the WGE Task Force! Please also see 
 * **Q:** Can I be a member of the task force?
   * **A:** New members are always welcome! I'll send a note to the Natasha and plh to get you setup.
 * **Q:** Where can I get more information on the Task Force?
-  * **A:** Checkout out [Github repo](https://github.com/w3c/wg-effectiveness).
+  * **A:** Checkout out our [Github repo](https://github.com/w3c/wg-effectiveness).
