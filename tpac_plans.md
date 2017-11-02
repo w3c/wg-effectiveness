@@ -6,15 +6,17 @@ Below is a list of important TPAC items for the WGE Task Force! Please also see 
 
 **Remember at TPAC the members of the WGE Task Force should be canvasing WG Chairs to find out about their needs for training and their common issues related to effectiveness. Please use the [Chair's Questions](https://github.com/w3c/wg-effectiveness/blob/master/chairquestions.md) page for guidance on questions to ask chairs. Please bring your findings to the next WGE Task Force call post-TPAC.**
 
-* Tuesday 7th
-  * 07:00–08:30	Chairs Breakfast with Jeff Jaffe (open discussion with chairs)
-* Wednesday 8th
-  * Plenary, 08:45-09:15: Improving how we do Web standards (Philippe Le Hégaret)
-  * Plenary, 09:15-09:30: Improving interop with web-platform-tests (Philip Jägenstedt (foolip))
-  * Breakout: Chair Training, Guide and Github
-  * Breakout: Testing
-* Thursday 9th
-  * AC Session, 4:00-4:15: Working Group Effectiveness (Natasha Rooney) 
+### Tuesday 7th
+* 07:00–08:30	Chairs Breakfast with Jeff Jaffe (open discussion with chairs)
+
+### Wednesday 8th
+* Plenary, 08:45-09:15: Improving how we do Web standards (Philippe Le Hégaret)
+* Plenary, 09:15-09:30: Improving interop with web-platform-tests (Philip Jägenstedt (foolip))
+* Breakout: Chair Training, Guide and Github
+* Breakout: Testing
+
+### Thursday 9th
+* AC Session, 4:00-4:15: Working Group Effectiveness (Natasha Rooney) 
 
 ## Q&A
 * **Q:** What is the Working Group Effectiveness Task Force?
