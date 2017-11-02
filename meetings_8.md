@@ -32,5 +32,5 @@ See [README.md](https://github.com/w3c/wg-effectiveness/)
 
 ## AOB
 * Other issues
-* Continous Incubation
+* Continuous Incubation
 
