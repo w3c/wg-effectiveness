@@ -19,3 +19,7 @@ At this year's TPAC the members of the Working Group Effectiveness Task Force wi
 
 ## Meeting Related
 * Does your working group run telecons? If so, how often and what tools are you using?
+
+## Existing Chair Training
+* Have you attended chair training in the past? Tell us about your experience?
+* What chair training do you think is available?
