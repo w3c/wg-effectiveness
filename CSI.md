@@ -13,109 +13,88 @@ Below is a list of common symptoms of issues experienced by working groups. It i
 ### Huge Impact
 
 * **Description:** The technology being standardised has a huge impact on the web and industry. Or, the hype around the impact of the technology is extremely high inducing blog posts, speakers referencing the technology at large events, impacts corporate strategy or even news articles. This places a large burden on the standardisation effort. This can lead to further symptoms such as **[Perfectionism](#perfectionism)** and **[Tight Deadline](#tight-deadline)**. Leads to **[Scope Creep / Super-Spec](#scope-creep--super-spec)**, **[Incomplete Spec](#incomplete-spec)**, **[Never-Ending Discussion](#never-ending-discussion)**.
-* **Sufferers:** WebRTC, ServiceWorker
 
 ### Spec/Innovation Race Condition
 
 * **Description:** The standardisation process is unable to keep up with innovation in the area. In this scenario a WG will find that the standard is taking so long to finalise that the innovation in the area had moved forward. Leads to **[Scope Creep / Super-Spec](#scope-creep--super-spec)**, **[Incomplete Spec](#incomplete-spec)**.
-* **Sufferers:** WebRTC
 
 ### Spec/Implementation Race Condition
 
 * **Description:** In general specification and implementation operate in parallel at W3C. Sometimes implementations push further forward than the specification which may cause a specification to be lead by one implementation, or incite symptoms **[Overly Assertive Implementers](#overly-assertive-implementers)** and **[Overly Assertive Experts](#overly-assertive-experts)**. Leads to **[Never-Ending Discussion](#never-ending-discussion)**, **[Failed Spec](#failed-spec)**.
-* **Sufferers:** Web Component elements
 
 ### Tight Deadline
 
 * **Description:** The deadline set by the charter or by the editors and chairs is too restrictive. The time allowed does not allow for the standardisation process to complete, it does not allow for all of the experts to comment, or possibly even allow for the editor to complete the draft. This leads to **[Incomplete Spec](#incomplete-spec)**. Can be addressed with **[SMART](#smart)**, **[Diplomatic Leadership](#strong-leadership)**.
-* **Sufferers:** WebRTC
 
 ### Clashing Implementation
 
 * **Description:** Two or more implementations exist, but the extent in which they differ mean one spec cannot meet both specifications. One or both implementations will need to adapt; this can lead to **[Never-Ending Discussion](#never-ending-discussion)** and **[Incomplete Spec](#incomplete-spec)**.
-* **Sufferers:** WebRTC
 
 ### Existing Implementation
 
 * **Description:** An "Existing Implementation" exists, which may bring aspirational improvements to a spec in conflict with the implementor's resistance to change code/break sites already relying on the implementation. Leads to **[Scope Creep / Super-Spec](#scope-creep--super-spec)**, and **[Incomplete Spec](#incomplete-spec)**.  
-* **Sufferers:**
 
 ### No Implementation
 
 * **Description:** No implementation of the draft exists. Not only does this result in **[Incomplete Spec](#incomplete-spec)** but also results in **[Failed Spec](#failed-spec)** as when implementations do arise they’re not tested in real world scenarios and end up being phased out or not completed.  
-* **Sufferers:**
 
 ### Overly Assertive Implementers and Overly Assertive Experts
 
 * **Description:** In working groups across SDOs there are sometimes individuals who assert themselves over others. In this case either the Implementers or the Experts (or both, or individuals who are both implementers and experts) assert themselves firmly over others in the working group. This is not to say that their opinion is incorrect; but that the method of assertion may be too strong. Leads to **[Scope Creep / Super-Spec](#scope-creep--super-spec)**, **[Incomplete Spec](#incomplete-spec)**, **[Never-Ending Discussion](#never-ending-discussion)**.
-* **Sufferers:** Web Payments, Web Component elements
 
 ### Author Lack
 
-* **Description:** No-one from the working group is willing or qualified to write the specification. Alternatively, no-one from the working group has time allowance to complete the spec. This leads to **[Incomplete Spec](#incomplete-spec)**.
-* **Sufferers:** 
+* **Description:** No-one from the working group is willing or qualified to write the specification. Alternatively, no-one from the working group has time allowance to complete the spec. This leads to **[Incomplete Spec](#incomplete-spec)**. 
 
 ### Expert Lack (including Implementer Lack)
 
 * **Description:** The Working Group suffers with a lack of understanding in one or more particular areas related to the technology being standardised, building the specification, the standards process, developer expectation or implementer expectation. Can incite other symptoms such as **[Clashing Implementation](#clashing-implementation)** or **[Overly Assertive Implementers](#overly-assertive-implementers)**. Leads to **[Failed Spec](#failed-spec)**.
-* **Sufferers:** PaymentRequest and subsequent specs.
 
 ### Drive Lack
 
 * **Description:** In this situation the charter and scope of work may be well defined but there is no drive within the group to complete the work. This may be fuelled by **[Expert Lack](#expert-lack-including-implementer-lack)** and **[Leadership Needs Improvement](#leadership-needs-improvement)**. Leads to **[Incomplete Spec](#incomplete-spec)**, **[Never-Ending Discussion](#never-ending-discussion)**.
-* **Sufferers:**
 
 ### Perfectionism
 
 * **Description:** The group persists on making a “perfect” specification. This can be fuelled by **[Huge Impact](#huge-impact)**. Leads to **[Scope Creep / Super-Spec](#scope-creep--super-spec)**, **[Incomplete Spec](#incomplete-spec)**, **[Never-Ending Discussion](#never-ending-discussion)**.
-* **Sufferers:** WebRTC, CSS 2.1
 
 ### Leadership Needs Improvement
 
 * **Description:** Everyone starts somewhere. Sometimes new chairs and team contacts may not have the experience or tools needed to push the group to consensus or encourage authors to progress documents. Finding ways to support these chairs is key. Leads to **[Scope Creep / Super-Spec](#scope-creep--super-spec)**, **[Incomplete Spec](#incomplete-spec)**, **[Never-Ending Discussion](#never-ending-discussion)**, **[Failed Spec](#failed-spec)**.
-* **Sufferers:**
 
 ### No Test
 
 * **Description:** It is generally felt that if a group brings in test cases, they are more likely to converge more quickly. Testing also helps implementation, interoperability, and aids the editors to understand how the spec will work within real world scenarios. If no tests exist it can lead to a **[Failed Spec](#failed-spec)**.
-* **Sufferers:**
 
 ### Ineffective Incubation
 
 * **Description:** New ideas for standards come from industry, implementers, developers and others. Incubation takes these ideas and preps them for standards work, by allowing some experts in W3C process and implementations to comment and guide new ideas. A lack of or incorrect incubation may lead to **[Incomplete Spec](#incomplete-spec)**, **[Never-Ending Discussion](#never-ending-discussion)**, **[Failed Spec](#failed-spec)**.
-* **Sufferers:** Verifiable Claims, AppCache, Payment Handler API
 * **Solution:** Early incubation through WICG or a dedicated Community Group which includes the right  **[Expert Mix](#expert-mix)**.
 
 ### SDO Collaboration
 
 * **Description:** Other SDOs have their own working practices which may work well for their standards development but may clash with the W3C process. This may lead to **[Never-Ending Discussion](#never-ending-discussion)**, **[Incomplete Spec](#incomplete-spec)** and **[Failed Spec](#failed-spec)**.
-* **Sufferers:** WebRTC, WebPush
 
 ### Not Understanding Spec Dependencies
 
 * **Description:** Some specs require an understanding of others or underlying technologies in order to be successfully implemented and used. For example, understanding WebIDL is important for certain spec development, in-depth understanding DOM may be crucial for others. Lack of understanding of these dependencies can lead to **[Failed Spec](#failed-spec)**.
-* **Sufferers:**
 
 ### Lack of Consensus
 
 * **Description:** The group cannot come to a consensus on a topic. Can lead to **[Never-Ending Discussion](#never-ending-discussion)** and **[Incomplete Spec](#incomplete-spec)**.
-* **Sufferers:** HTML 5.0
 
 ### Lack of Extensibility
 
 * **Description:** Specifications which allow for extensibility are often more successful in the long term. An extremely restrictive or opaque specification may be implemented, but may not be used in the long term and will result in being a  **[Failed Spec](#failed-spec)**.  
-* **Sufferers:** WebRTC, AppCache
 * **Solution:** Can be solved with  **[Extensibility](#extensibility)** or **[Versioning](#versioning)**.
 
 ### Anti-Privacy or Anti-Security
 
 * **Description:** The specification missed negative security or privacy implications. If the spec ever reaches standard status, implementers refuse to maintain it or developers refuse to use it as it puts their users at risk. Can lead to **[Failed Spec](#failed-spec)**.
-* **Sufferers:**
 
 ### Blocked
 
 * **Description:** An organisation or attendee blocks the development of a specification through various means. This could be by continued discussion, incorrect assumptions, or raising impossible targets. Another kind of blocker could wish for the working group to produce specifications, but only with their particular view. They are not open to collaboration and compromise. Finding a way to leverage their passion without disrupting the group can be very challenging. This may lead to **[Scope Creep / Super-Spec](#scope-creep--super-spec)**, **[Never-Ending Discussion](#never-ending-discussion)**, **[Incomplete Spec](#incomplete-spec)** and **[Failed Spec](#failed-spec)**.
-* **Sufferers:**
 
 ## Common Results
 
