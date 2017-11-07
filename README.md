@@ -19,17 +19,17 @@ The group has agreed to work on the current outcomes. We have a number of outcom
 
 ### Phase 1
 
-#### [Guide & Github] Updated /guide (Easy to Read and Access Information for New and Existing Attendees)
-Updated guidance and information in an easy to find and access location for chairs, participants and implementers in how to work effectively in working groups. This information also needs regular assessing and updating as necessary. Currenly much of this information can be found in [https://www.w3.org/Guide/], this needs to be re-organised, redeisgned and must include:
+#### [Guide & GitHub] Updated /guide (Easy to Read and Access Information for New and Existing Attendees)
+Updated guidance and information in an easy to find and access location for chairs, participants and implementers in how to work effectively in working groups. This information also needs regular assessing and updating as necessary. Currenly much of this information can be found in [The Art of Consensus: A Guidebook for W3C Group Chairs and Participants](https://www.w3.org/Guide/), this needs to be re-organised, redeisgned and must include:
 * information on how to effectively use tools
-  * including the effective use of github
+  * including the effective use of GitHub
 * information for chairs, participants, implementers
 * information on testing
 * information for new chairs and new attendees on how to get started within W3C (perhaps including welcome emails and welcome pack)
 * Updated look and feel - ask team who work on W3C spec design
 
-##### Github
-The use of Github will be of large importance within this deliverable. The groups utilising Github properly have generally been working very effectively. Therefore, which should take great care in greating documentation on guidelines for using github.
+##### GitHub
+The use of GitHub will be of large importance within this deliverable. The groups utilising GitHub properly have generally been working very effectively. Therefore, which should take great care in greating documentation on guidelines for using GitHub.
 
 * Github guidelines mentione in: [#21](/../../issues/21)
   
@@ -46,7 +46,7 @@ Something to enable groups to work on better testing (currently not defined).
 * A testing section should be built into specs, showing testing has completed (see [process_changes])
 * Detail types of tests that are required (e.g. interoperability, stress tests, security tests, etc - sad that this is evidence I know so little about tests)
   * this should all go into /guide/
-* No Tests No Merge should become a Github rule for our tools / github related outputs
+* No Tests No Merge should become a GitHub rule for our tools / github related outputs
 * Possible ombudsman for testing.
 
 Testing is referenced in issues: #21
