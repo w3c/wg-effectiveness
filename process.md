@@ -148,20 +148,38 @@ For more information on groups see the [W3C Process Document](https://w3c.github
 ## Participants
 Participants in Interest and Working Groups should be technically capable, fair and confident to speak and interact with others in the group. There are four types of group participant; all can participate in an Interest Group, all but ***public participants*** can participate in a Working Group.
 
-* **Member Representatives**: An individual representative from a W3C member oragnisation. AC members nominate people within their organisation to participate within groups (in some cases an AC member may be able to [nominate someone from outside their organisation](https://w3c.github.io/w3process/#member-rep)).
+* **Member Representatives**: An individual representative from a W3C member oragnisation. AC members nominate people within their organisation to participate within groups (in some cases an AC member may be able to [nominate someone from outside their organisation](https://w3c.github.io/w3process/#member-rep)). 
+  * **Members in Working Groups:** Before joining the group, the AC member sends a statement that confirms the new member agrees with the participation terms detailed in the charter. 
+  * **Members in Interest Groups:** Before joining the group, the AC member checks the participation intructions in the group charter (which can involve a statement as for working groups or could simply involve signing the new member up to the group mailing list).
 * **Invited Experts**: an individual with valuable expertise to a group and is not an employee of a W3C Member. [Detailed rules](https://w3c.github.io/w3process/#group-participation) apply for becoming an Invited Expert. 
 * **Team Representatives**: staff members of W3C. Team members can be a Team Contact or a regular participant of a group. 
 * **Public Participants**: members of the public. Cannot be Working Group participants. 
+
+Generally all group members are members of the group until the group closes or they [resign](resigns) from the group. 
 
 For more information on members including dismisal processes see the W3C Process Document on [Participation Criteria](https://w3c.github.io/w3process/#ParticipationCriteria) and [Group Participation](https://w3c.github.io/w3process/#group-participation).
 
 A Conflict of Interest Policy exists which instructs participants on how to disclose any conflict of interest a participant may have with the W3C and / or group work. See the [W3C Process Document](https://w3c.github.io/w3process/#coi) for more information.
 
 ### Participation by Proxy
-Group participants can sometimes send people in their place when unable to attend themselves. Rules for this are detailed in the [W3C Process Document](https://w3c.github.io/w3process/#group-participation).
+Group participants can sometimes send people in their place when unable to attend themselves. This representative can vote on behalf of the original member. Group members should inform the chairs when they are sending a representative. Rules for this are detailed in the [W3C Process Document](https://w3c.github.io/w3process/#member-rep-wg).
 
-### Group Size
+## Group Size
 Working Groups work best when composed of a small number of experts. Interest Groups can often be larger. To find out more on group size and possible splitting of larger groups please see the [W3C Process Document](https://w3c.github.io/w3process/#group-participation).
+
+## Charter and Call for Participation
+All Working and Interest Groups have a Charter. Charters are developed by W3C Members and W3C Team (staff) members. Charters can be made at any time. 
+
+When a new Charter is made the proponents (people writing the charter) make the Advisory Committee ([AC](#)) aware of the new charter through the [AC mailing list](#) list. The AC reviews all new charters for a minimum of four weeks. 
+
+After the AC has approved the Charter, the [Director](#) calls for participation in the group, inviting all AC members to join or nominate colleagues to join the group. 
+
+Details on the Call for Participation and AC Appeals against a Working or Interest Group being created please see the [W3C Process Document](https://w3c.github.io/w3process/#cfp). 
+
+### Charter Extensions
+Working and Interest Groups can be extended past their agreed Charter completion dates. The [Director](#) can do this by simply announcing to the [AC Mailing List](#) that the group has been extended and the new time period.
+
+Details on group extensions can be found in the [W3C Process Document](https://w3c.github.io/w3process/#charter-extension). 
 
 ## Meetings
 Meetings can either be face-to-face or "distributed" (via teleconference, IRC and / or video conferencing). Meeting announcements are sent on Interest or Working Group mailing lists.
@@ -186,15 +204,37 @@ Individuals may raise a **Formal Objection** against Interest or Working Group d
 For more information on Formal Objections please see the [W3C Process Document](https://w3c.github.io/w3process/#Consensus).
 
 ## Votes
-Sometimes, no matter how hard a group tries, consensus cannot be reached for a decision. In these cases, voting is sometimes used. Chairs must follow clear steps and record a set of information when voting, for details on this please see the [W3C Process Document](https://w3c.github.io/w3process/#Votes).
+Sometimes, no matter how hard a group tries, consensus cannot be reached for a decision. In these cases, voting is sometimes used. Chairs must follow clear steps and record a set of information when voting, for details on this please see the [W3C Process Document](https://w3c.github.io/w3process/#Votes). Simply:
+
+* Votes generally only happen when consensus cannot be reached
+* Chairs must detail the issue and voting process
+* Only group participants may vote
+* Each organisation only receives one vote (even if they have more members in the group)
+* Invite experts can vote
+* Outcome of the vote should be recorded in the minutes.
 
 Voting may also be used for minority issues; these votes have less stringest rules. For details on this please see the [W3C Process Document](https://w3c.github.io/w3process/#Votes). 
 
 
 # Communication
-The W3C Team will publish information on W3C Technical Reports, the Mission Statement, Legal Documents (such a Membership Agreements), The Process Document and results of W3C Activites and Workshops. Other W3C related news is distributed regularly.
+The W3C Team will publish information on W3C Technical Reports, the Mission Statement, Legal Documents (such a Membership Agreements), The Process Document and results of W3C Activites and Workshops. Other W3C related news is distributed regularly. The team also maintains the [calendar](https://www.w3.org/participate/eventscal).
 
-For more information on communication and confidentiality levels please see the [W3C Process Document](https://w3c.github.io/w3process/#chapterDissemination).
+For more information on communication and confidentiality levels please see the [W3C Process Document](https://w3c.github.io/w3process/#chapterDissemination). The W3C Process Document refers to "Communication" as "Dissemination Policies".
+
+## Confidentiality Levels
+There are three confidenetiality levels at W3C:
+
+* **Public:** information is open to the general public 
+* **Member-only:** information is accessible to W3C members only (including Invited Experts, AB, TAG and the W3C Team)
+* **Team-only:** information is accessible to the W3C staff only.
+
+Generally all information related to specification development should be publicly available. 
+
+For more information on confidentiality levels, the rules on sharing confidential data and changing confidentiality level please see the [W3C Process Document](https://w3c.github.io/w3process/#confidentiality-levels).
+
+
+
+
 
 
 
