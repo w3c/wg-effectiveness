@@ -1,4 +1,4 @@
-# Understanding the W3C Process
+# W3C Process for Busy People
 This document breaks down the 2018 W3C Process. This text can be included in the [Guide and Github] deliverable of this task force.
 
 # Terms
