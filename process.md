@@ -176,10 +176,41 @@ After the AC has approved the Charter, the [Director](#) calls for participation
 
 Details on the Call for Participation and AC Appeals against a Working or Interest Group being created please see the [W3C Process Document](https://w3c.github.io/w3process/#cfp). 
 
+### Charter Contents
+Group charters include the following information:
+
+* The group mission
+* Scope of work
+* Criteria for success
+* Group expected duration
+* List of group deliverables and timelines. If these are Recommendation Track documents (specifications) these items should be included:
+  * Title
+  * Stable URL
+  * Publication date. 
+* Details on how deliverables are approved
+* Dependancies on groups within W3C or other bodies
+* Level of confidentiality of the group's deliverables
+* Frequency and type of meetings
+* Communication methods
+* Expected time commitments from participants
+* Expected time commitments from the team (W3C staff)
+* Intellectual property information.
+
+Other possible items to include in the Charter is participation requirements (for Interest Groups), voting procedures, and constraints on participants and deliverables not covered in the [W3C Process Document](https://w3c.github.io/w3process/)
+
+Further details can be found in the [W3C Process Document](https://w3c.github.io/w3process/#WGCharter). 
+
+@todo include information on Reference Drafts and other terminology as of 5.2.6.
+
 ### Charter Extensions
 Working and Interest Groups can be extended past their agreed Charter completion dates. The [Director](#) can do this by simply announcing to the [AC Mailing List](#) that the group has been extended and the new time period.
 
 Details on group extensions can be found in the [W3C Process Document](https://w3c.github.io/w3process/#charter-extension). 
+
+### Closing a Group
+Groups may close because they have achieved their deliverables, reached their duration and do not wish to extend, or because they cannot achieve their charter goals for some reason (e.g. insufficent resources).
+
+The [Director](#) sends a mail to the AC to confirm a group has closed. 
 
 ## Meetings
 Meetings can either be face-to-face or "distributed" (via teleconference, IRC and / or video conferencing). Meeting announcements are sent on Interest or Working Group mailing lists.
