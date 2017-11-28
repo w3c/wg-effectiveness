@@ -12,7 +12,7 @@ The Task Force is currently identifying [what makes a working group affective](w
 For other goals of the task force, see the below "Expectations" seciton.
 
 ## Task Force Members
-[AutomatedTester](https://github.com/AutomatedTester), [dontcallmedom](https://github.com/dontcallmedom), [torgo](https://github.com/torgo), [astearns](https://github.com/astearns), [plehegar](https://github.com/plehegar) (**team contact**), [nrooney](https://github.com/nrooney) (**chair**), [jeffjaffe](https://github.com/jeffjaffe), [marcoscaceres](https://github.com/marcoscaceres), Paul Cotton
+[dontcallmedom](https://github.com/dontcallmedom), [torgo](https://github.com/torgo), [astearns](https://github.com/astearns), [plehegar](https://github.com/plehegar) (**team contact**), [nrooney](https://github.com/nrooney) (**chair**), [jeffjaffe](https://github.com/jeffjaffe), [marcoscaceres](https://github.com/marcoscaceres), Paul Cotton
 
 ## Outcomes
 The group has agreed to work on the current outcomes. We have a number of outcomes, so a Phase 1 and a Phase 2 has been agreed.
