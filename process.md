@@ -154,7 +154,7 @@ The work of the Technical Architecture Group (TAG) is focused on Web Architectur
 
 The TAG is devised of the W3C Director (currently Tim Berners-Lee, who is also a TAG life-member), three director-appointed individuals and six individuals elected by the [AC](). TAG members participate as individuals, not on behalf of their employer. The TAG provides updates on it's activities at AC Meetings and towards the AC on the AC (Annoucement / Discussion?!) Mailing List.
 
-For more information on TAG members, terms, election process and responsibilities, please see the [TAG Website](https://www.w3.org/2002/ab/) and the [W3C Process Document](https://w3c.github.io/w3process/#TAG).
+For more information on TAG members, terms, election process and responsibilities, please see the [TAG Website](https://www.w3.org/2001/tag/) and the [W3C Process Document](https://w3c.github.io/w3process/#TAG).
 
 # W3C Interest and Working Groups
 
