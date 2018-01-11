@@ -42,27 +42,122 @@ A W3C Recommendation is a recognised W3C standard (also referred to as a "Techni
 
 Groups can also produce [Notes](#) which are not standards but more standards-supporting documents. 
 
+All W3C Recommendations can be found in the [index of W3C technical reports](https://www.w3.org/TR/). 
+
+### Requirements for W3C Recommenations (Technical Reports)
+W3C Technical Reports are public documents at every stage on the [Recommendation Track](#). The document will display a set information including:
+
+* the document's maturity level (see [Recommendation Track](#))
+* the Working Group who developed the document
+* instructions on how and where to file bugs
+* "next steps" for the document
+* explanation on how this document relates to existing web standards
+* explanation of changes from the previous document version (a "change log").
+
+### Editors
+Every W3C Recommenation (Technical Report) will have one or more Editors. These Editors are responsible for writing a document in a way which reflects the decisions of the Working Group. All Editors must be members of the Working Group responsible for the document they are editing. 
+
+### Language
+The primary language of W3C is English (not specified whether GB, US or otherwise). W3C encourage translations of all their documents. More information can be found [here](https://www.w3.org/Consortium/Translation/). 
+
 ### W3C Recommenation (Technical Report) Flow: The "Recommendation Track" 
 A typical flow of a document from draft to Technical Report is:
 
 @todo: show diagram
 
-1. **(Optional) Creation of Editor's Drafts:** anyone can start an Editor's Draft. Working Group members will often develop these as individuals or within a small group and then submit them to a group to be considered for a First Public Working Draft of a group. To progress to next step: submit the Editor's Draft to the Working Group via the Working Group mailing list (email). 
-1. **Publication of the First Public Working Draft:** a draft document, which can be reviewed by the members of the group and the public. To progress to next step: Working Group agress, Director approves.
-1. **Publication of zero or more revised Public Working Drafts:** the community makes suggested changed to the drafts, these are considered and possibly added to make a revised Public Working Draft. To progress to next step: Working Group agrees, Director approves.
-1. **Publication of a Candidate Recommendation:** when the Working Group agrees the document is ready for final review the document is progressed to Candidate Recommendation. The document should satisfy all it's technical requirements, and it should have some working [implementations](#). A Working Group should be confident that this document is final. The AC reviews the draft, implementations are encouraged and an opportunity to provide a patent exclusion is made. To progress to next step: Working Group approves, [AC](#) reviews, Director approves.
-1. **Publication of a Proposed Recommendation:** The W3C Director has agreed the document is of sufficient quality to be a standard, the AC now reviews the document as final. Any changes at this stage requires a new Working Draft or Candidate Recommendation. To progress to next step: Working Group approves, [AC](#) reviews, Director approves.
-1. **Publication as a W3C Recommendation:** the document is now a standard for the Web. 
-1. **Possibly, Publication as an Edited Recommendation:** a W3C Recommendation receives edits, and must progress these edits through the process.
+* **(Optional) Creation of Editor's Drafts:** anyone can start an Editor's Draft. Working Group members will often develop these as individuals or within a small group and then submit them to a group to be considered for a First Public Working Draft of a group. 
+  * Maturity Level: Editors Draft
+  * To progress to next step: submit the Editor's Draft to the Working Group via the Working Group mailing list (email). 
+* **Publication of the First Public Working Draft:** a draft document, which can be reviewed by the members of the group and the public. 
+  * Maturity Level: Working Draft
+  * To progress to next step: Working Group agress, Director approves.
+* **Publication of zero or more revised Public Working Drafts:** the community makes suggested changed to the drafts, these are considered and possibly added to make a revised Public Working Draft. 
+  * Maturity Level: Working Draft
+  * To progress to next step: Working Group agrees, Director approves.
+* **Publication of a Candidate Recommendation:** when the Working Group agrees the document is ready for final review the document is progressed to Candidate Recommendation. The document should satisfy all it's technical requirements, and it should have some working [implementations](#). A Working Group should be confident that this document is final. The AC reviews the draft, implementations are encouraged and an opportunity to provide a patent exclusion is made. 
+  * Maturity Level: Candidate Recommendation
+  * To progress to next step: Working Group approves, [AC](#) reviews, Director approves.
+* **Publication of a Proposed Recommendation:** The W3C Director has agreed the document is of sufficient quality to be a standard, the AC now reviews the document as final. Any changes at this stage requires a new Working Draft or Candidate Recommendation. 
+  * Maturity Level: Proposed Recommendation
+  * To progress to next step: Working Group approves, [AC](#) reviews, Director approves.
+* **Publication as a W3C Recommendation:** the document is now a standard for the Web. 
+  * Maturity Level: W3C Recommendation
+* **Possibly, Publication as an Edited Recommendation:** a W3C Recommendation receives edits, and must progress these edits through the process.
 
 Members of the group should review documents throughout the process; although reviewing and suggesting changes as-early-as-possible is advised.
 
-To get from one stage to the next, a document must meet a number of goals. These include: obtaining group consensus, Director approval, proof of any changes and Formal Objections. A full list of goals an exclusions is included in the [W3C Process Document](https://w3c.github.io/w3process/#transition-reqs).
+### Working Draft
+When a Working Group has agreed to begin work on a new standard or W3C Note they create a Working Draft. A Working Draft can be a new document or a Working Group can adopt an [Editors Draft](#); both of these transition to become a "First Public Working Draft". This stage triggers a ["Call for Exclusions" detailed in the W3C Patent Policy](#). 
+
+A Working Group then continues to work on this document, coming to consensus on decisions and editing the document to continue to create "Revised Working Drafts". If significant changes to the document has been made it should be re-uploaded to the [W3C Technical Reports Page](#). A Revised Working Draft will need to uploaded also if 6 months pass with no change; this Revised Draft indicates why there has been no change within this time.  
+
+All transitions between document stages must meet transition requirements; see [Recommendation Track](#) and [Transition Requests](#) for more information on transtions. The group will have to prepare some information on the Working Draft for transitions; these include:
+
+* Records the Group decision to advance the document
+* Record changes from the last version
+* Record which requirements have changed since the last version (if any)
+* Report any change in depencies with other groups.
+
+For all Working Drafts a Working Group will document outstanding issues and issues where the group has not reached consensus (many groups currently do this on Github). 
+
+For more information please see the [W3C Process Document](https://w3c.github.io/w3process/#working-draft).
+
+#### Next Steps
+Working Drafts can become "Revised Working Drafts", ["Candidate Recommendation"](#) or ["Working Group Note"](#)
+
+### Candidate Recommendation
+Canidate Recommendations are documents which are in their final review. At this stage the group will prepare a set of information to progress the document to the next stage (see [Recommendation Track](#) and [Transition Requests](#) for more information on stages and transtions). The information to be collected is:
+
+* Explanation of how the document meets the Working Group requirements (outlined in the [Charter](#)) or why the requirements have changed
+* Dependencies on other specifications
+* Document how adaquate implementation experience was demonstrated
+* Show that the document received wide review
+* Identify any at-risk feature.
+
+The Working Group also advertised a deadline for comments, which is at least 28 days after publication. 
+
+This stage triggers a ["Call for Exclusions" detailed in the W3C Patent Policy](#). 
+
+For more information please see the [W3C Process Document](https://w3c.github.io/w3process/#candidate-rec).
+
+#### Revised Candidate Recommendations
+If during the review period [substantive changes](https://w3c.github.io/w3process/#substantive-change) are made to the document then the document can become a "Revised Candiate Recommendation"; this may trigger a ["Call for Exclusions" detailed in the W3C Patent Policy](#). Please see the [W3C Process Document](https://w3c.github.io/w3process/#revised-cr) for more information.
+
+#### Next Steps
+Canidate Recommendations can return to being a ["Working Draft"](#), can become a "Revised Candidate Recommendation", or can become a ["Proposed Recommendation"](#) or ["Working Group Note"](#).
+
+### Proposed Recommendation
+Proposed Recommendation is the final stage of the document before becoming a [W3C Recommendation](#). The main purpose of this stage is to receive [AC](#) Review. 
+
+Working Groups should ensure the Proposed Recommendation meets the [Transition Request](#) requirements and will collect required information including details of implementation experience and explanations of issues and how they were formally addressed. A full list of information to gather can be found in the [W3C Process Document](https://w3c.github.io/w3process/#rec-pr).
+
+The Working Group will then notify their [Team Contact](#) to request that the Director notifies the AC of the review period.
+
+The AC Review Period is at least 28 days and is 10 days after an [Exclusion Opportunity](#) (detailed in the [W3C Patent Policy](#).
+
+For more information please see the [W3C Process Document](https://w3c.github.io/w3process/#rec-pr).
+
+#### Next Steps
+Substantive edits cannot happen on Proposed Recommendations, so to make any changes the document will move back to being a ["Working Draft"](#) or a ["Candidate Recommendation"](#). Otherwise it can become a ["W3C Recommendation"](#) or ["Working Group Note"](#).
+
+### W3C Recommendation
+
+#### Tranition Requests and Moving Between Track Stages  
+Going from one stage to the next involves making a "Transition Request". Team contacts will make Transition Requests once a number of goals have been met. These include: 
+
+* Obtaining and record group consensus
+* Obtain Director approval
+* Publicly documented changes to the previous version of the document
+* Formally address issues by responding to a reviewer explaining decisions which have been made before or since the review (see the [W3C Process Document](https://w3c.github.io/w3process/#formal-address) for more information)
+* Explain the Formal Objections raised and how these were managed.
+
+It's recommended to include some other information such as details on implementations, changes to requirements or dependencies with other groups. A full list of goals an exclusions is included in the [W3C Process Document](https://w3c.github.io/w3process/#transition-reqs).
 
 Both the Director and AC decisions could send the document back to a previous stage on The Recommendations Track. It is possible and common for the Director and AC to suggest changes which sends the document back to the Public Working Draft stage. 
 
 The W3C and / or the Director can stop the advancement of a draft at any stage; the AC will be made aware if this happens. Recommendations may become Obsolete or Resinded. For more information on these and detail breakdowns of the recommendation flow please see the [W3C Process Document](https://w3c.github.io/w3process/#maturity-levels).
 
+#### @todo: Add title for this Section
 W3C Recommendations can become: 
 
 * An "Edited Recommendation" if a Working Group chooses to [revise](#) the document
@@ -76,6 +171,13 @@ Working on a document can end at any time.
 
 ### Editors Drafts
 Editors Drafts are documents which individuals or groups work on as proposals to become Working Groups Drafts. Editors Drafts are an important part of many groups work; but they have no standing until they are upgraded to Working Drafts. 
+
+### Reviewing Documents
+Documents can be reviewed as soon as they are published. Sending reviews in early is always advised. W3C participants often state that a document should receive "Wide Review"; but this term is not defined by the [W3C Process Document](https://w3c.github.io/w3process/#wide-review). 
+
+Generally, all stakeholders of the Web Community should have the ability to review the document. An annoucnement will be made on [public-review-announce@w3.org](mailto:public-review-announce@w3.org) and the reposnible Working Group should also make requests to [Horizontal Groups](https://www.w3.org/Guide/Charter.html#horizontal-review) (e.g. TAG and the Privacy Interest Group) to gain their reviews. The group should do everything it can to ensure all group participants, implementers, affected industry players, the Horizontal Groups and the general public have had adaquate time and instruction to review the document. 
+
+When the Director reviews the document during a [Transition Request](#) they will check that the correct level of reviews has been achieved. 
 
 ### Implementation Experience
 ***Adaquate implementation experience*** is required to progress documents to W3C Recommendation. There is no checklist for "adaquate implementation experience", but group participants should strive to gather implementations that are publicly deployed, matching the proposed draft, and implemented by those other than the draft authors. For full guidelines see the [W3C Process Document](https://w3c.github.io/w3process/#implementation-experience).
@@ -290,7 +392,7 @@ Generally all information related to specification development should be publicl
 
 For more information on confidentiality levels, the rules on sharing confidential data and changing confidentiality level please see the [W3C Process Document](https://w3c.github.io/w3process/#confidentiality-levels).
 
-
+## "Call for Exclusions" detailed in the W3C Patent Policy
 
 
 
