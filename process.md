@@ -2,12 +2,9 @@
 This document breaks down the 2018 W3C Process. This text can be included in the [Guide and Github] deliverable of this task force.
 
 ## Using this Document
-This document is 
+This document aims to provide readers with a shorter overview of the [W3C Process Document](https://w3c.github.io/w3process/) written in plain English. The original [W3C Process Document](https://w3c.github.io/w3process/) is a complete document, written to be legally accurate and give indepth detail on each item and process. This document aims to give an overview of the main document, so new and existing W3C participants can gain an understanding of all W3C processes and know where to go for more information.  
 
-does not cover:
-
-legal
-patent policy
+Readers should note that this document is not a legal document, it does not replace the [W3C Process Document](https://w3c.github.io/w3process/), and it does not cover aspects of the W3C Patent Policy.
 
 # Terms
 * __W3C Recommendation__: W3C standards are referred to as "W3C Recommendations".
@@ -231,6 +228,19 @@ The document will then be replublished as an Obsolete or Rescinded Recommendatio
 
 If only a part of a W3C Recommendation needs to be obsoleted, superceded or rescinded then the document must go through the [Revised Recommendation](#) process. 
 
+### Member Submissions
+Members can make document submissions to the W3C. These documents usually detail a technology or other ideas applicable to the Web. These documents have been developed outside the W3C, so they have not gone through the W3C [Recommendation Track](#) and are not W3C Recommendations. They can become a basis of future work, but there is no guarentee of this.
+
+Member Submissions are a good way to build support for new work proposals for an upcoming Working Group; if a Working Groups already exists it is preferable that technology is contributed through the Working Group as normal and follows the [Recommendation Track](#) rather than as a Member Submission.
+
+Only one member makes a Member Submission, even if more than one member worked on the original documents. Strict processes are involved in making a Member Submission and on giving statements on Member Submissions, please see the W3C Process Document on [Information Required in a Submission Request](https://w3c.github.io/w3process/#SubmissionReqs) and [Submitter Rights](https://w3c.github.io/w3process/#SubmissionRights). 
+
+Member Submissions are to follow the [Publication Rules](https://www.w3.org/pubrules/) and are sent to the [Team](#). [The Director](#) will announce the Member Submission request to the AC then approve or reject the submissions. A rejected Member Submission can be appealed to the TAG or Advisory Board. Information on the appeakl process can be found in the [W3C Process Document](https://w3c.github.io/w3process/#SubmissionNo).
+
+The Team can then publish the Member Submission along with any supportive documents and comments; this will then be available to all W3C members and the public. 
+
+Further information can be found in the [W3C Process Document](https://w3c.github.io/w3process/#Submission). 
+
 # Understanding W3C Participants
 W3C has a number of participants. Below is a list of these and their roles.
 
@@ -453,11 +463,18 @@ Workshops are organised by W3C for a number of reasons, including: promoting inv
 
 A Symposium aims to educate participants on a particular subject. 
 
-Workshops and Symposium may be limited to W3C Members or open to the public. Often these events result in new groups or work items within W3C, but this is not guarenteed. 
+Workshops and Symposium can be limited to W3C Members or open to the public. Often these events result in new groups or work items within W3C, but this is not guarenteed. 
 
 Workshops and Symposium has some participation and organisation rules, please see the W3C Process Document](https://w3c.github.io/w3process/#GAEvents) for details of these. 
 
 # Liaisons
+W3C sometimes coordinates acitivies with another organisation or informs other organisations of W3C work relevant to their work or operations. Liaisons are managed by the [Team](#).
+
+[The Director](#) can negotiate a Memorandum of Understanding (MoU) with another organisation. This may be for many reasons including the W3C working with another organisation on a joint piece of work. The [AC](#) will be informed of an MoU before signing. For further details on MoU process please see the [W3C Process Document](https://w3c.github.io/w3process/#Liaisons).
+
+# Updating the Process
+The [W3C Process Document](https://w3c.github.io/w3process/) is updated similar to any W3C document. Every year, the [Process Community Group](#) amends the document based on comments expressed by the community, then sends the document for [AC Review](#). On a successful AC Review, the new process will be announced to the AC. More information can be found on the [W3C Process Document](https://w3c.github.io/w3process/#GAProcess).
+
 
 
 
