@@ -1,6 +1,14 @@
 # W3C Process for Busy People
 This document breaks down the 2018 W3C Process. This text can be included in the [Guide and Github] deliverable of this task force.
 
+## Using this Document
+This document is 
+
+does not cover:
+
+legal
+patent policy
+
 # Terms
 * __W3C Recommendation__: W3C standards are referred to as "W3C Recommendations".
 * __Technical Reports__: 
@@ -15,9 +23,6 @@ The Reference Draft is the latest Working Draft published within 90 days of the 
 
 # Standard Process Overview
 The W3C standards process aims to maximise consensus and allow for standards to be built which are well-written, consistent and royalty-free. (SEE SECTION BELOW)
-
-## Making a W3C Standard (W3C Recommendations / Technical Report)
-A W3C standard is called a "W3C Recommendation" or "Technical Report". W3C also publishes "Notes" which are not standards, but ?????. SEE BELOW SECTION.
 
 ## Setting Up Interest and Working Groups
 * __Generating Interest__: a topic gains some interest within W3C. This could be via a [member submission](#), a [W3C run workshop](#), W3C team research, a [Community Group](#) or through the [WCIG](#).
@@ -133,7 +138,7 @@ Working Groups should ensure the Proposed Recommendation meets the [Transition R
 
 The Working Group will then notify their [Team Contact](#) to request that the Director notifies the AC of the review period.
 
-The AC Review Period is at least 28 days and is 10 days after an [Exclusion Opportunity](#) (detailed in the [W3C Patent Policy](#).
+The AC Review Period is at least 28 days and is 10 days after an [Exclusion Opportunity](#) (detailed in the [W3C Patent Policy](#). 
 
 For more information please see the [W3C Process Document](https://w3c.github.io/w3process/#rec-pr).
 
@@ -141,8 +146,23 @@ For more information please see the [W3C Process Document](https://w3c.github.io
 Substantive edits cannot happen on Proposed Recommendations, so to make any changes the document will move back to being a ["Working Draft"](#) or a ["Candidate Recommendation"](#). Otherwise it can become a ["W3C Recommendation"](#) or ["Working Group Note"](#).
 
 ### W3C Recommendation
+The W3C Recommendation is an approved standard of the W3C and the end of the [W3C Recommendation Track](#)! There are many informal terms used for a W3C Recommedation including "Rec", "Recommendation", "TR", "Technical Report", "Spec", "Standard"; they all mean the same thing.
 
-#### Tranition Requests and Moving Between Track Stages  
+To get to W3C Recommendation a "W3C Decision" is required; this is where a document has met all the [Transition Request](#) requirements, the Director has approved the document and the document has passed AC Review during the ["Proposed Recommendation"](#) stage. 
+
+[The Director](#) will announce the publication of the W3C Recommendation. If any AC member disagrees with the decision, they could raise an ["Advisory Committee Appeal"](#).
+
+#### Next Steps
+W3C Recommendations can become: 
+
+* An "Edited Recommendation" if a Working Group chooses to [revise](#) the document
+* An [add link](#) "Amended Recommendation" if the document needs to be edited in a way which doesn't add new features and when a Working Group no longer exists to work on the document, or 
+* An "Obsolete Recommendation" if it is either no longer often used on the web or doesn't represent best practices. These may be restored to a Recommendation.
+* A "Superseded Recommendation" if it's been replaced with a newer specification. These may be restored to a Recommendation.
+* A "Rescinded Recommendation" is a document which W3C no longer endorses, and will never restore to a Recommendation. 
+* A "Working Group Note, Interest Group Note", see [W3C Note](#).
+
+### Tranition Requests and Moving Between Track Stages  
 Going from one stage to the next involves making a "Transition Request". Team contacts will make Transition Requests once a number of goals have been met. These include: 
 
 * Obtaining and record group consensus
@@ -156,15 +176,6 @@ It's recommended to include some other information such as details on implementa
 Both the Director and AC decisions could send the document back to a previous stage on The Recommendations Track. It is possible and common for the Director and AC to suggest changes which sends the document back to the Public Working Draft stage. 
 
 The W3C and / or the Director can stop the advancement of a draft at any stage; the AC will be made aware if this happens. Recommendations may become Obsolete or Resinded. For more information on these and detail breakdowns of the recommendation flow please see the [W3C Process Document](https://w3c.github.io/w3process/#maturity-levels).
-
-#### @todo: Add title for this Section
-W3C Recommendations can become: 
-
-* An "Edited Recommendation" if a Working Group chooses to [revise](#) the document
-* An [add link](#) "Amended Recommendation" if the document needs to be edited in a way which doesn't add new features and when a Working Group no longer exists to work on the document, or 
-* An "Obsolete or Superseded Recommendation" if it is either no longer often used on the web, or it's been replaced with a newer specification (respectively). These may be restored to a Recommendation.
-* A "Rescinded Recommendation" is a document which W3C no longer endorses, and will never restore to a Recommendation. 
-* A "Working Group Note, Interest Group Note", see [Note](#).
 
 ### Ending a Document
 Working on a document can end at any time. 
@@ -185,10 +196,40 @@ When the Director reviews the document during a [Transition Request](#) they wil
 ### Document Changes
 The [W3C Process Document](https://w3c.github.io/w3process/#correction-classes) defines some classes of document changes which gives reviewers some aid in deciding whether the document status has to change (for example, a document at the Proposed Recommendation stage may need to go back to Working Draft). 
 
-### Notes
-W3C Groups can also publish W3C Notes which are not Recommendation Track documents. These could be use case lists, guidance, status of abandonded work, etc. 
+### W3C Notes
+W3C Groups can also publish W3C Notes which are not Recommendation Track documents. These could be use case lists, guidance, status of abandonded work, etc.  
 
 Notes also follow the [The Recommendation Track](#). They are usually declared as notes in **Publication of zero or more revised Public Working Drafts:** stage. 
+
+For more information please see the [W3C Process Document](https://w3c.github.io/w3process/#Note).
+
+### Modifying a W3C Recommendation
+
+[@todo: include image from 6.7]
+
+Errors may be found in a document after it has progressed to W3C Recommendation. In these instances a Working Group will keep a record of the error. The group will also provide details of the error with associated tests linked to the document in some way. The most common way is another published document which links to the W3C Recommendation. The Working Group will then [revise the recommendation](#) to correct the error.
+
+#### Revised Recommendation (Edited and Amended Recommendations)
+A Working Group can request republication of a revised recommendation to cover any identified errors or other issues identified after a document has progressed to W3C Recommendation. If a Working Group has already closed, then the W3C can request the change. 
+
+Editorial changes can be progressed without going back to another stage in the [Recommendation Track](#). [Substantive changes](https://w3c.github.io/w3process/#substantive-change) can require the document to go back to [Candidate Recommendation](#) or, when a Working Group no longer exists, a "Candidate Amended Recommendation".
+
+If the Working Group edited the document the recommendation becomes an "Edited Recommendation". If the W3C requested and completed the changes the document becomes an "Amended Recommendation". 
+
+All [Transition Request](#) requirements apply to revised recommendations as they do for any other stage of the [Recommendation Track](#).
+
+### Rescinded, Obsolete or Superseded Recommendations
+The W3C could decide that a W3C Recommendation is no longer recommended. There are three ways of categorising these Recommendations which have become non-reccomended:
+
+* An "Obsolete Recommendation" if it is either no longer often used on the web or doesn't represent best practices. These continue to exist as W3C Recommendations but are not recommended for future implementations. They may be restored to a Recommendation.
+* A "Superseded Recommendation" if it's been replaced with a newer specification. These continue to exist as W3C Recommendations but are not recommended for future implementations. They may be restored to a Recommendation.
+* A "Rescinded Recommendation" is a document which W3C no longer endorses, and will never restore to a Recommendation. 
+
+There will be an [AC Review](#) for any request for a W3C Recommendation to become obsolete, superceded or rescinded. [The Director](#) will notify the [AC](#), Working Group Chairs and the public of the request, detailing where to find the Recommendation and the rationale for the request. All stakeholders (including the AC and the public) will have at least 28 days after the Director's announcement to send in their reviews. Please see the [W3C Process Document](https://w3c.github.io/w3process/#rec-rescind) for details on what happens if someone disagrees with moving the document to be obsolete, superceded or rescinded.
+
+The document will then be replublished as an Obsolete or Rescinded Recommendation. Future W3C Recommendations will not normatively reference Rescinded Recommendations. 
+
+If only a part of a W3C Recommendation needs to be obsoleted, superceded or rescinded then the document must go through the [Revised Recommendation](#) process. 
 
 # Understanding W3C Participants
 W3C has a number of participants. Below is a list of these and their roles.
@@ -223,7 +264,7 @@ The Director is the lead technical architect at W3C. They have a number of respo
 * chairing the [TAG](#).
 
 ## Advisory Committee (AC)
-Each W3C member organisation can nominate one person to the W3C Advisory Committee (AC). This Advisory Committee member will be added to both AC Mailing Lists (XXXXX for general annoucements and XXXXX for AC discussions) and are invited to AC meetings. The AC's responsibilities include:
+Each W3C member organisation can nominate one person to the W3C Advisory Committee (AC). This Advisory Committee member will be added to both AC Mailing Lists (XXXXX for general annoucements and XXXXX for AC discussions) and are invited to AC meetings. The AC responsibilities include:
 
 * Reviewing group charter proposals, proposed recommendations and proposed process documents
 * Electing [Advisory Board](#) members
@@ -236,6 +277,21 @@ The AC holds two face-to-face meetings a year: during TPAC (sometime during Sept
 Advisory Committee should consult the [W3C Process Document](https://w3c.github.io/w3process/#coi) for instructions on disclosing relevant information.
 
 For more information on AC membership and responsibilities, please see the [W3C Process Document](https://w3c.github.io/w3process/#ac).
+
+### AC Reviews
+The [AC](#) will review new or modified Working and Interest Groups, [Proposed Recommendations](#), proposals to [Obsolete, Rescind, Supersede, or Restore Recommendations](#), and
+proposed changes to the W3C process. Typically, these review periods are at least 28 days long.
+
+[The Team](#) will send a "Call for Review" to the AC on the AC Mailing List. Each AC member may send in one review on behalf of their [W3C Member](#) organisation. AC Members can modify their reviews until the review period has ended.
+
+After the review has ended, [The Director](#) will announce the results of the review detailing support and any formal objections. The proposal could be approved, approved with changes, returned for further work or rejected. Please consult the [W3C Process Document](https://w3c.github.io/w3process/#ACReview) for a break down of each of these.
+
+### AC Appeals
+The [AC](#) can appeal W3C decisions. This is a rare occurance though it does happen. These appeals are usually related to Working or Interest Group creation or modification or document progressions through the [Recommendation Track](#). For a fuller list of decisions which can be appealed please see the [W3C Process Document](https://w3c.github.io/w3process/#ACAppeal).
+
+Appeals are intiated within three weeks of the original decision. AC Members send an appeal to the [Team](#), the Team then announce this appeal to the AC allowing the AC to support the appeal if they wish. 
+
+If a substantial amount of support is recieved within a certain timeframe then a ballot may be arranged to assess whether the AC supports or rejects the Director's decision. Please consult the [W3C Process Document](https://w3c.github.io/w3process/#ACAppeal) for details on the requirements and running of this ballot.
 
 ## The W3C Team
 The Team consists of the Director, CEO, W3C paid staff, unpaid interns, and [W3C Fellows](https://www.w3.org/Consortium/Recruitment/Fellows) (Member employees working as part of the Team).  
@@ -392,8 +448,16 @@ Generally all information related to specification development should be publicl
 
 For more information on confidentiality levels, the rules on sharing confidential data and changing confidentiality level please see the [W3C Process Document](https://w3c.github.io/w3process/#confidentiality-levels).
 
-## "Call for Exclusions" detailed in the W3C Patent Policy
+# Workshops and Symposia
+Workshops are organised by W3C for a number of reasons, including: promoting involvement for new W3C activities, gathering experts to exchange ideas on technology or policy, discovering the applicability of a new technology to the Web (or vice versa) or to address concerns of W3C members.
 
+A Symposium aims to educate participants on a particular subject. 
+
+Workshops and Symposium may be limited to W3C Members or open to the public. Often these events result in new groups or work items within W3C, but this is not guarenteed. 
+
+Workshops and Symposium has some participation and organisation rules, please see the W3C Process Document](https://w3c.github.io/w3process/#GAEvents) for details of these. 
+
+# Liaisons
 
 
 
