@@ -159,7 +159,7 @@ W3C Recommendations can become:
 * A "Rescinded Recommendation" is a document which W3C no longer endorses, and will never restore to a Recommendation. 
 * A "Working Group Note, Interest Group Note", see [W3C Note](#).
 
-## Tranition Requests and Moving Between Track Stages  
+## Transition Requests and Moving Between Track Stages  
 Going from one stage to the next involves making a "Transition Request". Team contacts will make Transition Requests once a number of goals have been met. These include: 
 
 * Obtaining and record group consensus
