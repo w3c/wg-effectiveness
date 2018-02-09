@@ -1,7 +1,7 @@
 _New to this repo? Feel free to comment on and add [issues](https://github.com/w3c/wg-effectiveness/issues)._
 
 # Working Group Effectiveness Task Force
-Weekly call time 2pm UTC seond Friday of the month. Natasha Rooney chairs.
+Montlhy call time 2pm UTC seond Friday of the month. Natasha Rooney chairs.
 
 The Working Group Effectiveness Task Force is a W3C AB organised task force which aims to assess and work on solutions to improve working group effectiveness in W3C working groups. 
 
