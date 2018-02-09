@@ -15,12 +15,12 @@ Chair sessions including dedicated breakout sessions at TPAC which can be both i
 #### Buddy Process
 Describing a system on [Buddy System](https://github.com/w3c/wg-effectiveness/blob/master/buddy_system.md). 
 
-## Invigorating the Chair Mailing List
+#### Invigorating the Chair Mailing List
 A few of us sent a mail to the chairs mailing list, what happening?!
 
 Tzviya commented  in the last meeting that having a “Welcome Email” for chairs would be a good idea also. I have started a document in our GitHub repo for us to begin drafting these email <https://github.com/w3c/wg-effectiveness/blob/master/chair_emails.md
 
-## Chair Emails
+#### Chair Emails
 What else should we include in the [chair email templates](https://github.com/w3c/wg-effectiveness/blob/master/chair_emails.md)?
 
 #### Co-Chairs
