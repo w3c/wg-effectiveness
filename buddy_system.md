@@ -4,10 +4,10 @@ Please use this file to add discussion about the buddy system.
 ## Process
 Here is an overview of a process for a buddy system for chairs at W3C. 
 
-* Create chairbuddies@w3c.org (or some equivalent mailing list)
+* Create chairbuddies@w3.org (or some equivalent mailing list)
 * Assign responsible individual from W3C Team
-* Email the chairs mailing list. State that we're setting up a buddy system, and those who are interested can subscribe to chairbuddies@w3c.org
-  * Ask chairs to email either the W3C Team member or chairbuddies@w3c.org to volunteer to be a chair or to request a chair buddy.
+* Email the chairs mailing list. State that we're setting up a buddy system, and those who are interested can subscribe to chairbuddies@w3.org
+  * Ask chairs to email either the W3C Team member or chairbuddies@w3.org to volunteer to be a chair or to request a chair buddy.
 * Make a list of chairs or past chairs who would be suitable buddies
   * Email these people, ask them if they would volunteer to be a buddy (buddy-mentor)
 * Begin pairing those people who request to have a buddy, with those who volunteer to be a buddy (buddy-mentee).
