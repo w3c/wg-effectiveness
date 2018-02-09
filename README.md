@@ -25,7 +25,7 @@ In TPAC 2017 there was a huge support from chairs for a Buddy System. We're begi
 #### Invigorating the Chair Mailing List
 The Task Force is attempting to make the chair mailing a list a more useful tools for chairs to give advice, ask questions and share experiences. If you're a chair or task force member please feel free to start a new topic on the chair mailing list, or respond to already sent related mails.
 
-### Co-Chairs
+#### Co-Chairs
 A number of standards bodies operate a two-chair system for working groups. This allows a chair flexibiltiy, and a sharing of responsibilities. It also takes pressure off the team contact. The Task Force is discussing whether this would work for W3C.
 
 ### [Guide] Updated /guide (Easy to Read and Access Information for New and Existing Attendees)
@@ -54,7 +54,7 @@ Testing has become an essential part of standards development, but it's taking a
 ### [CSI] Common Standards Issues Document and Triage Process
 The Task Force are continuing work on the [Common Standards Issues](https://github.com/w3c/wg-effectiveness/blob/master/CSI.md) Document. This will be presented to the AC at AC2018.
 
-#### [Ombudsman] Ombudsman for Working Group Effectiveness with Guidelines for Escalation
+### [Ombudsman] Ombudsman for Working Group Effectiveness with Guidelines for Escalation
 W3C currently has team contacts who can be approached with issues related to working group effectivness. This team should be reviewed (possibly adding some non team contacts) and promoted within the W3C. The team should have guidelines on what happens when issues need to be escalated. The task force will need to work on a flow. 
 
 ## Links to current chair/team resources:
