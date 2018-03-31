@@ -24,6 +24,20 @@ The Director is the lead technical architect at W3C. They have a number of respo
 * deciding on outcomes for formal objections
 * chairing the [TAG](#).
 
+## Advisory Board (AB)
+The Advisory Board (AB) provides ongoing guidance to the Team on issues of strategy, management, legal matters, process, and conflict resolution. The AB also manages the evolution of the [W3C Process Document](https://w3c.github.io/w3process/).
+
+The AB is devised of nine individuals elected by the [AC](), and one team-elected chair (currently the W3C CEO). AB members participate as individuals, not on behalf of their employer. The AB provides updates on AB activities on the [AB website](https://www.w3.org/2002/ab/) and at AC Meetings.
+
+For more information on AB members, terms, election process and responsibilities, please see the [AB Website](https://www.w3.org/2002/ab/) and the [W3C Process Document](https://w3c.github.io/w3process/).
+
+## Technical Architecture Group (TAG)
+The work of the Technical Architecture Group (TAG) is focused on Web Architecture and technical outputs of W3C. The TAG will discuss and resolve issues on Web Architecture related topics and coordinate cross-technology architecture developments inside and outside W3C.
+
+The TAG is devised of the W3C Director (currently Tim Berners-Lee, who is also a TAG life-member), three director-appointed individuals and six individuals elected by the [AC](). TAG members participate as individuals, not on behalf of their employer. The TAG provides updates on it's activities at AC Meetings and towards the AC on the AC (Annoucement / Discussion?!) Mailing List.
+
+For more information on TAG members, terms, election process and responsibilities, please see the [TAG Website](https://www.w3.org/2001/tag/) and the [W3C Process Document](https://w3c.github.io/w3process/#TAG).
+
 ## Advisory Committee (AC)
 Each W3C member organisation can nominate one person to the W3C Advisory Committee (AC). This Advisory Committee member will be added to both AC Mailing Lists (XXXXX for general annoucements and XXXXX for AC discussions) and are invited to AC meetings. The AC responsibilities include:
 
@@ -53,20 +67,6 @@ The [AC](#) can appeal W3C decisions. This is a rare occurance though it does ha
 Appeals are intiated within three weeks of the original decision. AC Members send an appeal to the [Team](#), the Team then announce this appeal to the AC allowing the AC to support the appeal if they wish. 
 
 If a substantial amount of support is recieved within a certain timeframe then a ballot may be arranged to assess whether the AC supports or rejects the Director's decision. Please consult the [W3C Process Document](https://w3c.github.io/w3process/#ACAppeal) for details on the requirements and running of this ballot.
-
-## Advisory Board (AB)
-The Advisory Board (AB) provides ongoing guidance to the Team on issues of strategy, management, legal matters, process, and conflict resolution. The AB also manages the evolution of the [W3C Process Document](https://w3c.github.io/w3process/).
-
-The AB is devised of nine individuals elected by the [AC](), and one team-elected chair (currently the W3C CEO). AB members participate as individuals, not on behalf of their employer. The AB provides updates on AB activities on the [AB website](https://www.w3.org/2002/ab/) and at AC Meetings.
-
-For more information on AB members, terms, election process and responsibilities, please see the [AB Website](https://www.w3.org/2002/ab/) and the [W3C Process Document](https://w3c.github.io/w3process/).
-
-## Technical Architecture Group (TAG)
-The work of the Technical Architecture Group (TAG) is focused on Web Architecture and technical outputs of W3C. The TAG will discuss and resolve issues on Web Architecture related topics and coordinate cross-technology architecture developments inside and outside W3C.
-
-The TAG is devised of the W3C Director (currently Tim Berners-Lee, who is also a TAG life-member), three director-appointed individuals and six individuals elected by the [AC](). TAG members participate as individuals, not on behalf of their employer. The TAG provides updates on it's activities at AC Meetings and towards the AC on the AC (Annoucement / Discussion?!) Mailing List.
-
-For more information on TAG members, terms, election process and responsibilities, please see the [TAG Website](https://www.w3.org/2001/tag/) and the [W3C Process Document](https://w3c.github.io/w3process/#TAG).
 
 ## The W3C Team
 The Team consists of the Director, CEO, W3C paid staff, unpaid interns, and [W3C Fellows](https://www.w3.org/Consortium/Recruitment/Fellows) (Member employees working as part of the Team).  
