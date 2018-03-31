@@ -373,9 +373,6 @@ Both the Director and AC decisions could send the document back to a previous st
 
 The W3C and / or the Director can stop the advancement of a draft at any stage; the AC will be made aware if this happens. Recommendations may become Obsolete or Resinded. For more information on these and detail breakdowns of the recommendation flow please see the [W3C Process Document](https://w3c.github.io/w3process/#maturity-levels).
 
-## Ending a Document
-Working on a document can end at any time. 
-
 ## Reviewing Documents
 Documents can be reviewed as soon as they are published. Sending reviews in early is always advised. W3C participants often state that a document should receive "Wide Review"; but this term is not defined by the [W3C Process Document](https://w3c.github.io/w3process/#wide-review). 
 
@@ -388,6 +385,9 @@ When the Director reviews the document during a [Transition Request](#) they wil
 
 ## Document Changes
 The [W3C Process Document](https://w3c.github.io/w3process/#correction-classes) defines some classes of document changes which gives reviewers some aid in deciding whether the document status has to change (for example, a document at the Proposed Recommendation stage may need to go back to Working Draft). 
+
+## Ending a Document
+Working on a document can end at any time. 
 
 ## Modifying a W3C Recommendation
 
