@@ -109,6 +109,27 @@ A group sometimes will have **Task Forces** which carry our assignments which ar
 
 For more information on groups see the [W3C Process Document](https://w3c.github.io/w3process/#ChapterGroups).
 
+## Setting Up Interest and Working Groups
+The Process for setting up aan Interest or Working Group is explained below:
+
+* __Generating Interest__: a topic gains some interest within W3C. This could be via a [member submission](#), a [W3C run workshop](#), W3C team research, a [Community Group](#) or through the [WCIG](#).
+* __AC Announcement__: the Director announces the development of an Interest or Working Group charter.
+* __Charter Development__: the Interest / Working Group proponents work on the new group charter with a W3C team member.
+* __Member Review__: W3C members review the charter, and give feedback.
+* __Director Approval__: the Director approves the creation of the Interest / Working Group.
+* __Call For Participation__: the Director calls for participation in the newly formed group.
+
+Each Working Group and Interest Group will be supported by at least one [W3C team member](#). Group participants are usually [Member Represenatives](#) although [Invited Experts](#) may also be able to join groups.
+
+For more information, please see the [W3C Process Document](https://w3c.github.io/w3process/#introduction).
+
+### Charters
+Interest and Working Group Charters include information related to the scope of the group's work, duration of the group, the deliverable, time commitments, milestones and dependancies. IPR information is also included. Deliverables which are to becomes Recommendation Track documents are included with their titles, URLs, publication date and status. For a full list of items to be included in the charter please see the [W3C Process Document](https://w3c.github.io/w3process/#WGCharter).
+
+### Group Extensions
+Interest and Working Group Charters can be extended past the duration initially identified in their Charter. For more rules associated with Charter extension please see the [W3C Process Document](https://w3c.github.io/w3process/#charter-extension).
+
+
 ## Participants
 Participants in Interest and Working Groups should be technically capable, fair and confident to speak and interact with others in the group. There are four types of group participant; all can participate in an Interest Group, all but ***public participants*** can participate in a Working Group.
 
@@ -209,26 +230,6 @@ Voting may also be used for minority issues; these votes have less stringest rul
 Groups may close because they have achieved their deliverables, reached their duration and do not wish to extend, or because they cannot achieve their charter goals for some reason (e.g. insufficent resources).
 
 The [Director](#) sends a mail to the AC to confirm a group has closed. 
-
-# Setting Up Interest and Working Groups
-The Process for setting up aan Interest or Working Group is explained below:
-
-* __Generating Interest__: a topic gains some interest within W3C. This could be via a [member submission](#), a [W3C run workshop](#), W3C team research, a [Community Group](#) or through the [WCIG](#).
-* __AC Announcement__: the Director announces the development of an Interest or Working Group charter.
-* __Charter Development__: the Interest / Working Group proponents work on the new group charter with a W3C team member.
-* __Member Review__: W3C members review the charter, and give feedback.
-* __Director Approval__: the Director approves the creation of the Interest / Working Group.
-* __Call For Participation__: the Director calls for participation in the newly formed group.
-
-Each Working Group and Interest Group will be supported by at least one [W3C team member](#). Group participants are usually [Member Represenatives](#) although [Invited Experts](#) may also be able to join groups.
-
-For more information, please see the [W3C Process Document](https://w3c.github.io/w3process/#introduction).
-
-## Charters
-Interest and Working Group Charters include information related to the scope of the group's work, duration of the group, the deliverable, time commitments, milestones and dependancies. IPR information is also included. Deliverables which are to becomes Recommendation Track documents are included with their titles, URLs, publication date and status. For a full list of items to be included in the charter please see the [W3C Process Document](https://w3c.github.io/w3process/#WGCharter).
-
-## Group Extensions
-Interest and Working Group Charters can be extended past the duration initially identified in their Charter. For more rules associated with Charter extension please see the [W3C Process Document](https://w3c.github.io/w3process/#charter-extension).
 
 # W3C Recommendations and Notes
 A W3C Recommendation is a recognised W3C standard (also referred to as a "Technical Report"). W3C Recommendations have been agreed and approved by a W3C Working Group, the [AC](#) and the Director.
