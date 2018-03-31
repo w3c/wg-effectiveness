@@ -171,11 +171,6 @@ Working and Interest Groups can be extended past their agreed Charter completion
 
 Details on group extensions can be found in the [W3C Process Document](https://w3c.github.io/w3process/#charter-extension). 
 
-## Closing a Group
-Groups may close because they have achieved their deliverables, reached their duration and do not wish to extend, or because they cannot achieve their charter goals for some reason (e.g. insufficent resources).
-
-The [Director](#) sends a mail to the AC to confirm a group has closed. 
-
 ## Meetings
 Meetings can either be face-to-face or "distributed" (via teleconference, IRC and / or video conferencing). Meeting announcements are sent on Interest or Working Group mailing lists.
 
@@ -209,6 +204,11 @@ Sometimes, no matter how hard a group tries, consensus cannot be reached for a d
 * Outcome of the vote should be recorded in the minutes.
 
 Voting may also be used for minority issues; these votes have less stringest rules. For details on this please see the [W3C Process Document](https://w3c.github.io/w3process/#Votes). 
+
+## Closing a Group
+Groups may close because they have achieved their deliverables, reached their duration and do not wish to extend, or because they cannot achieve their charter goals for some reason (e.g. insufficent resources).
+
+The [Director](#) sends a mail to the AC to confirm a group has closed. 
 
 # Setting Up Interest and Working Groups
 The Process for setting up aan Interest or Working Group is explained below:
