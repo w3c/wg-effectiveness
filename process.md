@@ -119,16 +119,13 @@ Each Working Group and Interest Group will be supported by at least one [W3C tea
 For more information, please see the [W3C Process Document](https://w3c.github.io/w3process/#introduction).
 
 ## Charter and Call for Participation
-All Working and Interest Groups have a Charter. Charters are developed by W3C Members and W3C Team (staff) members. Charters can be made at any time. 
+All Working and Interest Groups have a Charter. Charters are developed by [W3C Members](#members) and [W3C team members](#the-w3c-team). Charters can be made at any time. 
 
-When a new Charter is made the proponents (people writing the charter) make the Advisory Committee ([AC](#)) aware of the new charter through the [AC mailing list](#) list. The AC reviews all new charters for a minimum of four weeks. 
+When a new Charter is made the proponents (people writing the charter) make the Advisory Committee ([AC](#advisory-committee-ac)) aware of the new charter through the [AC mailing list](#) list. The AC reviews all new charters for a minimum of four weeks. 
 
-After the AC has approved the Charter, the [Director](#) calls for participation in the group, inviting all AC members to join or nominate colleagues to join the group. 
+After the AC has approved the Charter, the [Director](#the-director) calls for participation in the group, inviting all [AC members](#advisory-committee-ac) to join or nominate colleagues to join the group. 
 
-Details on the Call for Participation and AC Appeals against a Working or Interest Group being created please see the [W3C Process Document](https://w3c.github.io/w3process/#cfp). 
-
-### Charters
-Interest and Working Group Charters include information related to the scope of the group's work, duration of the group, the deliverable, time commitments, milestones and dependancies. IPR information is also included. Deliverables which are to becomes Recommendation Track documents are included with their titles, URLs, publication date and status. For a full list of items to be included in the charter please see the [W3C Process Document](https://w3c.github.io/w3process/#WGCharter).
+For details on the Call for Participation and AC Appeals against Working or Interest Groups being created please see the [W3C Process Document](https://w3c.github.io/w3process/#cfp). 
 
 ### Charter Contents
 Group charters include the following information:
@@ -150,31 +147,28 @@ Group charters include the following information:
 * Expected time commitments from the team (W3C staff)
 * Intellectual property information.
 
-Other possible items to include in the Charter is participation requirements (for Interest Groups), voting procedures, and constraints on participants and deliverables not covered in the [W3C Process Document](https://w3c.github.io/w3process/)
+Other possible items to include in the Charter is participation requirements (for Interest Groups), voting procedures, and constraints on participants and deliverables not covered in the [W3C Process Document](https://w3c.github.io/w3process/).
 
 Further details can be found in the [W3C Process Document](https://w3c.github.io/w3process/#WGCharter). 
 
 @todo include information on Reference Drafts and other terminology as of 5.2.6.
 
 ### Charter Extensions
-Working and Interest Groups can be extended past their agreed Charter completion dates. The [Director](#) can do this by simply announcing to the [AC Mailing List](#) that the group has been extended and the new time period.
+Working and Interest Groups can be extended past their agreed Charter completion dates. The [Director](#the-director) can do this by simply announcing to the [AC Mailing List](#) that the group has been extended and the new time period.
 
 Details on group extensions can be found in the [W3C Process Document](https://w3c.github.io/w3process/#charter-extension). 
-
-### Group Extensions
-Interest and Working Group Charters can be extended past the duration initially identified in their Charter. For more rules associated with Charter extension please see the [W3C Process Document](https://w3c.github.io/w3process/#charter-extension).
 
 ## Participants
 Participants in Interest and Working Groups should be technically capable, fair and confident to speak and interact with others in the group. There are four types of group participant; all can participate in an Interest Group, all but ***public participants*** can participate in a Working Group.
 
 * **Member Representatives**: An individual representative from a W3C member oragnisation. AC members nominate people within their organisation to participate within groups (in some cases an AC member may be able to [nominate someone from outside their organisation](https://w3c.github.io/w3process/#member-rep)). 
   * **Members in Working Groups:** Before joining the group, the AC member sends a statement that confirms the new member agrees with the participation terms detailed in the charter. 
-  * **Members in Interest Groups:** Before joining the group, the AC member checks the participation intructions in the group charter (which can involve a statement as for working groups or could simply involve signing the new member up to the group mailing list).
+  * **Members in Interest Groups:** Before joining the group, the AC member checks the participation intructions in the group charter (which can involve a statement as for working groups or could simply involve adding the new member to the group mailing list).
 * **Invited Experts**: an individual with valuable expertise to a group and is not an employee of a W3C Member. [Detailed rules](https://w3c.github.io/w3process/#group-participation) apply for becoming an Invited Expert. 
 * **Team Representatives**: staff members of W3C. Team members can be a Team Contact or a regular participant of a group. 
 * **Public Participants**: members of the public. Cannot be Working Group participants. 
 
-Generally all group members are members of the group until the group closes or they [resign](resigns) from the group. 
+Generally all group members are members of the group until the group closes or they resign from the group. 
 
 For more information on members including dismisal processes see the W3C Process Document on [Participation Criteria](https://w3c.github.io/w3process/#ParticipationCriteria) and [Group Participation](https://w3c.github.io/w3process/#group-participation).
 
@@ -208,12 +202,12 @@ Individuals may raise a **Formal Objection** against Interest or Working Group d
 
 For more information on Formal Objections please see the [W3C Process Document](https://w3c.github.io/w3process/#Consensus).
 
-## Votes
-Sometimes, no matter how hard a group tries, consensus cannot be reached for a decision. In these cases, voting is sometimes used. Chairs must follow clear steps and record a set of information when voting, for details on this please see the [W3C Process Document](https://w3c.github.io/w3process/#Votes). Simply:
+## Voting
+Sometimes, no matter how hard a group tries, consensus cannot be reached for a decision. In these cases, voting is sometimes used. Chairs must follow clear steps and record a set of information when voting, for details on this please see the [W3C Process Document](https://w3c.github.io/w3process/#Votes). Here is a simple overview of the process:
 
 * Votes generally only happen when consensus cannot be reached
 * Chairs must detail the issue and voting process
-* Only group participants may vote
+* Only group [participants](#participants) may vote
 * Each organisation only receives one vote (even if they have more members in the group)
 * Invite experts can vote
 * Outcome of the vote should be recorded in the minutes.
@@ -223,28 +217,28 @@ Voting may also be used for minority issues; these votes have less stringest rul
 ## Closing a Group
 Groups may close because they have achieved their deliverables, reached their duration and do not wish to extend, or because they cannot achieve their charter goals for some reason (e.g. insufficent resources).
 
-The [Director](#) sends a mail to the AC to confirm a group has closed. 
+The [Director](#the-director) sends a mail to the [AC](#advisory-committee-ac) to confirm a group has closed. 
 
 # W3C Recommendations and Notes
-A W3C Recommendation is a recognised W3C standard (also referred to as a "Technical Report"). W3C Recommendations have been agreed and approved by a W3C Working Group, the [AC](#) and the Director.
+A W3C Recommendation is a recognised W3C standard (also referred to as a "Technical Report"). W3C Recommendations have been agreed and approved by a W3C Working Group, the [AC](#advisory-committee-ac) and the [Director](#the-director).
 
 All W3C Recommendations can be found in the [index of W3C technical reports](https://www.w3.org/TR/). 
 
-W3C Groups can also publish W3C Notes which are not Recommendation Track documents. These could be use case lists, guidance, status of abandonded work, etc.  
+W3C Groups can also publish **W3C Notes** which are not Recommendation Track documents. Examples of W3C Notes include: lists of use cases, guidance, status of abandonded work, etc.  
 
-Notes also follow the [The Recommendation Track](#). They are usually declared as notes in **Publication of zero or more revised Public Working Drafts:** stage. 
+W3C Notes also follow the [The Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track). They are usually declared as notes in **Publication of zero or more revised Public Working Drafts:** stage. 
 
 For more information please see the [W3C Process Document](https://w3c.github.io/w3process/#Note).
 
 ## Requirements for W3C Recommenations (Technical Reports)
-W3C Technical Reports are public documents at every stage on the [Recommendation Track](#). The document will display a set information including:
+W3C Recommenations (Technical Reports) are public documents at every stage of the [Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track). The document will display a set information including:
 
-* the document's maturity level (see [Recommendation Track](#))
-* the Working Group who developed the document
-* instructions on how and where to file bugs
-* "next steps" for the document
-* explanation on how this document relates to existing web standards
-* explanation of changes from the previous document version (a "change log").
+* The document's maturity level (see [Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track))
+* The Working Group who developed the document
+* Instructions on how and where to file bugs
+* "Next Steps" for the document
+* Explanation on how this document relates to existing web standards
+* Explanation of changes from the previous document version (a "Change Log").
 
 ## Editors
 Every W3C Recommenation (Technical Report) will have one or more Editors. These Editors are responsible for writing a document in a way which reflects the decisions of the Working Group. All Editors must be members of the Working Group responsible for the document they are editing. 
@@ -257,21 +251,21 @@ A typical flow of a document from draft to Technical Report is:
 
 @todo: show diagram
 
-* **(Optional) Creation of Editor's Drafts:** anyone can start an Editor's Draft. Working Group members will often develop these as individuals or within a small group and then submit them to a group to be considered for a First Public Working Draft of a group. 
+* **(Optional) Creation of Editor's Drafts:** anyone can start an Editor's Draft. Working Group members will often develop these as individuals or within a small group and then submit them to a group to be considered for a First Public Working Draft. 
   * Maturity Level: Editors Draft
   * To progress to next step: submit the Editor's Draft to the Working Group via the Working Group mailing list (email). 
 * **Publication of the First Public Working Draft:** a draft document, which can be reviewed by the members of the group and the public. 
   * Maturity Level: Working Draft
-  * To progress to next step: Working Group agress, Director approves.
-* **Publication of zero or more revised Public Working Drafts:** the community makes suggested changed to the drafts, these are considered and possibly added to make a revised Public Working Draft. 
+  * To progress to next step: Working Group consensus on the document, Director approves.
+* **Publication of zero or more revised Public Working Drafts:** the community makes suggested changes to the drafts, these are considered and possibly added to make a revised Public Working Draft. 
   * Maturity Level: Working Draft
-  * To progress to next step: Working Group agrees, Director approves.
-* **Publication of a Candidate Recommendation:** when the Working Group agrees the document is ready for final review the document is progressed to Candidate Recommendation. The document should satisfy all it's technical requirements, and it should have some working [implementations](#). A Working Group should be confident that this document is final. The AC reviews the draft, implementations are encouraged and an opportunity to provide a patent exclusion is made. 
+  * To progress to next step: Working Group consensus on the document, Director approves.
+* **Publication of a Candidate Recommendation:** when the Working Group agrees the document is ready for final review the document is progressed to Candidate Recommendation. The document should satisfy all it's technical requirements, and it should have some working implementations. A Working Group should be confident that this document is final. The [AC](#advisory-committee-ac) reviews the draft, implementations are encouraged and an opportunity to provide a patent exclusion is made. 
   * Maturity Level: Candidate Recommendation
-  * To progress to next step: Working Group approves, [AC](#) reviews, Director approves.
-* **Publication of a Proposed Recommendation:** The W3C Director has agreed the document is of sufficient quality to be a standard, the AC now reviews the document as final. Any changes at this stage requires a new Working Draft or Candidate Recommendation. 
+  * To progress to next step: Working Group approves, [AC](#ac-reviews) Review, Director approves.
+* **Publication of a Proposed Recommendation:** The W3C Director has agreed the document is of sufficient quality to be a standard, the [AC](#advisory-committee-ac) now reviews the document as final. Any changes at this stage requires a new Working Draft or Candidate Recommendation. 
   * Maturity Level: Proposed Recommendation
-  * To progress to next step: Working Group approves, [AC](#) reviews, Director approves.
+  * To progress to next step: Working Group consensus on the document, [AC](#ac-reviews) Review, Director approves.
 * **Publication as a W3C Recommendation:** the document is now a standard for the Web. 
   * Maturity Level: W3C Recommendation
 * **Possibly, Publication as an Edited Recommendation:** a W3C Recommendation receives edits, and must progress these edits through the process.
