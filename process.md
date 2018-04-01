@@ -452,10 +452,57 @@ W3C sometimes coordinates acitivies with another organisation or informs other o
 [The Director](#the-director) can negotiate a Memorandum of Understanding (MoU) with another organisation. This may be for many reasons including the W3C working with another organisation on a joint piece of work. The [AC](#advisory-committee-ac) will be informed of an MoU before signing. For further details on MoU process please see the [W3C Process Document](https://w3c.github.io/w3process/#Liaisons).
 
 # Terms
-* __W3C Recommendation__: W3C standards are referred to as "W3C Recommendations".
-* __Technical Reports__: 
+* __The AB__: See [The Advisory Board](#advisory-board-ab)
+* __The AC__: See [The Advisory Committee](#advisory-committee-ac)
+* __AC Appeal__: See [AC Appeals](#ac-appeals)
+* __AC Review__: See [AC Reviews](#ac-reviews)
+* __Adopted Working Draft__:
+* __The Advisory Board__: See [The Advisory Board](#advisory-board-ab)
+* __The Advisory Committee__: See [The Advisory Committee](#advisory-committee-ac)
+* __text__:
+* __text__:
+* __text__:
+* __text__:
+* __text__:
+* __text__:
+* __text__:
+* __text__:
+* __Candidate Recommendation__:
+* __The Director__: See [The Director](#the-director)
+* __text__:
+* __text__:
+* __text__:
+* __text__:
+* __text__:
+* __text__:
+* __text__:
+* __Members__: See [Members](#members)
+* __Membership Consortia__: See [Membership Consortia](#membership-consortia)
+* __text__:
+* __text__:
+* __text__:
+* __text__:
+* __text__:
+* __The Process Document__: See [The Process Document](#the-process-document)
+* __text__:
+* __text__:
+* __text__:
 * __Reccomendation Track__:
-Adopted Working Draft
-Reference Draft: latest Working Draft published within 90 days of the First Public Working Draft or if no Public Working Draft 
-Candidate Recommendation
-Other Charter
+* __Reference Draft__: latest Working Draft published within 90 days of the First Public Working Draft or if no Public Working Draft __:
+* __The TAG__: See [The TAG](#technical-architecture-group-tag)
+* __The Team__: See [The W3C Team](#the-w3c-team)
+* __Team Submissions__: published information to the W3C Website put forward by the team see [The W3C Process Document](https://w3c.github.io/w3process/#TeamSubmission) for more information.
+* __text__:
+* __text__:
+* __The Technical Architectur Group__: See [The TAG](#technical-architecture-group-tag)
+* __text__:
+* __text__:
+* __text__:
+* __Technical Reports__: 
+* __W3C Recommendation__: W3C standards are referred to as "W3C Recommendations".
+* __The W3C Team__: See [The W3C Team](#the-w3c-team)
+* __W3C Fellows__: Member employees working as part of the Team. See [the W3C Website for more information](https://www.w3.org/Consortium/Recruitment/Fellows)
+* __W3C Members__: See [Members](#members)
+* __text__:
+* __text__:
+* __text__:
