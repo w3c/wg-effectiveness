@@ -465,25 +465,31 @@ W3C sometimes coordinates acitivies with another organisation or informs other o
 * __text__:
 * __text__:
 * __text__:
-* __text__:
-* __text__:
+* __Call For Participation__: See [Charter and Call for Participation](#charter-and-call-for-participation)
 * __Candidate Recommendation__:
+* __Charter__: See [Charter and Call for Participation](#charter-and-call-for-participation)
+* __Consensus__: See [Consensus and Formal Objections](#consensus-and-formal-objections)
 * __The Director__: See [The Director](#the-director)
-* __text__:
-* __text__:
-* __text__:
-* __text__:
+* __Dissent__: See [Consensus and Formal Objections](#consensus-and-formal-objections)
+* __Formal Objections__: See [Consensus and Formal Objections](#consensus-and-formal-objections)
+* __Group Decision Appeal__: See [Group Decision Appeals and Formal Objections](#group-decision-appeals-and-formal-objections)
+* __Interest Group__: See [W3C Interest and Working Groups](#w3c-interest-and-working-groups)
+* __Interest Group Notes__: See [W3C Interest and Working Groups](#w3c-interest-and-working-groups)
+* __Invited Experts__: See [Participants](#participants)
 * __text__:
 * __text__:
 * __text__:
 * __Members__: See [Members](#members)
 * __Membership Consortia__: See [Membership Consortia](#membership-consortia)
+* __Member Representative__: See [Participants](#participants)
 * __text__:
 * __text__:
+* __Notes__: See [W3C Interest and Working Groups](#w3c-interest-and-working-groups)
 * __text__:
 * __text__:
-* __text__:
+* __Participant__: See [Participants](#participants)
 * __The Process Document__: See [The Process Document](#the-process-document)
+* __Public Participant__: See [Participants](#participants)
 * __text__:
 * __text__:
 * __text__:
@@ -491,18 +497,26 @@ W3C sometimes coordinates acitivies with another organisation or informs other o
 * __Reference Draft__: latest Working Draft published within 90 days of the First Public Working Draft or if no Public Working Draft __:
 * __The TAG__: See [The TAG](#technical-architecture-group-tag)
 * __The Team__: See [The W3C Team](#the-w3c-team)
+* __Team Representatives__: See [Participants](#participants)
 * __Team Submissions__: published information to the W3C Website put forward by the team see [The W3C Process Document](https://w3c.github.io/w3process/#TeamSubmission) for more information.
 * __text__:
 * __text__:
 * __The Technical Architectur Group__: See [The TAG](#technical-architecture-group-tag)
 * __text__:
 * __text__:
-* __text__:
-* __Technical Reports__: 
-* __W3C Recommendation__: W3C standards are referred to as "W3C Recommendations".
+* __Task Forces__: See [W3C Interest and Working Groups](#w3c-interest-and-working-groups)
+* __Technical Reports__: See [W3C Interest and Working Groups](#w3c-interest-and-working-groups)
+* __W3C Recommendation__: See [W3C Recommendations and Notes](#w3c-recommendations-and-notes)
 * __The W3C Team__: See [The W3C Team](#the-w3c-team)
 * __W3C Fellows__: Member employees working as part of the Team. See [the W3C Website for more information](https://www.w3.org/Consortium/Recruitment/Fellows)
 * __W3C Members__: See [Members](#members)
 * __text__:
 * __text__:
+* __Working Group__: See [W3C Interest and Working Groups](#w3c-interest-and-working-groups)
+* __Working Group Charter__: See [Charter and Call for Participation](#charter-and-call-for-participation)
+* __Working Group Notes__: See [W3C Interest and Working Groups](#w3c-interest-and-working-groups)
+* __Working Group Participants__: See [Participants](#participants)
+* __text__:
+* __text__:
+* __Voting__: See [Voting](#voting)
 * __text__:
