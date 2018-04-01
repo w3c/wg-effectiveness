@@ -359,6 +359,9 @@ Going from one stage to the next involves making a "Transition Request". Team co
 
 It's recommended to include some other information such as details on implementations, changes to requirements or dependencies with other groups. A full list of goals an exclusions is included in the [W3C Process Document](https://w3c.github.io/w3process/#transition-reqs).
 
+### Implementation Experience
+***Adaquate implementation experience*** is required to progress documents to W3C Recommendation. There is no checklist for "adaquate implementation experience", but group participants should strive to gather implementations that are publicly deployed, matching the proposed draft, and implemented by those other than the draft authors. For full guidelines see the [W3C Process Document](https://w3c.github.io/w3process/#implementation-experience).
+
 ### Moving Backwards in the Recommendation Track
 Both the [Director](#the-director) and [AC](#advisory-committee-ac) decisions could send the document back to a previous stage on The Recommendations Track. It is possible and common for the Director and AC to suggest changes which sends the document back to the Public Working Draft stage. 
 
@@ -374,9 +377,6 @@ When the [Director](#the-director) reviews the document during a [Transition Req
 
 ### Correction Classes
 The [W3C Process Document](https://w3c.github.io/w3process/#correction-classes) defines some classes of document changes which gives reviewers some aid in deciding whether the document status has to change (for example, a document at the Proposed Recommendation stage may need to go back to Working Draft). 
-
-## Implementation Experience
-***Adaquate implementation experience*** is required to progress documents to W3C Recommendation. There is no checklist for "adaquate implementation experience", but group participants should strive to gather implementations that are publicly deployed, matching the proposed draft, and implemented by those other than the draft authors. For full guidelines see the [W3C Process Document](https://w3c.github.io/w3process/#implementation-experience).
 
 ## Ending a Document
 Working on a document can end at any time. 
