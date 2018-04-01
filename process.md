@@ -54,18 +54,18 @@ Advisory Committee members may need to disclose certain information, please cons
 For more information on AC membership and responsibilities, please see the [W3C Process Document](https://w3c.github.io/w3process/#ac).
 
 ### AC Reviews
-The [AC](#advisory-committee-ac) will review new or modified Working and Interest Groups, [Proposed Recommendations](#proposed-recommendation), proposals to [Obsolete, Rescind, Supersede, or Restore Recommendations](#rescinded-obsolete-or-superseded-recommendations), and propose changes to the W3C process. Typically, these review periods are at least 28 days long.
+The [AC](#advisory-committee-ac) will review new or modified Working and Interest Groups charters, [Proposed Recommendations](#proposed-recommendation), proposals to [Obsolete, Rescind, Supersede, or Restore Recommendations](#rescinded-obsolete-or-superseded-recommendations), and propose changes to the W3C process. Typically, these review periods are at least 28 days.
 
-[The Team](#) will send a "Call for Review" to the AC on the AC Mailing List. Each AC member may send in one review on behalf of their [W3C Member](#) organisation. AC Members can modify their reviews until the review period has ended.
+[The Team](##the-w3c-team) will send a "Call for Review" to the AC on the AC Mailing List. Each AC member may send in one review on behalf of their [W3C Member](#understanding-w3c-members) organisation. AC Members can modify their reviews until the review period has ended.
 
-After the review has ended, [The Director](#) will announce the results of the review detailing support and any formal objections. The proposal could be approved, approved with changes, returned for further work or rejected. Please consult the [W3C Process Document](https://w3c.github.io/w3process/#ACReview) for a break down of each of these.
+After the review has ended, [The Director](#the-director) will announce the results of the review detailing support and any formal objections. The proposal could be: approved, approved with changes, returned for further work or rejected. Please consult the [W3C Process Document](https://w3c.github.io/w3process/#ACReview) for a break down of each of these.
 
 ### AC Appeals
-The [AC](#) can appeal W3C decisions. This is a rare occurance though it does happen. These appeals are usually related to Working or Interest Group creation or modification or document progressions through the [Recommendation Track](#). For a fuller list of decisions which can be appealed please see the [W3C Process Document](https://w3c.github.io/w3process/#ACAppeal).
+The [AC](#advisory-committee-ac) can appeal W3C decisions. This is rare. Appeals are usually related to Working or Interest Group creation or modification, or a document progressing through the [Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track). For a fuller list of decisions which can be appealed please see the [W3C Process Document](https://w3c.github.io/w3process/#ACAppeal).
 
-Appeals are intiated within three weeks of the original decision. AC Members send an appeal to the [Team](#), the Team then announce this appeal to the AC allowing the AC to support the appeal if they wish. 
+Appeals must start within three weeks of the a decision. AC Members send an appeal to the [Team](#the-w3c-team), the Team then announce this appeal to the AC allowing the AC to support the appeal if they wish. 
 
-If a substantial amount of support is recieved within a certain timeframe then a ballot may be arranged to assess whether the AC supports or rejects the Director's decision. Please consult the [W3C Process Document](https://w3c.github.io/w3process/#ACAppeal) for details on the requirements and running of this ballot.
+If a substantial amount of support is recieved within a certain timeframe then a vote may be organised. The vote will assess whether the AC supports or rejects the Director's decision. Please consult the [W3C Process Document](https://w3c.github.io/w3process/#ACAppeal) for details on the requirements and running of this ballot.
 
 ## The W3C Team
 The Team consists of the Director, CEO, W3C paid staff, unpaid interns, and [W3C Fellows](https://www.w3.org/Consortium/Recruitment/Fellows) (Member employees working as part of the Team).  
