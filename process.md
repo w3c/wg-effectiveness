@@ -1,15 +1,15 @@
 # W3C Process for Busy People
 This document breaks down the 2018 W3C Process. This text can be included in the [Guide and Github] deliverable of this task force.
 
-## Using this Document
+# Using this Document
 This document aims to provide readers with a shorter overview of the [W3C Process Document](https://w3c.github.io/w3process/) written in plain English. The original [W3C Process Document](https://w3c.github.io/w3process/) is a complete document, written to be legally accurate and give indepth detail on each item and process. This document aims to give an overview of the main document, so new and existing W3C participants can gain an understanding of all W3C processes and know where to go for more information.  
 
 Readers should note that this document is not a legal document, it does not replace the [W3C Process Document](https://w3c.github.io/w3process/), and it does not cover aspects of the W3C Patent Policy.
 
-# The Process Document
+## The Process Document
 The W3C standards process aims to maximise consensus and allow for standards to be built which are well-written, consistent and royalty-free. The full process document can be found [here](https://w3c.github.io/w3process/).
 
-## Updating the Process Document
+### Updating the Process Document
 The [W3C Process Document](https://w3c.github.io/w3process/) is updated similar to any W3C document. Every year, the [Process Community Group](https://www.w3.org/community/w3process/) amends the document based on comments expressed by the community, then sends the document for [AC Review](#ac-reviews). On a successful AC Review, the new process will be announced to the AC. More information can be found on the [W3C Process Document](https://w3c.github.io/w3process/#GAProcess).
 
 ## Language
