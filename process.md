@@ -456,67 +456,79 @@ W3C sometimes coordinates acitivies with another organisation or informs other o
 * __The AC__: See [The Advisory Committee](#advisory-committee-ac)
 * __AC Appeal__: See [AC Appeals](#ac-appeals)
 * __AC Review__: See [AC Reviews](#ac-reviews)
+* __Adaquate Implementation Experience__: See [Implementation Experience](#implementation-experience)
 * __Adopted Working Draft__:
 * __The Advisory Board__: See [The Advisory Board](#advisory-board-ab)
 * __The Advisory Committee__: See [The Advisory Committee](#advisory-committee-ac)
-* __text__:
-* __text__:
-* __text__:
-* __text__:
-* __text__:
-* __text__:
+* __Amended Recommendation__: See [Revised Recommendation (Edited and Amended Recommendations)](#revised-recommendation-edited-and-amended-recommendations)
 * __Call For Participation__: See [Charter and Call for Participation](#charter-and-call-for-participation)
-* __Candidate Recommendation__:
+* __Candidate Amended Recommendation__: See [Revised Recommendation (Edited and Amended Recommendations)](#revised-recommendation-edited-and-amended-recommendations)
+* __Candidate Recommendation__: See [Candidate Recommendation](#candidate-recommendation)
 * __Charter__: See [Charter and Call for Participation](#charter-and-call-for-participation)
+* __Confidentiality Levels__: See [Confidentiality Levels](#confidentiality-levels)
 * __Consensus__: See [Consensus and Formal Objections](#consensus-and-formal-objections)
+* __Correction Classes__: See [Correction Classes](#correction-classes)
 * __The Director__: See [The Director](#the-director)
+* __Dissemination Policies__: See [Communication](#communication)
 * __Dissent__: See [Consensus and Formal Objections](#consensus-and-formal-objections)
+* __Edited Recommendation__: See [Revised Recommendation (Edited and Amended Recommendations)](#revised-recommendation-edited-and-amended-recommendations)
+* __Editors__: See [Editors](#editors)
+* __Editors Drafts__: See [Editors](#editors-drafts)
+* __First Public Working Draft__: See (Working Draft)[#working-draft]
 * __Formal Objections__: See [Consensus and Formal Objections](#consensus-and-formal-objections)
 * __Group Decision Appeal__: See [Group Decision Appeals and Formal Objections](#group-decision-appeals-and-formal-objections)
+* __Horizontal Groups__: See [Reviewing Documents and Wide Review](#reviewing-documents-and-wide-review)
+* __Implementation Experience__: See [Implementation Experience](#implementation-experience)
 * __Interest Group__: See [W3C Interest and Working Groups](#w3c-interest-and-working-groups)
 * __Interest Group Notes__: See [W3C Interest and Working Groups](#w3c-interest-and-working-groups)
 * __Invited Experts__: See [Participants](#participants)
-* __text__:
-* __text__:
-* __text__:
+* __Liaisons__: See [Liaisons](#liaisons)
+* __Maturity Level__: See [Maturity Levels Explained](#maturity-levels-explained)
+* __Member Only__: See [Confidentiality Levels](#confidentiality-levels)
+* __Member Representative__: See [Participants](#participants)
+* __Member Submissions__: See [Member Submissions](#member-submissions)
 * __Members__: See [Members](#members)
 * __Membership Consortia__: See [Membership Consortia](#membership-consortia)
-* __Member Representative__: See [Participants](#participants)
-* __text__:
-* __text__:
 * __Notes__: See [W3C Interest and Working Groups](#w3c-interest-and-working-groups)
-* __text__:
-* __text__:
+* __Obsolete Recommendation__: See [Rescinded, Obsolete or Superseded Recommendations](#rescinded-obsolete-or-superseded-recommendations)
 * __Participant__: See [Participants](#participants)
 * __The Process Document__: See [The Process Document](#the-process-document)
+* __Proposed Recommendation__: See [Proposed Recommendation](#proposed-recommendation)
 * __Public Participant__: See [Participants](#participants)
-* __text__:
-* __text__:
-* __text__:
-* __Reccomendation Track__:
+* __Rec__: See [W3C Recommendation](#w3c-recommendation)
+* __Recommendation__: See [W3C Recommendation](#w3c-recommendation)
+* __Recommendation Track__: See [W3C Recommenation (Technical Report) Flow: The "Recommendation Track"](#w3c-recommenation-technical-report-flow-the-recommendation-track)
 * __Reference Draft__: latest Working Draft published within 90 days of the First Public Working Draft or if no Public Working Draft __:
+* __Rescinded Recommendation__: See [Rescinded, Obsolete or Superseded Recommendations](#rescinded-obsolete-or-superseded-recommendations)
+* __Revised Candidate Recommendation__: See [Revised Candidate Recommendation](#revised-candidate-recommendations)
+* __Revised Recommendation__: See [Revised Recommendation (Edited and Amended Recommendations)](#revised-recommendation-edited-and-amended-recommendations)
+* __Standard__: See [W3C Recommendation](#w3c-recommendation)
+* __Substantive Changes__: See the [W3C Process Document](https://w3c.github.io/w3process/#substantive-change) to see details on Substantive Changes.
+* __Superceded Recommendation__: See [Rescinded, Obsolete or Superseded Recommendations](#rescinded-obsolete-or-superseded-recommendations)
+* __Symposia__: See [Workshops and Symposia](#workshops-and-symposia)
 * __The TAG__: See [The TAG](#technical-architecture-group-tag)
+* __Task Forces__: See [W3C Interest and Working Groups](#w3c-interest-and-working-groups)
 * __The Team__: See [The W3C Team](#the-w3c-team)
+* __Team Contact__: See [The W3C Team](#the-w3c-team)
+* __Team Only__: See [Confidentiality Levels](#confidentiality-levels)
 * __Team Representatives__: See [Participants](#participants)
 * __Team Submissions__: published information to the W3C Website put forward by the team see [The W3C Process Document](https://w3c.github.io/w3process/#TeamSubmission) for more information.
-* __text__:
-* __text__:
 * __The Technical Architectur Group__: See [The TAG](#technical-architecture-group-tag)
-* __text__:
-* __text__:
-* __Task Forces__: See [W3C Interest and Working Groups](#w3c-interest-and-working-groups)
-* __Technical Reports__: See [W3C Interest and Working Groups](#w3c-interest-and-working-groups)
-* __W3C Recommendation__: See [W3C Recommendations and Notes](#w3c-recommendations-and-notes)
-* __The W3C Team__: See [The W3C Team](#the-w3c-team)
+* __Technical Report__: See [W3C Recommendation](#w3c-recommendation)
+* __TR__: See [W3C Recommendation](#w3c-recommendation)
+* __Transition Request__: See [Transition Requests and Moving Between Recommendation Track Stages](#transition-requests-and-moving-between-recommendation-track-stages)
 * __W3C Fellows__: Member employees working as part of the Team. See [the W3C Website for more information](https://www.w3.org/Consortium/Recruitment/Fellows)
 * __W3C Members__: See [Members](#members)
-* __text__:
-* __text__:
+* __W3C Member Submissions__: See [Member Submissions](#member-submissions)
+* __W3C Recommendation__: See [W3C Recommendation](#w3c-recommendation)
+* __W3C Symposia__: See [Workshops and Symposia](#workshops-and-symposia)
+* __The W3C Team__: See [The W3C Team](#the-w3c-team)
+* __W3C Workshop__: See [Workshops and Symposia](#workshops-and-symposia)
+* __Wide Review__: See [Reviewing Documents and Wide Review](#reviewing-documents-and-wide-review)
+* __Working Draft__: See (Working Draft)[#working-draft]
 * __Working Group__: See [W3C Interest and Working Groups](#w3c-interest-and-working-groups)
 * __Working Group Charter__: See [Charter and Call for Participation](#charter-and-call-for-participation)
 * __Working Group Notes__: See [W3C Interest and Working Groups](#w3c-interest-and-working-groups)
 * __Working Group Participants__: See [Participants](#participants)
-* __text__:
-* __text__:
-* __Voting__: See [Voting](#voting)
-* __text__:
+* __Workshop__: See [Workshops and Symposia](#workshops-and-symposia)
+* __Voting__: See [Voting](#voting).
