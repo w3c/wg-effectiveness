@@ -272,16 +272,16 @@ A typical flow of a document from draft to Technical Report is below:
 
 Members of the group should review documents throughout the process; although reviewing and suggesting changes as-early-as-possible is advised.
 
-### Maturity Levels Explained
+## Maturity Levels Explained
 As documents progress through the "Recommendation Track" they progress through "document maturity levels", see more information on maturity levels below.
 
-#### Editors Drafts
+### Editors Drafts
 Editors Drafts are documents which individuals or groups work on as proposals to become Working Groups Drafts. Editors Drafts are an important part of many groups work; but they have no standing until they are upgraded to Working Drafts. 
 
-##### Next Steps
+#### Next Steps
 Submit the Editors Draft to a Working Group to become a ["Working Draft"](#working-draft), or "Working Group Note".
 
-#### Working Draft
+### Working Draft
 When a Working Group has agreed to begin work on a new standard or W3C Note they create a Working Draft. A Working Draft can be a new document or a Working Group can adopt an [Editors Draft](#editors-draft); both of these transition to become a "First Public Working Draft". This stage triggers a ["Call for Exclusions" detailed in the W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy-20170801/#sec-exclude-mech). 
 
 A Working Group then continues to work on this document, coming to consensus on decisions and editing the document to continue to create "Revised Working Drafts". If significant changes to the document have been made the group should be re-uploaded the document to the [W3C Technical Reports Page](https://www.w3.org/TR/). A Revised Working Draft will need to uploaded also if 6 months pass with no change; this Revised Draft indicates why there has been no change within this time.  
@@ -295,10 +295,10 @@ The group will have to prepare some information on the Working Draft for a trans
 
 For all Working Drafts a Working Group will document outstanding issues and issues where the group has not reached consensus (many groups currently do this on Github). For more information please see the [W3C Process Document](https://w3c.github.io/w3process/#working-draft).
 
-##### Next Steps
+#### Next Steps
 Working Drafts can transition to become "Revised Working Drafts", ["Candidate Recommendation"](#candidate-recommendation) or "Working Group Note".
 
-#### Candidate Recommendation
+### Candidate Recommendation
 Canidate Recommendations are documents which are in their final review. At this stage the group will prepare a set of information to progress the document to the next stage (see [Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track) and [Transition Requests](#transition-requests-and-moving-between-track-stages) for more information on stages and transtions). The information to be collected is:
 
 * Explanation of how the document meets the Working Group requirements (outlined in the [Charter](#charter-and-call-for-participation)) or why the requirements have changed
@@ -313,13 +313,13 @@ This stage triggers a ["Call for Exclusions" detailed in the W3C Patent Policy](
 
 For more information please see the [W3C Process Document](https://w3c.github.io/w3process/#candidate-rec).
 
-##### Revised Candidate Recommendations
+#### Revised Candidate Recommendations
 If during the review period [substantive changes](https://w3c.github.io/w3process/#substantive-change) are made to the document then the document can become a "Revised Candiate Recommendation"; this may trigger a ["Call for Exclusions" detailed in the W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy-20170801/#sec-exclude-mech). Please see the [W3C Process Document](https://w3c.github.io/w3process/#revised-cr) for more information.
 
-##### Next Steps
+#### Next Steps
 Canidate Recommendations can return to being a ["Working Draft"](#working-draft), can become a "Revised Candidate Recommendation", or can transition to become a ["Proposed Recommendation"](#proposed-recommendation) or "Working Group Note".
 
-#### Proposed Recommendation
+### Proposed Recommendation
 Proposed Recommendation is the final stage of the document before becoming a [W3C Recommendation](#w3c-recommendation). The main purpose of this stage is to receive [AC Review](#ac-reviews). 
 
 Working Groups should ensure the Proposed Recommendation meets the [Transition Request](#transition-requests-and-moving-between-track-stages) requirements and will collect required information including details of implementation experience and explanations of issues and how these were formally addressed. A full list of information to gather can be found in the [W3C Process Document](https://w3c.github.io/w3process/#rec-pr).
@@ -328,17 +328,17 @@ The Working Group will then notify their [Team Contact](#the-w3c-team) to reques
 
 For more information please see the [W3C Process Document](https://w3c.github.io/w3process/#rec-pr).
 
-##### Next Steps
+#### Next Steps
 Substantive edits cannot happen on Proposed Recommendations, so to make any changes the document will move back to being a ["Working Draft"](#working-draft) or a ["Candidate Recommendation"](#candidate-recommendation). Otherwise it can become a ["W3C Recommendation"](#w3c-recommendation) or "Working Group Note".
 
-#### W3C Recommendation
+### W3C Recommendation
 The W3C Recommendation is an approved standard of the W3C and the end of the [W3C Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track)! There are many informal terms used for a W3C Recommedation including "Rec", "Recommendation", "TR", "Technical Report", "Spec", "Standard"; they all mean the same thing.
 
 To get to W3C Recommendation a "W3C Decision" is required; this is where a document has met all the [Transition Request](#transition-requests-and-moving-between-track-stages) requirements, the [Director](#the-director) has approved the document and the document has passed [AC Review](#ac-reviews) during the ["Proposed Recommendation"](#proposed-recommendation) stage. 
 
 [The Director](#the-director) will announce the publication of the W3C Recommendation. If any AC member disagrees with the decision, they could raise an ["Advisory Committee Appeal"](#ac-appeals).
 
-##### Next Steps
+#### Next Steps
 W3C Recommendations can become: 
 
 * An ["Edited Recommendation"](#revised-recommendation-edited-and-amended-recommendations) if a Working Group chooses to revise the document
