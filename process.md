@@ -10,7 +10,7 @@ Readers should note that this document is not a legal document, it does not repl
 The W3C standards process aims to maximise consensus and allow for standards to be built which are well-written, consistent and royalty-free. The full process document can be found [here](https://w3c.github.io/w3process/).
 
 ## Updating the Process Document
-The [W3C Process Document](https://w3c.github.io/w3process/) is updated similar to any W3C document. Every year, the [Process Community Group](#) amends the document based on comments expressed by the community, then sends the document for [AC Review](#). On a successful AC Review, the new process will be announced to the AC. More information can be found on the [W3C Process Document](https://w3c.github.io/w3process/#GAProcess).
+The [W3C Process Document](https://w3c.github.io/w3process/) is updated similar to any W3C document. Every year, the [Process Community Group](https://www.w3.org/community/w3process/) amends the document based on comments expressed by the community, then sends the document for [AC Review](#ac-reviews). On a successful AC Review, the new process will be announced to the AC. More information can be found on the [W3C Process Document](https://w3c.github.io/w3process/#GAProcess).
 
 # Leadership and Leadership Groups
 The W3C Leadership and Leadership Groups are responsible for the process, technical direction, group development and major decisions taken within the W3C.
@@ -18,23 +18,23 @@ The W3C Leadership and Leadership Groups are responsible for the process, techni
 ## The Director
 The Director is the lead technical architect at W3C. They have a number of responsibilties which are detailed in the [W3C Process Document](https://w3c.github.io/w3process/). Some of these responsibilities are:
 
-* chartering new Interest and Working Groups
-* appointing group Chairs
-* publication of technical reports
-* deciding on outcomes for formal objections
-* chairing the [TAG](#).
+* Chartering new Interest and Working Groups
+* Appointing group Chairs
+* Publication of Technical Reports
+* Deciding on outcomes for Formal Objections
+* chairing the [TAG](#technical-architecture-group-tag).
 
 ## Advisory Board (AB)
 The Advisory Board (AB) provides ongoing guidance to the Team on issues of strategy, management, legal matters, process, and conflict resolution. The AB also manages the evolution of the [W3C Process Document](https://w3c.github.io/w3process/).
 
-The AB is devised of nine individuals elected by the [AC](), and one team-elected chair (currently the W3C CEO). AB members participate as individuals, not on behalf of their employer. The AB provides updates on AB activities on the [AB website](https://www.w3.org/2002/ab/) and at AC Meetings.
+The AB is devised of nine individuals elected by the [AC](#advisory-committee-ac), and one team-elected chair (currently the W3C CEO). AB members participate as individuals, not on behalf of their employer. The AB provides updates on AB activities on the [AB website](https://www.w3.org/2002/ab/) and at AC Meetings.
 
 For more information on AB members, terms, election process and responsibilities, please see the [AB Website](https://www.w3.org/2002/ab/) and the [W3C Process Document](https://w3c.github.io/w3process/).
 
 ## Technical Architecture Group (TAG)
 The work of the Technical Architecture Group (TAG) is focused on Web Architecture and technical outputs of W3C. The TAG will discuss and resolve issues on Web Architecture related topics and coordinate cross-technology architecture developments inside and outside W3C.
 
-The TAG is devised of the W3C Director (currently Tim Berners-Lee, who is also a TAG life-member), three director-appointed individuals and six individuals elected by the [AC](). TAG members participate as individuals, not on behalf of their employer. The TAG provides updates on it's activities at AC Meetings and towards the AC on the AC (Annoucement / Discussion?!) Mailing List.
+The TAG is devised of the W3C Director (currently Tim Berners-Lee, who is also a TAG life-member), three director-appointed individuals and six individuals elected by the [AC](#advisory-committee-ac). TAG members participate as individuals, not on behalf of their employer. The TAG provides updates on it's activities at AC Meetings and towards the AC on the AC Mailing List.
 
 For more information on TAG members, terms, election process and responsibilities, please see the [TAG Website](https://www.w3.org/2001/tag/) and the [W3C Process Document](https://w3c.github.io/w3process/#TAG).
 
@@ -42,20 +42,19 @@ For more information on TAG members, terms, election process and responsibilitie
 Each W3C member organisation can nominate one person to the W3C Advisory Committee (AC). This Advisory Committee member will be added to both AC Mailing Lists (XXXXX for general annoucements and XXXXX for AC discussions) and are invited to AC meetings. The AC responsibilities include:
 
 * Reviewing group charter proposals, proposed recommendations and proposed process documents
-* Electing [Advisory Board](#) members
-* Electing [Technical Architecture Group](#) members
-* Reviewing plans for W3C
-* (Advisory Committee representatives may initiate an Advisory Committee Appeal).
+* Electing [Advisory Board](#advisory-board-ab) members
+* Electing [Technical Architecture Group](#technical-architecture-group-tag) members
+* Reviewing W3C strategic and event plans
+* (Advisory Committee representatives may also initiate an Advisory Committee Appeal).
 
-The AC holds two face-to-face meetings a year: during TPAC (sometime during Sept, Oct or Nov) and a dedicated AC Meeting (usually Mar, Apr, May or June). At AC Meetings the AC will receive updates on the W3C Membership and finances, budget allocation, updates on Interest and Working Groups, and liaisons with other organisations. AC Meetings are annouced [here](https://www.w3.org/Member/Meeting/).
+The AC holds two face-to-face meetings a year: during TPAC (sometime during Sept, Oct or Nov) and a dedicated AC Meeting (usually in Mar, Apr, May or June). At AC Meetings the AC will receive updates on the W3C Membership and finances, budget allocation, updates on Interest and Working Groups, and liaisons with other organisations. AC Meetings are annouced [here](https://www.w3.org/Member/Meeting/).
 
-Advisory Committee should consult the [W3C Process Document](https://w3c.github.io/w3process/#coi) for instructions on disclosing relevant information.
+Advisory Committee members may need to disclose certain information, please consult the [W3C Process Document](https://w3c.github.io/w3process/#coi) more information.
 
 For more information on AC membership and responsibilities, please see the [W3C Process Document](https://w3c.github.io/w3process/#ac).
 
 ### AC Reviews
-The [AC](#) will review new or modified Working and Interest Groups, [Proposed Recommendations](#), proposals to [Obsolete, Rescind, Supersede, or Restore Recommendations](#), and
-proposed changes to the W3C process. Typically, these review periods are at least 28 days long.
+The [AC](#advisory-committee-ac) will review new or modified Working and Interest Groups, [Proposed Recommendations](#proposed-recommendation), proposals to [Obsolete, Rescind, Supersede, or Restore Recommendations](#rescinded-obsolete-or-superseded-recommendations), and propose changes to the W3C process. Typically, these review periods are at least 28 days long.
 
 [The Team](#) will send a "Call for Review" to the AC on the AC Mailing List. Each AC member may send in one review on behalf of their [W3C Member](#) organisation. AC Members can modify their reviews until the review period has ended.
 
