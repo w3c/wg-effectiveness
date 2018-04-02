@@ -255,7 +255,7 @@ Group charters include the following information:
 * Scope of work
 * Criteria for success
 * Group expected duration
-* List of group deliverables and timelines. If these are Recommendation Track documents (specifications) these items should be included:
+* List of group deliverables and timelines. If these are Recommendation Track documents (specifications) these items should be included (check [Charter Deliverable Terms](#charter-deliverable-terms) for terms to use for deliverables within Charters):
   * Title
   * Stable URL
   * Publication date. 
@@ -272,7 +272,12 @@ Other possible items to include in the Charter is participation requirements (fo
 
 Further details can be found in the [W3C Process Document](https://w3c.github.io/w3process/#WGCharter). 
 
-@todo include information on Reference Drafts and other terminology as of 5.2.6.
+#### Charter Deliverable Terms
+The W3C Process Document discusses terms such as "Reference Draft", "Exclusion Draft" and "Adopted Draft" as ways to describe deliverables in a Charter. Here is a brief overview of these. Please see the [W3C Process Document](https://w3c.github.io/w3process/#WGCharter) for a deeper understanding.
+
+* __Reference Draft__: In most cases this is the latest [Working Draft](#working-draft) or [First Public Working Draft](#working-draft) if this is the latest. Patent exclusions will be made against this draft, for specific rules please see the [W3C Process Document](https://w3c.github.io/w3process/#WGCharter) and [W3C Patent Policy]((https://www.w3.org/Consortium/Patent-Policy-20170801/).
+* __Adopted Draft__: This draft is used as the basis for the deliverable. Some standards bodies refer to this as "Working Group Adopted Draft". This means this draft will be a basis for the final deliverable, but the final document (which may be a W3C Recommendation or Note) could be very different. 
+* __Exclusion Draft__: this is a recent [Working Draft](#working-draft) or [Candidate Recommendation](#candidate-recommendation) that triggered an Exclusion Opportunity. For specific information please see the [W3C Process Document](https://w3c.github.io/w3process/#WGCharter) and [W3C Patent Policy]((https://www.w3.org/Consortium/Patent-Policy-20170801/).
 
 ### Charter Extensions
 Working and Interest Groups can be extended past their agreed Charter completion dates. The [Director](#the-director) can do this by simply announcing to the [AC Mailing List](#) that the group has been extended and the new time period.
