@@ -367,7 +367,7 @@ Every W3C Recommenation (Technical Report) will have one or more Editors. These 
 ## W3C Recommenation (Technical Report) Flow: The "Recommendation Track" 
 A typical flow of a document from draft to Technical Report is below:
 
-@todo: show diagram
+![Recommendation Track Diagram](https://github.com/w3c/wg-effectiveness/blob/master/images/rectrack.png)
 
 * **(Optional) Creation of Editor's Drafts:** anyone can start an Editor's Draft. Working Group members will often develop these as individuals or within a small group and then submit them to a group to be considered for a First Public Working Draft. 
   * Maturity Level: Editors Draft
@@ -500,7 +500,8 @@ The [W3C Process Document](https://w3c.github.io/w3process/#correction-classes) 
 Working on a document can end at any time. 
 
 ## Modifying a W3C Recommendation
-[@todo: include image from 6.7]
+
+![Recommendation Track Diagram](https://github.com/w3c/wg-effectiveness/blob/master/images/rectrack.png)
 
 ### Revised Recommendation (Edited and Amended Recommendations)
 Errors may be found in a document after it has progressed to W3C Recommendation. In these instances a Working Group will keep a record of the error. The group will also provide details of the error with associated tests linked to the document in some way. The most common way is another published document which links to the W3C Recommendation. The Working Group will then revise the recommendation to correct the error.
