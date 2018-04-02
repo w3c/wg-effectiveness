@@ -47,7 +47,7 @@ The W3C standards process aims to maximise consensus and allow for standards to 
 The [W3C Process Document](https://w3c.github.io/w3process/) is updated similar to any W3C document. Every year, the [Process Community Group](https://www.w3.org/community/w3process/) amends the document based on comments expressed by the community, then sends the document for [AC Review](#ac-reviews). On a successful AC Review, the new process will be announced to the AC. More information can be found on the [W3C Process Document](https://w3c.github.io/w3process/#GAProcess).
 
 ## Language
-The primary language of W3C is English (not specified whether GB, US or otherwise). W3C encourage translations of all their documents. More information can be found [here](https://www.w3.org/Consortium/Translation/). 
+The primary language of W3C is English for specification text, US english). W3C encourage translations of all their documents. More information can be found [here](https://www.w3.org/Consortium/Translation/). 
 
 ## Terms
 Use this list to quick link to a section of this document. Or, scroll past it to view the full Process Document for Busy People.
@@ -148,19 +148,19 @@ The Director is the lead technical architect at W3C. They have a number of respo
 ## Advisory Board (AB)
 The Advisory Board (AB) provides ongoing guidance to the Team on issues of strategy, management, legal matters, process, and conflict resolution. The AB also manages the evolution of the [W3C Process Document](https://w3c.github.io/w3process/).
 
-The AB is devised of nine individuals elected by the [AC](#advisory-committee-ac), and one team-elected chair (currently the W3C CEO). AB members participate as individuals, not on behalf of their employer. The AB provides updates on AB activities on the [AB website](https://www.w3.org/2002/ab/) and at AC Meetings.
+The AB is nine individuals elected by the [AC](#advisory-committee-ac). The team appoints a chair who is not necessarily a member fo the AB (currently the W3C CEO). AB members participate as individuals, not on behalf of their employer. The AB provides updates about their activities on the [AB website](https://www.w3.org/2002/ab/) and at AC Meetings.
 
 For more information on AB members, terms, election process and responsibilities, please see the [AB Website](https://www.w3.org/2002/ab/) and the [W3C Process Document](https://w3c.github.io/w3process/).
 
 ## Technical Architecture Group (TAG)
-The work of the Technical Architecture Group (TAG) is focused on Web Architecture and technical outputs of W3C. The TAG will discuss and resolve issues on Web Architecture related topics and coordinate cross-technology architecture developments inside and outside W3C.
+The work of the Technical Architecture Group (TAG) is focused on Web Architecture and technical outputs of W3C. The TAG discuss and resolve issues related to Web Architecture, and coordinate cross-technology architecture developments inside and outside W3C.
 
-The TAG is devised of the W3C Director (currently Tim Berners-Lee, who is also a TAG life-member), three director-appointed individuals and six individuals elected by the [AC](#advisory-committee-ac). TAG members participate as individuals, not on behalf of their employer. The TAG provides updates on it's activities at AC Meetings and towards the AC on the AC Mailing List.
+The TAG consists of the W3C Director (currently Tim Berners-Lee, who is also a TAG life-member), three director-appointed individuals and six individuals elected by the [AC](#advisory-committee-ac). TAG members participate as individuals, not on behalf of their employer. The TAG provides updates on its activities at AC Meetings, and on the (member-only) AC Mailing List for AC representatives.
 
 For more information on TAG members, terms, election process and responsibilities, please see the [TAG Website](https://www.w3.org/2001/tag/) and the [W3C Process Document](https://w3c.github.io/w3process/#TAG).
 
 ## Advisory Committee (AC)
-Each W3C member organisation can nominate one person to the W3C Advisory Committee (AC). This Advisory Committee member will be added to both AC Mailing Lists (XXXXX for general annoucements and XXXXX for AC discussions) and are invited to AC meetings. The AC responsibilities include:
+Each W3C member organisation can nominate one person to the W3C Advisory Committee (AC). This Advisory Committee member will be added to the AC Mailing Lists w3c-ac-members for general annoucements - AC members cannot post to it - and w3c-ac-forum for AC discussions and are invited to AC meetings. The AC responsibilities include:
 
 * Reviewing group charter proposals, proposed recommendations and proposed process documents
 * Electing [Advisory Board](#advisory-board-ab) members
@@ -168,9 +168,9 @@ Each W3C member organisation can nominate one person to the W3C Advisory Committ
 * Reviewing W3C strategic and event plans
 * (Advisory Committee representatives may also initiate an Advisory Committee Appeal).
 
-The AC holds two face-to-face meetings a year: during TPAC (sometime during Sept, Oct or Nov) and a dedicated AC Meeting (usually in Mar, Apr, May or June). At AC Meetings the AC will receive updates on the W3C Membership and finances, budget allocation, updates on Interest and Working Groups, and liaisons with other organisations. AC Meetings are annouced [here](https://www.w3.org/Member/Meeting/).
+The AC holds two face-to-face meetings a year: during TPAC (generally in September, October or November) and a dedicated AC Meeting (usually held between March and June). At AC Meetings the AC will receive updates on the W3C Membership and finances, budget allocation, updates on Interest and Working Groups, and liaisons with other organisations. Meetings are added to the [AC Meeting schedule](https://www.w3.org/Member/Meeting/) no later than two AC meetings before.
 
-Advisory Committee members may need to disclose certain information, please consult the [W3C Process Document](https://w3c.github.io/w3process/#coi) more information.
+Advisory Committee members may need to disclose certain information regarding ptential conflicts of interest or singificant relationships between W3C member organisations, please consult the [W3C Process Document](https://w3c.github.io/w3process/#coi) more information.
 
 For more information on AC membership and responsibilities, please see the [W3C Process Document](https://w3c.github.io/w3process/#ac).
 
