@@ -1,6 +1,43 @@
 # W3C Process for Busy People
 This document breaks down the 2018 W3C Process. This text can be included in the [Guide and Github] deliverable of this task force.
 
+* [Using this Document](#using-this-document)
+  * [The Process Document](#the-process-document)
+  * [Language](#language)
+  * [Terms](#terms)
+* [Leadership and Leadership Groups](#leadership-and-leadership-groups)
+  * [The Director](#the-director)
+  * [Advisory Board (AB)](#advisory-board-ab)
+  * [Technical Architecture Group (TAG)](#technical-architecture-group-tag)
+  * [Advisory Committee (AC)](#advisory-committee-ac)
+  * [The W3C Team](#the-w3c-team)
+* [Understanding W3C Members](#understanding-w3c-members)
+  * [Members](#members)
+  * [Membership Consortia](#membership-consortia)
+* [W3C Groups](#w3c-groups)
+  * [W3C Interest and Working Groups](#w3c-interest-and-working-groups)
+  * [Setting Up Interest and Working Groups](#setting-up-interest-and-working-groups)
+  * [Charter and Call for Participation](#charter-and-call-for-participation)
+  * [Participants](#participants)
+  * [Meetings](#meetings)
+  * [Consensus and Formal Objections](#consensus-and-formal-objections)
+  * [Voting](#voting)
+  * [Closing a Group](#closing-a-group)
+* [W3C Recommendations and Notes](#w3c-recommendations-and-notes)
+  * [Requirements for W3C Recommenations](#requirements-for-w3c-recommenations-technical-reports)
+  * [Editors](#editors)
+  * [W3C Recommenation (Technical Report) Flow: The "Recommendation Track"](#w3c-recommenation-technical-report-flow-the-recommendation-track)
+  * [Maturity Levels Explained](#maturity-levels-explained)
+  * [Transition Requests and Moving Between Recommendation Track Stages](#transition-requests-and-moving-between-recommendation-track-stages)
+  * [Reviewing Documents and Wide Review](#reviewing-documents-and-wide-review)
+  * [Ending a Document](#ending-a-document)
+  * [Modifying a W3C Recommendation](#modifying-a-w3c-recommendation)
+* [Member Submissions](#member-submissions)
+* [Communication](#communication)
+  * [Confidentiality Levels](#confidentiality-levels)
+* [Workshops and Symposia](#workshops-and-symposia)
+* [Liaisons](#liaisons)
+
 # Using this Document
 This document aims to provide readers with a shorter overview of the [W3C Process Document](https://w3c.github.io/w3process/) written in plain English. The original [W3C Process Document](https://w3c.github.io/w3process/) is a complete document, written to be legally accurate and give indepth detail on each item and process. This document aims to give an overview of the main document, so new and existing W3C participants can gain an understanding of all W3C processes and know where to go for more information.  
 
