@@ -4,7 +4,7 @@ This document aims to provide readers with a shorter overview of the [W3C Proces
 Readers should note that this document is not a legal document, it does not replace the [W3C Process Document](https://w3c.github.io/w3process/), and it does not cover aspects of the W3C Patent Policy.
 
 * [W3C Process for Busy People](#w3c-process-for-busy-people)
-  * [The Process Document](#the-process-document)
+  * [The W3C Process Document](#the-w3c-process-document)
   * [Language](#language)
   * [Terms](#terms)
 * [Leadership and Leadership Groups](#leadership-and-leadership-groups)
