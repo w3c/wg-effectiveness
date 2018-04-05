@@ -422,7 +422,7 @@ For all Working Drafts a Working Group will document outstanding issues and issu
 Working Drafts can transition to become "Revised Working Drafts", ["Candidate Recommendation"](#candidate-recommendation) or "Working Group Note".
 
 ### Candidate Recommendation
-Canidate Recommendations are documents which are in their final review. At this stage the group will prepare a set of information to progress the document to the next stage (see [Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track) and [Transition Requests](#transition-requests-and-moving-between-track-stages) for more information on stages and transtions). The information to be collected is:
+Candidate Recommendations are documents which are in their final review. At this stage the group will prepare a set of information to progress the document to the next stage (see [Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track) and [Transition Requests](#transition-requests-and-moving-between-track-stages) for more information on stages and transtions). The information to be collected is:
 
 * Explanation of how the document meets the Working Group requirements (outlined in the [Charter](#charter-and-call-for-participation)) or why the requirements have changed
 * Dependencies on other specifications
@@ -440,7 +440,7 @@ For more information please see the [W3C Process Document](https://w3c.github.io
 If during the review period [substantive changes](https://w3c.github.io/w3process/#substantive-change) are made to the document then the document can become a "Revised Candiate Recommendation"; this may trigger a ["Call for Exclusions" detailed in the W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy-20170801/#sec-exclude-mech). Please see the [W3C Process Document](https://w3c.github.io/w3process/#revised-cr) for more information.
 
 #### Next Steps
-Canidate Recommendations can return to being a ["Working Draft"](#working-draft), can become a "Revised Candidate Recommendation", or can transition to become a ["Proposed Recommendation"](#proposed-recommendation) or "Working Group Note".
+Candidate Recommendations can return to being a ["Working Draft"](#working-draft), can become a "Revised Candidate Recommendation", or can transition to become a ["Proposed Recommendation"](#proposed-recommendation) or "Working Group Note".
 
 ### Proposed Recommendation
 Proposed Recommendation is the final stage of the document before becoming a [W3C Recommendation](#w3c-recommendation). The main purpose of this stage is to receive [AC Review](#ac-reviews). 
