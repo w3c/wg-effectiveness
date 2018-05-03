@@ -47,7 +47,7 @@ The W3C standards process aims to maximise consensus and allow for standards to 
 The [W3C Process Document](https://w3c.github.io/w3process/) is updated similar to any W3C document. Every year, the [Process Community Group](https://www.w3.org/community/w3process/) amends the document based on comments expressed by the community, then sends the document for [AC Review](#ac-reviews). On a successful AC Review, the new process will be announced to the AC. More information can be found on the [W3C Process Document](https://w3c.github.io/w3process/#GAProcess).
 
 ## Language
-The primary language of W3C is English for specification text, US english). W3C encourage translations of all their documents. More information can be found [here](https://www.w3.org/Consortium/Translation/). 
+The primary language of W3C is English for specification text (US english). W3C encourage translations of all their documents. More information can be found [here](https://www.w3.org/Consortium/Translation/). 
 
 ## Terms
 Use this list to quick link to a section of this document. Or, scroll past it to view the full Process Document for Busy People.
