@@ -185,40 +185,45 @@ ACメンバーシップと責任の詳細については、[W3Cプロセスド�
 ### ACレビュー
 [AC](#advisory-committee-ac)は、新しく改訂されたワーキング・アンド・インタレスト・グループのチャーター、[提案された推奨](#proposed-recommendation)、[時代遅れ、廃止、代替、またはリストアされる勧告](#rescinded-obsolete-or-superseded-recommendations)の提案,W3Cプロセスの変更を提案します。通常、これらのレビュー期間は少なくとも28日間です。
 
-[チーム](## the-w3c-team)は、ACメーリングリストを用いてのACに「レビューのため要請」を送信します。各ACメンバーは、[W3Cメンバー](#understanding-w3c-members)所属組織としてのレビューを送信することができます。 ACメンバーは、レビュー期間が終了するまでレビューを修正することができます。
+[チーム](##the-w3c-team)は、ACメーリングリストを用いてのACに「レビューのため要請」を送信します。各ACメンバーは、[W3Cメンバー](#understanding-w3c-members)所属組織としてのレビューを送信することができます。 ACメンバーは、レビュー期間が終了するまでレビューを修正することができます。
 
 レビューが終了した後、[directer](#the-director)は、詳細なサポートと正式な異議申し立ての結果を発表します。提案は、承認、条件付き承認、さらなる検討が必要，否決に分類されます、これらの詳細は、[W3C Process Document](https://w3c.github.io/w3process/#ACReview)を参照してください。
 
 ### AC Appeals
-The [AC](#advisory-committee-ac) can appeal W3C decisions. This is rare. Appeals are usually related to Working or Interest Group creation or modification, or a document progressing through the [Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track). For a fuller list of decisions which can be appealed please see the [W3C Process Document](https://w3c.github.io/w3process/#ACAppeal).
+### 異議申し立て
+[AC](#advisory-committee-ac)は、W3Cの決定に異議申し立てすることができます。 これはまれです。 異議申し立ては通常、ワーキンググループまたはインタレストグループの作成または変更、または[Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track)を通じて進行中のドキュメントに関連しています。 アピールできるかどうかの完全なリストについては、[W3Cプロセス文書](https://w3c.github.io/w3process/#ACAppeal)を参照してください。
 
-Appeals must start within three weeks of the a decision. AC Members send an appeal to the [Team](#the-w3c-team), the Team then announce this appeal to the AC allowing the AC to support the appeal if they wish. 
+異議申し立ては、決定後3週間以内に開始する必要があります。 ACメンバーは[チーム](#the-w3c-team)に異議申し立てを報告し、チームはACにこの異議申し立てをアナウンスして、ACが望む場合に異議申し立てをサポートできるようにします。
 
-If a substantial amount of support is recieved within a certain timeframe then a vote may be organised. The vote will assess whether the AC supports or rejects the Director's decision. Please consult the [W3C Process Document](https://w3c.github.io/w3process/#ACAppeal) for details on the requirements and running of this ballot.
+特定の期間内に相当量のサポートが受けられれば、投票がなされる可能性があります。 投票でACがDirecterの決定を支持するか否かを決めます。 この投票の要件と実行の詳細については、[W3Cプロセス文書](https://w3c.github.io/w3process/#ACAppeal)を参照してください。
 
 ## The W3C Team
-The Team consists of the Director, CEO, W3C paid staff, unpaid interns, and [W3C Fellows](https://www.w3.org/Consortium/Recruitment/Fellows) (Member employees working as part of the Team).  
+## W3Cチーム
+チームは、ディレクター、CEO、W3Cの有給スタッフ、無給のインターン、および[W3Cフェロー](https://www.w3.org/Consortium/Recruitment/Fellows) (チームの一員として働くメンバー)で構成されています。
 
-The team provides technical leadership, supports Interest and Working Group acitivies, and manages communications to members and the public. The team may make [Team Submissions](https://w3c.github.io/w3process/#TeamSubmission).
+チームは技術的リーダーシップを提供し、IG, WG活動を支援し、メンバーおよび一般の人々とのコミュニケーションを管理します。 チームは[チーム提案](https://w3c.github.io/w3process/#TeamSubmission)を行うことができます。
 
-For more information on the W3C team see the [W3C Process Document](https://w3c.github.io/w3process/#Team).
+W3Cチームの詳細については、[W3Cプロセスドキュメント](https://w3c.github.io/w3process/#Team)を参照してください。
 
 # Understanding W3C Members
+# W3Cにおけるメンバーとは
 ## Members
-W3C Members make up the bulk of participants in W3C Interest and Working Groups. Each member also has one seat on the [Advisory Committee](#advisory-committee-ac). 
+## メンバー
+W3Cメンバーは、W3CのIG, WGの参加者の大部分を占めています。 各メンバーはまた、[AC](#advisory-committee-ac)に1人の席を置いています。
 
-As well as particpating in Interest and Working Groups, members have access to Member-Only information, they can take advantage of the [Member Submission](#member-submissions) process, and are invited to all [W3C Workshops and Symposia](#workshops-and-symposia).
+IG, WGに参加するだけでなく、メンバーはMember-Only情報にアクセスし、[Member Submission](#member-submissions)プロセスを利用することができ、すべての[W3Cワークショップとシンポジウム](#workshops-and-symposia)に招待されます
 
-Please see [How to Join W3C](https://www.w3.org/Consortium/join) for guidelines on how to become a member of W3C.
+W3Cのメンバーになる方法については、[W3Cへの参加方法](https://www.w3.org/Consortium/join)を参照してください。
 
-For more information on members, please see the [W3C Process Document](https://w3c.github.io/w3process/#Members).
+メンバーの詳細については、[W3C Process Document](https://w3c.github.io/w3process/#Members)を参照してください。
 
-Members which are related by business contracts such as subsidiaries, partnerships and contracting obligations should consult the [W3C Process Document](https://w3c.github.io/w3process/#MemberRelated) for instructions on declaring these relationships.
+子会社、パートナーシップ、契約義務などのビジネス契約に関連するメンバーは、これらの関係を宣言する手順について、[W3Cプロセス文書](https://w3c.github.io/w3process/#MemberRelated)を参照してください。
 
 ## Membership Consortia
-A "Member Consortium" means a consortium, user society, or association of two or more individuals, companies, organizations or governments, or any combination of these which participate (or wish to participate) in W3C. Membership Consortia paid staff have the same rights and privileges of the W3C Membership.
+## メンバーコンソーシアム
+「メンバーコンソーシアム」とは、W3Cに参加している（または参加したい）複数の個人、企業、団体、または政府のコンソーシアム、またはこれらの組み合わせを意味します。 メンバーシップコンソーシアムの有給スタッフは、W3Cメンバーシップと同じ権利と特権を持っています。
 
-Those who require more information on Membership Consortia should refer to the [W3C Process Document](https://w3c.github.io/w3process/#MemberConsortia).
+メンバーシップコンソーシアムに関する詳細情報が必要な方は、[W3Cプロセス文書](https://w3c.github.io/w3process/#MemberConsortia)を参照してください。
 
 # W3C Groups
 ## W3C Interest and Working Groups
