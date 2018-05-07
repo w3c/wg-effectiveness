@@ -59,7 +59,7 @@ W3Cの主要な言語は、仕様テキスト用の英語(米国英語)です。
 * __AC__：[AC](#advisory-committee-ac)参照
 * __ACアピール__：[ACアピール](#ac-appeals)
 * __ACレビュー__：[ACレビュー](#ac-reviews)参照
-* __適切な実装の経験__：[実装の経験]((#implementation-experience)参照
+* __適切な実装の経験__：[実装の経験](#implementation-experience)参照
 * __採用された作業__：
 * __The Advisory Board__：[AB](#advisory-board-ab)参照
 * __The Advisory Committee__：[AC](#advisory-committee-ac)
@@ -164,29 +164,30 @@ ABの任期、選挙プロセス、および責任の詳細については、[AB
 
 TAGは、W3Cのディレクター（現TAG永久メンバーでもあるTim Berners-Lee）、監督任命された3人の個人、そして[AC](＃advisory-committee-ac)によって選出された6人で構成されています。 TAGメンバーは、雇用者を代表してではなく、個人として参加します。 TAGは、ACミーティングでの活動、およびAC代表者のためのメンバー専用のACメーリングリストにおいて最新情報を提供します。
 
-TAGメンバーの任期、選挙プロセス、責任に関する詳細は、[TAG Website](https://www.w3.org/2001/tag/)および[W3C Process Document](https：// w3c.github.io/w3process /＃TAG）を参照してください。
+TAGメンバーの任期、選挙プロセス、責任に関する詳細は、[TAG Website](https://www.w3.org/2001/tag/)および[W3C Process Document](https://w3c.github.io/w3process /＃TAG)を参照してください。
 
 ## Advisory Committee (AC)
-Each W3C member organisation can nominate one person to the W3C Advisory Committee (AC). This Advisory Committee member will be added to the AC Mailing Lists w3c-ac-members for general annoucements - AC members cannot post to it - and w3c-ac-forum for AC discussions and are invited to AC meetings. The AC responsibilities include:
+各W3Cメンバー組織は、1人をW3C ACに指名することができます。このACは一般的なアナウンスを受け取るためにACメーリングリストw3c-ac-membersに追加されます．これにはACメンバーは投稿できません.W3C-ACフォーラムでACディスカッションを行い、ACミーティングに招待されます。 ACの責務は次のとおりです。
 
-* Reviewing group charter proposals, proposed recommendations and proposed process documents
-* Electing [Advisory Board](#advisory-board-ab) members
-* Electing [Technical Architecture Group](#technical-architecture-group-tag) members
-* Reviewing W3C strategic and event plans
-* (Advisory Committee representatives may also initiate an Advisory Committee Appeal).
+* グループ憲章の提案、提案された勧告、提案されたプロセス文書の見直し
+* [アドバイザリーボード](＃advisory-board-ab)メンバーの選出
+* [Technical Architecture Group](＃technical-architecture-group-tag)メンバーの選出
+* W3Cの戦略とイベントの計画のチェック
+* (諮問委員会の代表者も諮問委員会上訴を開始することができる)
 
-The AC holds two face-to-face meetings a year: during TPAC (generally in September, October or November) and a dedicated AC Meeting (usually held between March and June). At AC Meetings the AC will receive updates on the W3C Membership and finances, budget allocation, updates on Interest and Working Groups, and liaisons with other organisations. Meetings are added to the [AC Meeting schedule](https://www.w3.org/Member/Meeting/) no later than two AC meetings before.
+ACは、TPAC（一般的には9月、10月または11月）と専用のACミーティング(通常は3月から6月に開催)の間に、1年に2回の対面式ミーティングを開催します。 ACミーティングでは、ACはW3Cメンバーシップと財政、予算配分、IGとWGに関する最新情報、および他の組織との連絡を更新します。会議は2回前までに[AC会議スケジュール](https://www.w3.org/Member/Meeting/)に追加されます。
 
-Advisory Committee members may need to disclose certain information regarding ptential conflicts of interest or singificant relationships between W3C member organisations, please consult the [W3C Process Document](https://w3c.github.io/w3process/#coi) more information.
+ACメンバーは、W3C加盟組織間の利益相反または重要な関係に関する特定の情報を開示する必要がある場合があります。詳細については、[W3Cプロセス文書](https://w3c.github.io/w3process/#coi)を参照してください。
 
-For more information on AC membership and responsibilities, please see the [W3C Process Document](https://w3c.github.io/w3process/#ac).
+ACメンバーシップと責任の詳細については、[W3Cプロセスドキュメント](https://w3c.github.io/w3process/#ac)を参照してください。
 
 ### AC Reviews
-The [AC](#advisory-committee-ac) will review new or modified Working and Interest Groups charters, [Proposed Recommendations](#proposed-recommendation), proposals to [Obsolete, Rescind, Supersede, or Restore Recommendations](#rescinded-obsolete-or-superseded-recommendations), and propose changes to the W3C process. Typically, these review periods are at least 28 days.
+### ACレビュー
+[AC](#advisory-committee-ac)は、新しく改訂されたワーキング・アンド・インタレスト・グループのチャーター、[提案された推奨](#proposed-recommendation)、[時代遅れ、廃止、代替、またはリストアされる勧告](#rescinded-obsolete-or-superseded-recommendations)の提案,W3Cプロセスの変更を提案します。通常、これらのレビュー期間は少なくとも28日間です。
 
-[The Team](##the-w3c-team) will send a "Call for Review" to the AC on the AC Mailing List. Each AC member may send in one review on behalf of their [W3C Member](#understanding-w3c-members) organisation. AC Members can modify their reviews until the review period has ended.
+[チーム](## the-w3c-team)は、ACメーリングリストを用いてのACに「レビューのため要請」を送信します。各ACメンバーは、[W3Cメンバー](#understanding-w3c-members)所属組織としてのレビューを送信することができます。 ACメンバーは、レビュー期間が終了するまでレビューを修正することができます。
 
-After the review has ended, [The Director](#the-director) will announce the results of the review detailing support and any formal objections. The proposal could be: approved, approved with changes, returned for further work or rejected. Please consult the [W3C Process Document](https://w3c.github.io/w3process/#ACReview) for a break down of each of these.
+レビューが終了した後、[directer](#the-director)は、詳細なサポートと正式な異議申し立ての結果を発表します。提案は、承認、条件付き承認、さらなる検討が必要，否決に分類されます、これらの詳細は、[W3C Process Document](https://w3c.github.io/w3process/#ACReview)を参照してください。
 
 ### AC Appeals
 The [AC](#advisory-committee-ac) can appeal W3C decisions. This is rare. Appeals are usually related to Working or Interest Group creation or modification, or a document progressing through the [Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track). For a fuller list of decisions which can be appealed please see the [W3C Process Document](https://w3c.github.io/w3process/#ACAppeal).
