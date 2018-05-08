@@ -226,40 +226,43 @@ W3Cのメンバーになる方法については、[W3Cへの参加方法](https
 メンバーシップコンソーシアムに関する詳細情報が必要な方は、[W3Cプロセス文書](https://w3c.github.io/w3process/#MemberConsortia)を参照してください。
 
 # W3C Groups
+# W3Cのグループ
 ## W3C Interest and Working Groups
-There are two types of W3C group:
+## W3C IGとWG
+W3Cのグループとしては2種類のタイプがあります．
+* **ワーキンググループ**：成果物、通常はテクニカルレポート（=標準）の作成をめざします．
+* **インタレストグループ**：潜在的なウェブ技術とポリシーを評価します。テクニカルレポートは作成しません。
 
-* **Working Groups**: work on deliverables, usually Technical Reports (standards).
-* **Interest Groups**: evaluate potential Web technologies and policies. Do not work on Technical Reports. 
+グループには、公開憲章、議長（または共同議長）、チーム連絡先、メーリングリストがあります。
 
-Groups have: a publicly available Charter, a Chair (or co-Chairs), a Team Contact, and a mailing list.
+グループには、既にグループチャーターで詳述されている私たちの課題を担う**タスクフォース**があることがあります。
 
-A group sometimes will have **Task Forces** which carry our assignments which are already detailed in the group Charter. 
-
-For more information on groups see the [W3C Process Document](https://w3c.github.io/w3process/#ChapterGroups).
+グループの詳細については、[W3C Process Document](https://w3c.github.io/w3process/#ChapterGroups)を参照してください。
 
 ## Setting Up Interest and Working Groups
-The Process for setting up an Interest or Working Group is explained below:
+## IGとWGの設立
+インタレストまたはワーキンググループを設定するプロセスは以下のとおりです。
 
-* __Generating Interest__: a topic gains some interest within W3C. This could be via a [member submission](#member-submissions), a [W3C run workshop](#workshops-and-symposia), W3C team research, a [Community Group](https://www.w3.org/community/) or through the [Web Incubator Community Group](https://www.w3.org/community/wicg/).
-* __AC Announcement__: the Director announces the development of an Interest or Working Group charter on the AC Mailing List.
-* __Charter Development__: the Interest / Working Group proponents work on the new group charter with a W3C team member.
-* __Member Review__: W3C members review the charter, and give feedback.
-* __Director Approval__: the Director approves the creation of the Interest / Working Group on the AC Mailing List.
-* __Call For Participation__: the Director calls for participation in the newly formed group on the AC Mailing List.
+* __Generating Interest__ :W3C内でのトピックに興味を持っています。これは[メンバー提出](#member-submissions)、[W3C実行ワークショップ](#workshops-and-symposia)、W3Cチーム研究、[コミュニティグループ](https://www.w3.org/community/)または[Web Incubator Community Group](https://www.w3.org/community/wicg/)から提案できます。
+* __ACアナウンス__ :ディレクターは、ACメーリングリスト上のIGまたはWGチャーターの作成を発表します。
+* __Charter Development__ ：IG/WGの支持者は、W3Cのチームメンバーとの新しいグループチャーターに取り組みます。
+* __Member Review__ ：W3Cメンバーはチャーターをレビューし、フィードバックを提供します。
+* __Director Approval__ ：ディレクターはACメーリングリスト上のIG/WGの作成を承認します。
+* __Call For Participation__ ：ディレクターは、ACメーリングリストの新しく形成されたグループへの参加を呼びかけます。
 
-Each Working Group and Interest Group will be supported by at least one [W3C team member](#the-w3c-team). Group participants are usually [Member Represenatives](#participants) although [Invited Experts](#participants) may also be able to join groups.
+各ワーキンググループとインタレストグループは少なくとも1人の[W3Cチームメンバー](#the-w3c-team)によってサポートされます。 [招待されたエキスパート](#participants)もグループに参加することができますが、通常、グループ参加者は[Member represenatives](#participants)です。
 
-For more information, please see the [W3C Process Document](https://w3c.github.io/w3process/#introduction).
+詳細は、[W3Cプロセスドキュメント](https://w3c.github.io/w3process/#introduction)を参照してください。
 
 ## Charter and Call for Participation
-All Working and Interest Groups have a Charter. Charters are developed by [W3C Members](#members) and [W3C team members](#the-w3c-team). Charters can be made at any time. 
+## チャーターと参加呼びかけ
+すべてのワーキンググループとインタレストグループにはチャーターがあります。チャーターは、[W3Cメンバー](#members)と[W3Cチームメンバー](#the-w3c-team)によって開発されます。チャーターはいつでも作成することができます。
 
-When a new Charter is made the proponents (people writing the charter) make the Advisory Committee ([AC](#advisory-committee-ac)) aware of the new charter through the [AC mailing list](#) list. The AC reviews all new charters for a minimum of four weeks. 
+新しいチャーターが作成されると、提案者（チャーターを書いている人）は([AC](#advisory-committee-ac))が[ACメーリングリスト](#)リストを通じて新しいチャーターを認知して貰います。 ACはすべての新しいチャーターを最低4週間で審査します。
 
-After the AC has approved the Charter, the [Director](#the-director) calls for participation in the group, inviting all [AC members](#advisory-committee-ac) to join or nominate colleagues to join the group. 
+ACがチャーターを承認した後、[Director](#the-director)はグループに参加するよう呼びかけ、すべての[ACメンバー](#advisory-committee-ac)への参加，あるいは同僚にグループに参加することを招待します、
 
-For details on the Call for Participation and AC Appeals against Working or Interest Groups being created please see the [W3C Process Document](https://w3c.github.io/w3process/#cfp). 
+作成されているワーキンググループまたはインタレストグループに対する参加要請およびACアピールの詳細については、[W3Cプロセス文書](https://w3c.github.io/w3process/#cfp)を参照してください。
 
 ### Charter Contents
 Group charters include the following information:
