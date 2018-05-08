@@ -134,7 +134,7 @@ W3Cの主要な言語は、仕様テキスト用の英語(米国英語)です。
 * __WGメモ__:  [W3C Interest and Working Groups](#w3c-interest-and-working-groups)参照
 * __WG参加者__:  [Participants](#participants)参照
 * __ワークショップ__:  [Workshops and Symposia](#workshops-and-symposia)参照
-* __選挙__:  [Voting](#voting).参照
+* __投票__:  [Voting](#voting).参照
 
 
 # Leadership and Leadership Groups
@@ -388,68 +388,88 @@ W3Cノートは[The Recommendation Track](#w3c-recommenation-technical-report-fl
 詳細は、[W3Cプロセスドキュメント](https://w3c.github.io/w3process/#Note)を参照してください。
 
 ## Requirements for W3C Recommenations (Technical Reports)
-W3C Recommenations (Technical Reports) are public documents at every stage of the [Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track). The document will display a set information including:
+## W3Cの勧告(技術報告書)に対する要求条件
+W3C勧告（Technical Reports）は、[勧告のフロー](#w3c-recommenation-technical-report-flow-the-recommendation-track)のあらゆる段階で公開される文書である。ドキュメントには、以下を含むセット情報が表示されます。
 
-* The document's maturity level (see [Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track))
-* The Working Group who developed the document
-* Instructions on how and where to file bugs
-* "Next Steps" for the document
-* Explanation on how this document relates to existing web standards
-* Explanation of changes from the previous document version (a "Change Log").
+* ドキュメントの成熟度レベル([勧告のフロー](#w3c-recommenation-technical-report-flow-the-recommended-track)を参照)
+* 文書を作成したワーキンググループ
+* バグの記録方法と場所についての説明
+* このドキュメントの「次のステップ」
+* このドキュメントが既存のWeb標準にどのように関連するかについての説明
+* 以前の文書バージョンからの変更点の説明（ "変更ログ"）。
+
 
 ## Editors
-Every W3C Recommenation (Technical Report) will have one or more Editors. These Editors are responsible for writing a document in a way which reflects the decisions of the Working Group. All Editors must be members of the Working Group responsible for the document they are editing. 
+## エディター
+すべてのW3C勧告(テクニカルレポート)には、1人以上のエディターがいます。これらのエディターは、WGの決定を反映する形で文書を作成する責任があります。すべてのエディターは編集中の文書を担当するWGのメンバーでなければなりません。
 
-## W3C Recommenation (Technical Report) Flow: The "Recommendation Track" 
-A typical flow of a document from draft to Technical Report is below:
+## W3C勧告（技術報告）フロー：「勧告トラック」
+ドラフトからテクニカルレポートまでの文書の典型的な流れは次のとおりです。
 
-![Recommendation Track Diagram](https://github.com/w3c/wg-effectiveness/blob/master/images/rectrackdiagram.png)
+![勧告のフロー図](https://github.com/w3c/wg-effectiveness/blob/master/images/rectrackdiagram.png)
 
-* **(Optional) Creation of Editor's Drafts:** anyone can start an Editor's Draft. Working Group members will often develop these as individuals or within a small group and then submit them to a group to be considered for a First Public Working Draft. 
-  * Maturity Level: Editors Draft
-  * To progress to next step: submit the Editor's Draft to the Working Group via the Working Group mailing list (email). 
-* **Publication of the First Public Working Draft:** a draft document, which can be reviewed by the members of the group and the public. 
-  * Maturity Level: Working Draft
-  * To progress to next step: Working Group consensus on the document, Director approves.
-* **Publication of zero or more revised Public Working Drafts:** the community makes suggested changes to the drafts, these are considered and possibly added to make a revised Public Working Draft. 
-  * Maturity Level: Working Draft
-  * To progress to next step: Working Group consensus on the document, Director approves.
-* **Publication of a Candidate Recommendation:** when the Working Group agrees the document is ready for final review the document is progressed to Candidate Recommendation. The document should satisfy all it's technical requirements, and it should have some working implementations. A Working Group should be confident that this document is final. The [AC](#advisory-committee-ac) reviews the draft, implementations are encouraged and an opportunity to provide a patent exclusion is made. 
-  * Maturity Level: Candidate Recommendation
-  * To progress to next step: Working Group approves, [AC](#ac-reviews) Review, Director approves.
-* **Publication of a Proposed Recommendation:** The W3C Director has agreed the document is of sufficient quality to be a standard, the [AC](#advisory-committee-ac) now reviews the document as final. Any changes at this stage requires a new Working Draft or Candidate Recommendation. 
-  * Maturity Level: Proposed Recommendation
-  * To progress to next step: Working Group consensus on the document, [AC](#ac-reviews) Review, Director approves.
-* **Publication as a W3C Recommendation:** the document is now a standard for the Web. 
-  * Maturity Level: W3C Recommendation
-* **Possibly, Publication as an Edited Recommendation:** a W3C Recommendation receives edits, and must progress these edits through the process.
+* **（オプション）エディターによる下書き作成：** 誰でもエディターの下書きを開始できます。ワーキンググループのメンバーは、個人として、または小グループ内でこれらを開発し、グループに提出して、最初の公開作業ドラフトとみなされます。
+  * 成熟度：エディタードラフト
+  * 次のステップに進むには、エディターのドラフトをワーキンググループメーリングリスト(電子メール)を介してワーキンググループに提出する。
+* **最初の公開作業ドラフトの公表：** グループのメンバーと一般の人々が見直すことができるドラフト文書。
+  * 成熟度：作業中のドラフト
+  * 次のステップに進むには，文書のワーキンググループでの合意とDirectorの承認が必要。
+* **改訂された公共作業草案の公表** コミュニティはドラフトの変更案を作成します。これらは改訂された公開作業ドラフトを作成するために考慮され、場合によっては追加されます。
+  * 成熟度：作業中のドラフト
+  * 次のステップに進にはドラフトのワーキンググループでの合意とDirectorの承認が必要。
+* **候補勧告の公表：** WGが文書の最終レビュー準備が整うことに同意すると、その文書は候補勧告に進む。ドキュメントはすべての技術的要件を満たす必要があり、いくつかの実装が必要です。WGは、この文書が最終的なものであることを確信しなければならない。 [AC](#advisory-committee-ac)はこの草案を検討し、実施は奨励され、特許排除を提供する機会が設けられる。
+  * 成熟度：候補勧告
+  * 次のステップに進にはWGが承認し、[AC](#ac-reviews)がレビューを行い、ディレクターの承認が必要。
+* **提案された勧告の公表：** W3Cディレクターは、文書が十分な品質で標準となることに合意し、[AC](#advisory-committee-ac)は最終的に文書をレビューする。この段階での変更には、新しい作業ドラフトまたは候補勧告が必要です。
+  * 成熟度：勧告提案
+  * 次のステップに進むには文書へのWGの合意，[AC](#ac-reviews)レビューとディレクターの承認が必要。
+* **W3C勧告としての好評：** この文書は現在、Webの標準です。
+  * 成熟度：W3C勧告
+* **編集された勧告としての公表も考えられる：** W3C勧告は編集を受け取り、プロセスを通してこれらの編集を進めなければならない。
 
-Members of the group should review documents throughout the process; although reviewing and suggesting changes as-early-as-possible is advised.
+グループのメンバーは、プロセス全体を通じて文書をレビューする必要があります。可能な限り早期に変更を検討し提案することが推奨される。
 
 ## Maturity Levels Explained
-As documents progress through the "Recommendation Track" they progress through "document maturity levels", see more information on maturity levels below.
+## 成熟度の説明
+ドキュメントが「勧告のフロー」を経て進行するにつれて、「ドキュメントの成熟度」が進行し、以下の成熟度の詳細が表示されます。
 
-### Editors Drafts
-Editors Drafts are documents which individuals or groups work on as proposals to become Working Groups Drafts. Editors Drafts are an important part of many groups work; but they have no standing until they are upgraded to Working Drafts. 
+### エディタードラフト
+エディタードラフトは、個人またはグループがワーキンググループドラフトとして提案するために作業する文書です。エディターのドラフトは、多くのグループ作業の重要な部分です。それらは作業ドラフトにアップグレードされるまで留まることはありません。
+
+#### 次のステップ
+エディターのドラフトをワーキンググループに提出して[作業ドラフト](#working-draft)または "ワーキンググループノート"にする。
+
+### 作業中のドラフト
+ワーキンググループが新しい標準またはW3Cノートで作業を開始することに合意したとき、作業ドラフトを作成する。ワーキングドラフトは新しい文書でも、ワーキンググループは[エディタードラフト](#editors-draft)を採用することもできます。これらの両方の移行は「最初の公開作業ドラフト」になる。この段階では、[W3Cの特許ポリシーに詳述されている"除外特許の呼びかけ"](https://www.w3.org/Consortium/Patent-Policy-20170801/#sec-exclude-mech)を始めます．
+ワーキンググループは引き続きこの文書の作業を続け、意思決定と文書の編集に合意し、「改訂作業ドラフト」を作成し続ける。文書に重大な変更が加えられた場合、その文書を[W3Cテクニカルレポートページ](https://www.w3.org/TR/)に再アップロードする必要があります。 6ヵ月経過しても変更がなければ、改訂作業ドラフトをアップロードする必要があります。この改訂案は、なぜこの時間内に変更がないのかを示しています。
+
+グループは、次の推奨トラックステージ([勧告フロー](#w3c-recommenation-technical-report-flow-the-recommended-track)および[遷移要求]を参照)への移行のために、作業ドラフトに関する情報を準備する必要があります。 （ステージとトランジションの詳細については、[勧告フロー](#w3c-recommenation-technical-report-flow-the-recommendation-track)と[遷移要求](#transition-requests-and-moving-between-track-stages)を参照してください。これらには、
+
+* 文書を進めるためのグループ決定の記録
+* 最後のバージョンからの変更の記録
+* 前回のバージョン以降に変更された要件のレコード（存在する場合）
+* 他のグループとの関係における変化の報告。
+
+すべての作業ドラフトについて、ワーキンググループは未解決の問題とグループがコンセンサス(多くのグループが現在Githubでこれを行います)に達していない問題を文書化します。詳細は、[W3Cプロセスドキュメント](https://w3c.github.io/w3process/#working-draft)を参照してください。
 
 #### Next Steps
-Submit the Editors Draft to a Working Group to become a ["Working Draft"](#working-draft), or "Working Group Note".
+#### 次のステップ
+作業草案は、「修正作業草案」、「候補推薦」（＃候補推薦）、または「作業グループノート」に移行することができます。
 
-### Working Draft
-When a Working Group has agreed to begin work on a new standard or W3C Note they create a Working Draft. A Working Draft can be a new document or a Working Group can adopt an [Editors Draft](#editors-draft); both of these transition to become a "First Public Working Draft". This stage triggers a ["Call for Exclusions" detailed in the W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy-20170801/#sec-exclude-mech). 
+###候補者の推薦
+候補者推薦状は、最終的なレビューにある文書である。この段階で、グループは文書を次の段階に進めるための一連の情報を準備する（[勧告追跡]（＃w3c-recommenation-technical-report-flow-the-recommendation-track）と[移行要求（＃ステージとトランジションの詳細については、トラックステージ間の遷移要求と移動のステージ）を参照してください。収集される情報は次のとおりです。
 
-A Working Group then continues to work on this document, coming to consensus on decisions and editing the document to continue to create "Revised Working Drafts". If significant changes to the document have been made the group should be re-uploaded the document to the [W3C Technical Reports Page](https://www.w3.org/TR/). A Revised Working Draft will need to uploaded also if 6 months pass with no change; this Revised Draft indicates why there has been no change within this time.  
+*文書がワーキンググループの要件（[憲章]（＃チャーター・アンド・フォー・フォー・参加）に記載されている）、または要件が変更された理由
+*他の仕様への依存
+*実用的な実装経験がどのように実証されたかを文書化する
+*ドキュメントがどのように幅広いレビューを受けたかの詳細
+*リスクのある機能を特定する。
 
-The group will have to prepare some information on the Working Draft for a transition to the next Recommendation Track stage  (see [Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track) and [Transition Requests](#transition-requests-and-moving-between-track-stages) for more information on stages and transtions); these include:
+ワーキンググループはまた、発表の少なくとも28日後にコメント締め切りを宣言している。
 
-* Recordings of the Group decision to advance the document
-* Record of the changes from the last version
-* Record of which requirements have changed since the last version (if any)
-* Report of any change in depencies with other groups.
+この段階では、[W3Cの特許ポリシーに詳述されている["Call for Exclusions"]（https://www.w3.org/Consortium/Patent-Policy-20170801/#sec-exclude-mech）がトリガーされます。
 
-For all Working Drafts a Working Group will document outstanding issues and issues where the group has not reached consensus (many groups currently do this on Github). For more information please see the [W3C Process Document](https://w3c.github.io/w3process/#working-draft).
-
-#### Next Steps
+詳細は、[W3C Process Document]（https://w3c.github.io/w3process/#candidate-rec）を参照してください。
 Working Drafts can transition to become "Revised Working Drafts", ["Candidate Recommendation"](#candidate-recommendation) or "Working Group Note".
 
 ### Candidate Recommendation
