@@ -293,9 +293,9 @@ ACがチャーターを承認した後、[Director](#the-director)はグルー�
 #### チャーター使用用語
 W3Cプロセス文書では、チャーターの成果物を記述する方法として、「参考ドラフト」、「除外ドラフト」、「採用ドラフト」などの用語について説明しています。ここでこれらの概要を簡単に説明します。より理解を深めるには、[W3C Process Document](https://w3c.github.io/w3process/#WGCharter)を参照してください。
 
-* __参考ドラフト__ ：ほとんどの場合、これは最新の場合は最新の[Working Draft](#working-draft)または[最初の公になった作業ドラフト](#working-draft)です。特定のルールについては、[W3Cプロセスドキュメント](https://w3c.github.io/w3process/#WGCharter)および[W3C特許ポリシー](https：//www.w3.org / Consortium / Patent-Policy-20170801 /)を参照してください。
+* __参考ドラフト__ ：ほとんどの場合、これは最新の場合は最新の[Working Draft](#working-draft)または[最初の公になった作業ドラフト](#working-draft)です。特定のルールについては、[W3Cプロセスドキュメント](https://w3c.github.io/w3process/#WGCharter)および[W3C特許ポリシー](https://www.w3.org/Consortium/Patent-Policy-20170801/)を参照してください。
 * __採用ドラフト__ ：この草案は、成果物の基礎として使用されます。いくつかの標準化団体は、これを「ワーキンググループが採用したドラフト」と呼んでいる。これは、このドラフトが最終的な成果物の基礎となることを意味しますが、最終的な文書（W3Cの勧告または注釈でもよい）は大きく異なる可能性があります。
-* __除外ドラフト__ ：これは、除外機会を引き起こした最近の[作業中のドラフト](#working-draft)または[勧告候補](#candidate-recommendation)です。具体的な情報については、[W3Cプロセス文書](https://w3c.github.io/w3process/#WGCharter)および[W3C特許ポリシー](https://www.w3.org/Consortium/Patent-Policy- 20170801 /)を参照して下さい。
+* __除外ドラフト__ ：これは、除外機会を引き起こした最近の[作業中のドラフト](#working-draft)または[勧告候補](#candidate-recommendation)です。具体的な情報については、[W3Cプロセス文書](https://w3c.github.io/w3process/#WGCharter)および[W3C特許ポリシー](https://www.w3.org/Consortium/Patent-Policy-20170801/)を参照して下さい。
 
 ### Charter Extensions
 ### チャーター拡張
@@ -344,7 +344,7 @@ W3Cプロセス文書では、チャーターの成果物を記述する方法�
 合意はW3Cの中核的価値です。 W3Cで合意されている合意と異議申し立てを以下に示します。詳細は、[W3C Process Document](https://w3c.github.io/w3process/#Consensus)を参照してください。
 
 1. **合意：** 集合内のかなりの数の人が決定を支持し、登録者の誰も正式な異議申し立てをしないこと。個人は棄権することがあります。棄権は、意見のない明示的な表現か、また個人による沈黙である。全員一致は、集合内のすべての個人が決定を支持する（すなわち、集合内の個人が棄権しない）場合である。
-2. **異議：**集合内の少なくとも1人の個人が正式な異議申し立てを登録します。
+2. **異議：** 集合内の少なくとも1人の個人が正式な異議申し立てを登録します。
 
 ### Group Decision Appeals and Formal Objections
 ### グループ決定の控訴と正式な反対
@@ -381,7 +381,7 @@ W3C勧告は、認知されているW3C標準（「技術報告書」とも呼�
 
 すべてのW3C勧告は、[W3C技術レポートの索引](https://www.w3.org/TR/)にあります。
 
-W3Cグループは、勧告トラック文書ではない** W3Cノート**を公開することもできます。 W3Cノートの例には、ユースケースのリスト、ガイダンス、放棄された作業のステータスなどが含まれます。
+W3Cグループは、勧告トラック文書ではない **W3Cノート** を公開することもできます。 W3Cノートの例には、ユースケースのリスト、ガイダンス、放棄された作業のステータスなどが含まれます。
 
 W3Cノートは[The Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track)もフォローします。それらは通常、ノートとして。**なんらかの改訂された公共作業ドラフトの出版** という段階です。
 
