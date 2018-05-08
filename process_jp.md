@@ -1,6 +1,6 @@
 # W3C Process for Busy People
 # 忙しい人のためのW3Cプロセス入門
-このドキュメントはW3C Process for Busy Peopleの日本語訳です．
+このドキュメントは**W3C Process for Busy People**の日本語訳です．
 
 このドキュメントは、読者に、[W3Cプロセスドキュメント](https://w3c.github.io/w3process/)の概要を簡単に説明することを目的としています。元の[W3C Process Document](https://w3c.github.io/w3process/)は、法的に正確であるように書かれた完全なドキュメントであり、各アイテムとプロセスについての詳細を詳しく説明しています。このドキュメントはメイン文書の概要を示すことを目的としているため、新規および既存のW3C参加者はすべてのW3Cプロセスを理解し、詳細情報の入手先を知ることができます。
 
