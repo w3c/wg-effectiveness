@@ -265,56 +265,60 @@ ACがチャーターを承認した後、[Director](#the-director)はグルー�
 作成されているワーキンググループまたはインタレストグループに対する参加要請およびACアピールの詳細については、[W3Cプロセス文書](https://w3c.github.io/w3process/#cfp)を参照してください。
 
 ### Charter Contents
-Group charters include the following information:
+### チャーター目次
+グループチャーターには以下の情報が含まれます：
 
-* The group mission
-* Scope of work
-* Criteria for success
-* Group expected duration
-* List of group deliverables and timelines. If these are Recommendation Track documents (specifications) these items should be included (check [Charter Deliverable Terms](#charter-deliverable-terms) for terms to use for deliverables within Charters):
-  * Title
-  * Stable URL
-  * Publication date. 
-* Details on how deliverables are approved
-* Dependancies on groups within W3C or other bodies
-* Level of confidentiality of the group's deliverables
-* Frequency and type of meetings
-* Communication methods
-* Expected time commitments from participants
-* Expected time commitments from the team (W3C staff)
-* Intellectual property information.
+* グループミッション
+* 仕事の範囲
+* 成功のための基準
+* グループ予想期間
+* グループ成果物とタイムラインのリスト。これらが勧告追跡文書（仕様書）である場合、これらの項目を含める必要があります（チャーター内の成果物に使用する用語については、[使用可能な用語](#charter-deliverable-terms)を確認してください）。
+  * タイトル
+  * 安定したURL
+  * 出版日。
+* 成果物の承認方法に関する詳細
+* W3Cまたは他の団体内のグループへの依存
+* グループの成果物の機密性レベル
+* 会議の頻度と種類
+* 通信方法
+* 参加者から期待される時間の確定
+* チームから期待される時間の確定(W3Cスタッフ)
+* 知的財産情報。
 
-Other possible items to include in the Charter is participation requirements (for Interest Groups), voting procedures, and constraints on participants and deliverables not covered in the [W3C Process Document](https://w3c.github.io/w3process/).
+このチャーターに含めることができる他の可能な項目は、[W3Cプロセス文書](https://w3c.github.io/w3process/)には記載されていない，参加要件(インタレストグループ用)、投票手順、参加者と成果物の制約事項です。
 
-Further details can be found in the [W3C Process Document](https://w3c.github.io/w3process/#WGCharter). 
+詳細は、[W3C Process Document](https://w3c.github.io/w3process/#WGCharter)を参照してください。
 
 #### Charter Deliverable Terms
-The W3C Process Document discusses terms such as "Reference Draft", "Exclusion Draft" and "Adopted Draft" as ways to describe deliverables in a Charter. Here is a brief overview of these. Please see the [W3C Process Document](https://w3c.github.io/w3process/#WGCharter) for a deeper understanding.
+#### チャーター使用用語
+W3Cプロセス文書では、チャーターの成果物を記述する方法として、「参考ドラフト」、「除外ドラフト」、「採用ドラフト」などの用語について説明しています。ここでこれらの概要を簡単に説明します。より理解を深めるには、[W3C Process Document](https://w3c.github.io/w3process/#WGCharter)を参照してください。
 
-* __Reference Draft__: In most cases this is the latest [Working Draft](#working-draft) or [First Public Working Draft](#working-draft) if this is the latest. Patent exclusions will be made against this draft, for specific rules please see the [W3C Process Document](https://w3c.github.io/w3process/#WGCharter) and [W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy-20170801/).
-* __Adopted Draft__: This draft is used as the basis for the deliverable. Some standards bodies refer to this as "Working Group Adopted Draft". This means this draft will be a basis for the final deliverable, but the final document (which may be a W3C Recommendation or Note) could be very different. 
-* __Exclusion Draft__: this is a recent [Working Draft](#working-draft) or [Candidate Recommendation](#candidate-recommendation) that triggered an Exclusion Opportunity. For specific information please see the [W3C Process Document](https://w3c.github.io/w3process/#WGCharter) and [W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy-20170801/).
+* __参考ドラフト__ ：ほとんどの場合、これは最新の場合は最新の[Working Draft](#working-draft)または[最初の公になった作業ドラフト](#working-draft)です。特定のルールについては、[W3Cプロセスドキュメント](https://w3c.github.io/w3process/#WGCharter)および[W3C特許ポリシー](https：//www.w3.org / Consortium / Patent-Policy-20170801 /)を参照してください。
+* __採用ドラフト__ ：この草案は、成果物の基礎として使用されます。いくつかの標準化団体は、これを「ワーキンググループが採用したドラフト」と呼んでいる。これは、このドラフトが最終的な成果物の基礎となることを意味しますが、最終的な文書（W3Cの勧告または注釈でもよい）は大きく異なる可能性があります。
+* __除外ドラフト__ ：これは、除外機会を引き起こした最近の[作業中のドラフト](#working-draft)または[勧告候補](#candidate-recommendation)です。具体的な情報については、[W3Cプロセス文書](https://w3c.github.io/w3process/#WGCharter)および[W3C特許ポリシー](https://www.w3.org/Consortium/Patent-Policy- 20170801 /)を参照して下さい。
 
 ### Charter Extensions
-Working and Interest Groups can be extended past their agreed Charter completion dates. The [Director](#the-director) can do this by simply announcing to the [AC Mailing List](#) that the group has been extended and the new time period.
+### チャーター拡張
+ワーキンググループとインタレストグループは、合意されたチャーター完了日を過ぎて延長することができます。 [ディレクター](#the-director)は、[ACメーリングリスト](#)にグループが延長されたことと新しい期間を単にアナウンスすることでこれを行うことができます。
 
-Details on group extensions can be found in the [W3C Process Document](https://w3c.github.io/w3process/#charter-extension). 
+グループ拡張の詳細については、[W3Cプロセスドキュメント](https://w3c.github.io/w3process/#charter-extension)を参照してください。
 
 ## Participants
-Participants in Interest and Working Groups should be technically capable, fair and confident to speak and interact with others in the group. There are four types of group participant; all can participate in an Interest Group, all but ***public participants*** can participate in a Working Group.
+## 参加者
+利害関係者とワーキンググループの参加者は、技術的に能力があり、公正で自信があり、グループ内の他の人と話し、交流する必要があります。グループ参加者には4種類あります。すべてがインタレストグループに参加することができますが、***メンバーのみが***ワーキンググループに参加することができます。
 
-* **Member Representatives**: An individual representative from a W3C member oragnisation. AC members nominate people within their organisation to participate within groups (in some cases an AC member may be able to [nominate someone from outside their organisation](https://w3c.github.io/w3process/#member-rep)). 
-  * **Members in Working Groups:** Before joining the group, the AC member sends a statement that confirms the new member agrees with the participation terms detailed in the charter. 
-  * **Members in Interest Groups:** Before joining the group, the AC member checks the participation intructions in the group charter (which can involve a statement as for working groups or could simply involve adding the new member to the group mailing list).
-* **Invited Experts**: an individual with valuable expertise to a group and is not an employee of a W3C Member. [Detailed rules](https://w3c.github.io/w3process/#group-participation) apply for becoming an Invited Expert. 
-* **Team Representatives**: staff members of W3C. Team members can be a Team Contact or a regular participant of a group. 
-* **Public Participants**: members of the public. Cannot be Working Group participants. 
+* **メンバー代表者**：W3Cメンバーからの個人代表者。 ACメンバーは、組織内の人々をグループ内で推薦することができます．(場合によっては、ACメンバーが[組織の外にいる人を指名することもできます](https://w3c.github.io/w3process/#member-rep))。
+  * **ワーキンググループのメンバー：** グループに参加する前に、AC会員は、新会員がチャーターに詳述された参加規約に同意することを確認する声明を送付します。
+  * **インタレストグループのメンバー：** ACメンバーは、グループに参加する前に、グループ憲章の参加方法をチェックします（これは、ワーキンググループの声明を含むことも、グループメーリングリストに新しいメンバーを追加することもできます） 。
+* **招待エキスパート**：グループに貴重な専門知識を持ち、W3Cメンバーの従業員ではない個人。 [詳細なルール](https://w3c.github.io/w3process/#group-participation)は、招待されたエキスパートになるために適用されます。
+* **チーム代表**： W3Cのスタッフ。チームメンバーは、チームコンタクトまたはグループの正規の参加者になることができます。
+* **公衆参加者**： 一般のメンバー。WG参加者になることはできません。
 
-Generally all group members are members of the group until the group closes or they resign from the group. 
+一般的に、すべてのグループメンバーは、グループが終了するか、グループから抜けるまで、グループのメンバーです。
 
-For more information on members including dismisal processes see the W3C Process Document on [Participation Criteria](https://w3c.github.io/w3process/#ParticipationCriteria) and [Group Participation](https://w3c.github.io/w3process/#group-participation).
+解読プロセスを含むメンバーの詳細については、[参加基準](https://w3c.github.io/w3process/#ParticipationCriteria)と[グループへの参加](https://w3c.github.io/w3process/#ParticipationCriteria)のW3Cプロセス文書を参照してください。
 
-A Conflict of Interest Policy exists which instructs participants on how to disclose any conflict of interest a participant may have with the W3C and / or group work. See the [W3C Process Document](https://w3c.github.io/w3process/#coi) for more information.
+参加者がW3Cおよび/またはグループ作業に与える可能性のある利益相反をどのように開示するかを参加者に指示する、利益相反ポリシーが存在します。詳細は、[W3C Process Document](https://w3c.github.io/w3process/#coi)を参照してください。
 
 ### Participation by Proxy
 Group participants can sometimes send people in their place when unable to attend themselves. This representative can vote on behalf of the original member. Group members should inform the chairs when they are sending a representative. Rules for this are detailed in the [W3C Process Document](https://w3c.github.io/w3process/#member-rep-wg).
