@@ -454,100 +454,88 @@ W3C勧告（Technical Reports）は、[勧告のフロー](#w3c-recommenation-te
 
 #### Next Steps
 #### 次のステップ
-作業草案は、「修正作業草案」、「候補推薦」（＃候補推薦）、または「作業グループノート」に移行することができます。
+作業草案は、「修正作業ドラフト」，[候補勧告](#candidate-recommendation)、または「作業グループノート」に移行することができます。
 
-###候補者の推薦
-候補者推薦状は、最終的なレビューにある文書である。この段階で、グループは文書を次の段階に進めるための一連の情報を準備する（[勧告追跡]（＃w3c-recommenation-technical-report-flow-the-recommendation-track）と[移行要求（＃ステージとトランジションの詳細については、トラックステージ間の遷移要求と移動のステージ）を参照してください。収集される情報は次のとおりです。
+### 候補勧告
+候補勧告は、最終的なレビューがなされる文書である。この段階で、グループは文書を次の段階に進めるための一連の情報を準備する.トラックステージ間の遷移要求と移動のステージの詳細については([勧告フロー](#w3c-recommenation-technical-report-flow-the-recommendation-track)と[移行要求](#transition-requests-and-moving-between-track-stages)を参照してください。収集される情報は次のとおりです。
 
-*文書がワーキンググループの要件（[憲章]（＃チャーター・アンド・フォー・フォー・参加）に記載されている）、または要件が変更された理由
-*他の仕様への依存
-*実用的な実装経験がどのように実証されたかを文書化する
-*ドキュメントがどのように幅広いレビューを受けたかの詳細
-*リスクのある機能を特定する。
+* 文書がワーキンググループの要件([チャーター](#charter-and-call-for-participation)に概要が記載されている)に合致していることを説明する．または要件が変更されたのならその理由
+* 他の仕様への依存
+* 実用的な実装経験がどのように実証されたかを文書化する
+* ドキュメントがどのように幅広いレビューを受けたかの詳細
+* リスクのある機能の特定
 
-ワーキンググループはまた、発表の少なくとも28日後にコメント締め切りを宣言している。
+ワーキンググループはまた、発表の少なくとも28日後にコメント締め切りを宣言する。
 
-この段階では、[W3Cの特許ポリシーに詳述されている["Call for Exclusions"]（https://www.w3.org/Consortium/Patent-Policy-20170801/#sec-exclude-mech）がトリガーされます。
+この段階では、[W3Cの特許ポリシーに詳述されている"除外特許のコール"](https://www.w3.org/Consortium/Patent-Policy-20170801/#sec-exclude-mech)が始められます。
 
-詳細は、[W3C Process Document]（https://w3c.github.io/w3process/#candidate-rec）を参照してください。
-Working Drafts can transition to become "Revised Working Drafts", ["Candidate Recommendation"](#candidate-recommendation) or "Working Group Note".
-
-### Candidate Recommendation
-Candidate Recommendations are documents which are in their final review. At this stage the group will prepare a set of information to progress the document to the next stage (see [Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track) and [Transition Requests](#transition-requests-and-moving-between-track-stages) for more information on stages and transtions). The information to be collected is:
-
-* Explanation of how the document meets the Working Group requirements (outlined in the [Charter](#charter-and-call-for-participation)) or why the requirements have changed
-* Dependencies on other specifications
-* Document how adaquate implementation experience was demonstrated
-* Detail how the document received wide review
-* Identify any at-risk feature.
-
-The Working Group also advertises a deadline for comments, which is at least 28 days after publication. 
-
-This stage triggers a ["Call for Exclusions" detailed in the W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy-20170801/#sec-exclude-mech). 
-
-For more information please see the [W3C Process Document](https://w3c.github.io/w3process/#candidate-rec).
+詳細は、[W3C Process Document](https://w3c.github.io/w3process/#candidate-rec)を参照してください。
 
 #### Revised Candidate Recommendations
-If during the review period [substantive changes](https://w3c.github.io/w3process/#substantive-change) are made to the document then the document can become a "Revised Candiate Recommendation"; this may trigger a ["Call for Exclusions" detailed in the W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy-20170801/#sec-exclude-mech). Please see the [W3C Process Document](https://w3c.github.io/w3process/#revised-cr) for more information.
+#### 候補勧告の改訂
+審査期間中に[実質的な変更](https://w3c.github.io/w3process/#substantive-change)が文書になされた場合、その文書は「修正された候補勧告」になることができる。これにより、[W3C特許ポリシーに詳述されている[除外特許の呼びかけ](https://www.w3.org/Consortium/Patent-Policy-20170801/#sec-exclude-mech)が発生する可能性があります。詳細は、[W3Cプロセス文書](https://w3c.github.io/w3process/#revised-cr)を参照してください。
 
-#### Next Steps
-Candidate Recommendations can return to being a ["Working Draft"](#working-draft), can become a "Revised Candidate Recommendation", or can transition to become a ["Proposed Recommendation"](#proposed-recommendation) or "Working Group Note".
+#### 次のステップ
+候補勧告は、[「作業ドラフト」](#working-draft)に戻ることや、「改訂候補勧告」になることや、[「提案勧告」](#proposed-recommendation)または「WGノート になることができる。
 
-### Proposed Recommendation
-Proposed Recommendation is the final stage of the document before becoming a [W3C Recommendation](#w3c-recommendation). The main purpose of this stage is to receive [AC Review](#ac-reviews). 
+### 提案された勧告
+提案勧告は、[W3C勧告](#w3c-recommendation)になる前の文書の最終段階です。この段階の主な目的は[ACレビュー](#ac-reviews)を受けることです。
 
-Working Groups should ensure the Proposed Recommendation meets the [Transition Request](#transition-requests-and-moving-between-track-stages) requirements and will collect required information including details of implementation experience and explanations of issues and how these were formally addressed. A full list of information to gather can be found in the [W3C Process Document](https://w3c.github.io/w3process/#rec-pr).
+ワーキンググループは、提案された勧告が[移行要求]（(#transition-requests-and-moving-between-track-stages)の要件を満たしていることを確認し、実装経験の詳細、問題の説明、およびこれらが正式にどのように対処されたかを含む必要な情報を収集する。収集する情報の完全なリストは、[W3C Process Document](https://w3c.github.io/w3process/#rec-pr)にあります。
 
-The Working Group will then notify their [Team Contact](#the-w3c-team) to request that the Director notifies the AC of the review period. The AC Review Period is at least 28 days and is 10 days after an Exclusion Opportunity (detailed in the [W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy-20170801/#sec-exclude-mech). 
+ワーキンググループは、[チームの連絡先](#the-w3c-team)に、ディレクターがレビュー期間をACに通知することを要求するよう通知する。 ACレビュー期間は少なくとも28日間であり、除外の機会の10日後である([W3C特許ポリシー](https://www.w3.org/Consortium/Patent-Policy-20170801/#sec-exclude-メック)。
 
-For more information please see the [W3C Process Document](https://w3c.github.io/w3process/#rec-pr).
+詳細は、[W3C Process Document](https://w3c.github.io/w3process/#rec-pr)を参照してください。
 
-#### Next Steps
-Substantive edits cannot happen on Proposed Recommendations, so to make any changes the document will move back to being a ["Working Draft"](#working-draft) or a ["Candidate Recommendation"](#candidate-recommendation). Otherwise it can become a ["W3C Recommendation"](#w3c-recommendation) or "Working Group Note".
+#### 次のステップ
+実質的な編集は提案された勧告では起こり得ないので、文書を変更するには、文書を[作業ドラフト](#working-draft) または[候補勧告](#candidate-recommendation)に戻す。それ以外の場合は、[W3C勧告](#w3c-recommendation)または「ワーキンググループノート」になります。
 
 ### W3C Recommendation
-The W3C Recommendation is an approved standard of the W3C and the end of the [W3C Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track)! There are many informal terms used for a W3C Recommedation including "Rec", "Recommendation", "TR", "Technical Report", "Spec", "Standard"; they all mean the same thing.
+### W3C勧告
+W3C勧告は、W3Cの承認された標準であり、[W3C勧告トラック](#w3c-recommenation-technical-report-flow-the-recommendation-track)の終点です！ 「Rec」、「Recommendation」、「TR」、「Technical Report」、「Spec」、「Standard」を含むW3C勧告に使用される多くの非公式用語があります。そらはすべて同じことを意味します。
 
-To get to W3C Recommendation a "W3C Decision" is required; this is where a document has met all the [Transition Request](#transition-requests-and-moving-between-track-stages) requirements, the [Director](#the-director) has approved the document and the document has passed [AC Review](#ac-reviews) during the ["Proposed Recommendation"](#proposed-recommendation) stage. 
+W3C勧告に到達するには、「W3C決定」が必要です。これは、文書がすべての[遷移要求](#transition-requests-and-moving-between-track-stages)要件を満たし、[Director](#the director)が文書を承認し、文書が[提案された推薦](#proposed-recommendation)ステージ中の[ACレビュー](#ac-reviews)にパスすることが必要です．
 
-[The Director](#the-director) will announce the publication of the W3C Recommendation. If any AC member disagrees with the decision, they could raise an ["Advisory Committee Appeal"](#ac-appeals).
+[ディレクター]（＃ディレクター）は、W3C勧告の公表を発表する予定です。 AC会員が決定に同意しない場合は、[諮問委員会上訴]を提出することができます（＃AC上訴）。
 
-#### Next Steps
-W3C Recommendations can become: 
+#### 次のステップ
+W3C勧告は次のようになることができます。
 
-* An ["Edited Recommendation"](#revised-recommendation-edited-and-amended-recommendations) if a Working Group chooses to revise the document
-* An ["Amended Recommendation"](#revised-recommendation-edited-and-amended-recommendations) if the document needs to be edited in a way which doesn't add new features and when a Working Group no longer exists to work on the document, or 
-* An ["Obsolete Recommendation"](#rescinded-obsolete-or-superseded-recommendations) if it is either no longer often used on the web or doesn't represent best practices. These may be restored to a Recommendation.
-* A ["Superseded Recommendation"](#rescinded-obsolete-or-superseded-recommendations) if it's been replaced with a newer specification. These may be restored to a Recommendation.
-* A ["Rescinded Recommendation"](#rescinded-obsolete-or-superseded-recommendations) is a document which W3C no longer endorses, and will never restore to a Recommendation. 
-* A "Working Group Note, Interest Group Note".
+* ワーキンググループが文書の改訂を選択した場合、[編集された勧告]（(#revised-recommendation-edited-and-amended-recommendations)に
+* 新しい機能を追加しない方法で編集する必要がある場合、および作業する作業グループがもはや存在しない場合は、["修正された推奨事項"](#revised-recommendation-edited-and-amended-recommendations)に、または
+* ウェブ上で頻繁に使用されなくなった場合や、ベストプラクティスを示すものではない場合、[廃止された推奨事項](#rescinded-obsolete-or-superseded-recommendations)に。これらは、勧告に復元することができる。
+* 新しい仕様に置き換えられている場合は、[Superseded Recommendation]（(#rescinded-obsolete-or-superseded-recommendations)。これらは、勧告に復元することができる。
+* [廃止された勧告](#rescinded-obsolete-or-superseded-recommendations)は、W3Cが承認しなくなり、勧告に復元されない文書です。
+* 「ワーキンググループノート、インタレストグループノート」。
 
-## Transition Requests and Moving Between Recommendation Track Stages  
-Going from one stage to the next involves making a "Transition Request". Team contacts will make Transition Requests once a number of goals have been met. These include: 
+## Transition Requests and Moving Between Recommendation Track Stages
+## 推薦トラックステージ間の遷移要求と移動
+1つのステージから次のステージに進むには、「遷移要求」を作成する必要があります。 チームの連絡先は、いくつかの目標が達成されると移行要求を行います。 これらには、
 
-* Obtaining and record group consensus
-* Obtain Director approval
-* Publicly documented changes to the previous version of the document
-* Formally address issues by responding to a reviewer explaining decisions which have been made before or since the review (see the [W3C Process Document](https://w3c.github.io/w3process/#formal-address) for more information)
-* Explain the Formal Objections raised and how these were managed.
+* グループ合意を得て記録する
+* ディレクターの承認を得る
+* 以前のバージョンの文書に対する公開されている変更
+* レビューの前または後に行われた決定を説明するレビュー担当者に返信することで正式に問題に対処する(詳細は[W3Cプロセスドキュメント](https://w3c.github.io/w3process/#formal-address)を参照)
+* 提起された正式な異議申し立てとその管理方法を説明する場合。
 
-It's recommended to include some other information such as details on implementations, changes to requirements or dependencies with other groups. A full list of goals an exclusions is included in the [W3C Process Document](https://w3c.github.io/w3process/#transition-reqs).
+実装の詳細、要件の変更、または他のグループとの依存関係など、その他の情報を含めることをお勧めします。 例外の完全なリストは、[W3Cプロセス文書](https://w3c.github.io/w3process/#transition-reqs)に含まれています。
 
 ### Implementation Experience
-***Adaquate implementation experience*** is required to progress documents to W3C Recommendation. There is no checklist for "adaquate implementation experience", but group participants should strive to gather implementations that are publicly deployed, matching the proposed draft, and implemented by those other than the draft authors. For full guidelines see the [W3C Process Document](https://w3c.github.io/w3process/#implementation-experience).
+### 実装の経験
+ドキュメントをW3C勧告に進めるには、***適切な実装経験***が必要です。 「適切な実装経験」のチェックリストはありませんが、グループ参加者は、公開され、提案されたドラフトと一致し、ドラフト作成者以外の者による実装を収集するよう努めなければなりません。完全なガイドラインについては、[W3C Process Document](https://w3c.github.io/w3process/#implementation-experience)を参照してください。
 
-### Moving Backwards in the Recommendation Track
-Both the [Director](#the-director) and [AC](#advisory-committee-ac) decisions could send the document back to a previous stage on The Recommendations Track. It is possible and common for the Director and AC to suggest changes which sends the document back to the Public Working Draft stage. 
+### 推奨トラックでの後方への移動
+[ディレクター](#the-director)と[AC](#advisory-committee-ac)の決定により、文書を推奨トラックの前のステージに送り返すことができます。ディレクターとACが文書を公開作業ドラフト段階に送り返す変更を提案することは可能であり、一般的です。
 
-### Stopping Progress in the Recommendation Track
-The W3C and / or the [Director](#the-director) can stop the advancement of a draft at any stage; the [AC](#advisory-committee-ac) will be made aware if this happens. For more information on these and detail breakdowns of the recommendation flow please see the [W3C Process Document](https://w3c.github.io/w3process/#maturity-levels).
+### 推奨トラックの進行を停止する
+W3Cまたは[ディレクター](#the-director)は、どの段階でもドラフトの進展を止めることができます。これが起来た場合は[AC](#advisory-committee-ac)に連絡されます。推奨フローの詳細および詳細については、[W3Cプロセスドキュメント](https://w3c.github.io/w3process/#maturity-levels)を参照してください。
 
-## Reviewing Documents and Wide Review
-Documents can be reviewed as soon as they are published. Sending reviews in early is always advised. W3C participants often state that a document should receive "Wide Review"; but this term is not defined by the [W3C Process Document](https://w3c.github.io/w3process/#wide-review). 
+## 文書とワイドレビューのレビュー
+文書は公開されるとすぐに再検討することができます。早期にレビューを送信することが常に推奨されます。 W3Cの参加者は、文書が「ワイドレビュー」を受けるべきであると述べることが多い。この用語は[W3Cプロセス文書](https://w3c.github.io/w3process/#wide-review)で定義されていません。
 
-Generally, all stakeholders of the Web Community should have the ability to review the document. An annoucnement will be made on [public-review-announce@w3.org](mailto:public-review-announce@w3.org) and the responsible Working Group should also make requests to [Horizontal Groups](https://www.w3.org/Guide/Charter.html#horizontal-review) (e.g. TAG and the Privacy Interest Group) to gain their reviews. The group should do everything it can to ensure all group participants, implementers, affected industry players, the Horizontal Groups and the general public have had adaquate time and instruction to review the document. 
+一般に、Webコミュニティのすべてのステークホルダーは、文書をレビューする能力を持っている必要があります。また、[public-review-announce@w3.org]（mailto：public-review-announce@w3.org）に署名し、担当ワーキンググループは[Horizontalグループ](https://www.w3.org/Guide/Charter.html#horizontal-review)(例：TAGやプライバシー・インタレスト・グループ)グループは、参加者、実施者、影響を受ける業界関係者、横断グループおよび一般の人々が文書を検討するのに十分な時間と訓練を受けていることを確認するためにできる限りの努力をすべきである。
 
-When the [Director](#the-director) reviews the document during a [Transition Request](#transition-requests-and-moving-between-track-stages) they will check that the correct level of reviews have been achieved. 
+[Director](#the-director)が[遷移要求](#transition-requests-and-moving-between-track-stages) 中にドキュメントをレビューすると、正しいレベルのレビューが達成されたかどうかがチェックされます。
 
 ### Correction Classes
 The [W3C Process Document](https://w3c.github.io/w3process/#correction-classes) defines some classes of document changes which gives reviewers some aid in deciding whether the document status has to change (for example, a document at the Proposed Recommendation stage may need to go back to Working Draft). 
