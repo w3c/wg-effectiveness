@@ -321,60 +321,71 @@ W3Cプロセス文書では、チャーターの成果物を記述する方法�
 参加者がW3Cおよび/またはグループ作業に与える可能性のある利益相反をどのように開示するかを参加者に指示する、利益相反ポリシーが存在します。詳細は、[W3C Process Document](https://w3c.github.io/w3process/#coi)を参照してください。
 
 ### Participation by Proxy
-Group participants can sometimes send people in their place when unable to attend themselves. This representative can vote on behalf of the original member. Group members should inform the chairs when they are sending a representative. Rules for this are detailed in the [W3C Process Document](https://w3c.github.io/w3process/#member-rep-wg).
+### 代理参加
+グループ参加者は、自分自身が出席できないときに、場合によってはその場に人を送ることができます。この代表者は元のメンバーに代わって投票することができます。グループメンバーは、代理人を派遣しているときに議長に通知する必要があります。このためのルールは、[W3Cプロセス文書](https://w3c.github.io/w3process/#member-rep-wg)に詳述されています。
+
 
 ### Group Size
-Working Groups work best when composed of a small number of experts. Interest Groups can often be larger. To find out more on group size and possible splitting of larger groups please see the [W3C Process Document](https://w3c.github.io/w3process/#group-participation).
+### グループサイズ
+ワーキンググループは少数の専門家で構成されているときに最も効果的です。インタレストグループはしばしば大きくなることがあります。グループサイズの詳細と大きなグループの分割については、[W3Cプロセスドキュメント](https://w3c.github.io/w3process/#group-participation)を参照してください。
 
 ## Meetings
-Meetings can either be face-to-face or "distributed" (via teleconference, IRC and / or video conferencing). Meeting announcements are sent on Interest or Working Group mailing lists.
+## 会議
+ミーティングは、対面式でも、リモート型(電話会議、IRC、ビデオ会議など)でも構いません。会議のアナウンスは、インタレストグループまたはワーキンググループのメーリングリストで送られます。
 
-Typically meetings are only open to group participants. Sometimes a meeting guest will be invited, this guest will not have voting rights. 
+通常、会議はグループ参加者にのみ開かれます。時々は会議にゲストが招待されることがあります。このゲストには議決権がありません。
 
-Face-to-face meetings should be announced eight weeks before the meeting, distributed meetings one week before. 
+対面式会議は、会議の8週間前に発表し、1週間前に会議内容を配布する必要があります。
 
-For more information on meetings please see the [W3C Process Document](https://w3c.github.io/w3process/#GeneralMeetings).
+ミーティングの詳細については、[W3Cプロセスドキュメント](https://w3c.github.io/w3process/#GeneralMeetings)を参照してください。
 
 ## Consensus and Formal Objections
-Consensus is a core value of W3C. The W3C agreed definition for Consensus and Dissent is given below; for more information please see the [W3C Process Document](https://w3c.github.io/w3process/#Consensus).
+## 合意と異議申し立て
+合意はW3Cの中核的価値です。 W3Cで合意されている合意と異議申し立てを以下に示します。詳細は、[W3C Process Document](https://w3c.github.io/w3process/#Consensus)を参照してください。
 
-1. **Consensus:** A substantial number of individuals in the set support the decision and nobody in the set registers a Formal Objection. Individuals in the set may abstain. Abstention is either an explicit expression of no opinion or silence by an individual in the set. Unanimity is the particular case of consensus where all individuals in the set support the decision (i.e., no individual in the set abstains).
-2. **Dissent:** At least one individual in the set registers a Formal Objection.
+1. **合意：** 集合内のかなりの数の人が決定を支持し、登録者の誰も正式な異議申し立てをしないこと。個人は棄権することがあります。棄権は、意見のない明示的な表現か、また個人による沈黙である。全員一致は、集合内のすべての個人が決定を支持する（すなわち、集合内の個人が棄権しない）場合である。
+2. **異議：**集合内の少なくとも1人の個人が正式な異議申し立てを登録します。
 
 ### Group Decision Appeals and Formal Objections
-A set of group members may appeal a group decision. The group should first register their opinion with the chair and team contact, and then rasie a **Group Decision Appeal** which requests the Director to review the decision. For more information please see the [W3C Process Document](https://w3c.github.io/w3process/#WGAppeals).
+### グループ決定の控訴と正式な反対
+グループメンバーの集合は、グループ決定にアピールすることができる。グループはまず、議長とチームの連絡先に意見を登録し、その後、ディレクターに決定を審査するよう求める** Group Decision Appeal ** を提出する必要があります。詳細は、[W3C Process Document](https://w3c.github.io/w3process/#WGAppeals)を参照してください。
 
-Individuals may raise a **Formal Objection** against Interest or Working Group decisions. The Director will review any Formal Objections and the related group decision. Formal Objections should contain technical arguments and proposed changes. Formal Objections will be public. 
+個人は、インタレストまたはワーキンググループの決定に対して**正式異議申し立て**を提起することができます。ディレクターは、正式異議および関連するグループの決定を検討する。正式な異議申し立てには、技術的な議論とそれに対する変更の提案が含まれなければなりません。公式異議申立は公開されるます。
 
-For more information on Formal Objections please see the [W3C Process Document](https://w3c.github.io/w3process/#Consensus).
+正式異議申し立ての詳細については、[W3Cプロセス文書](https://w3c.github.io/w3process/#Consensus)を参照してください。
 
 ## Voting
-Sometimes, no matter how hard a group tries, consensus cannot be reached for a decision. In these cases, voting is sometimes used. Chairs must follow clear steps and record a set of information when voting, for details on this please see the [W3C Process Document](https://w3c.github.io/w3process/#Votes). Here is a simple overview of the process:
+## 投票
+時には、グループがどれほど頑張っても、決断のためにコンセンサスに達することはできません。このような場合、投票が使用されることがあります。議長は明確な手順に従って投票する際に一連の情報を記録する必要があります。詳しくは、[W3Cプロセス文書](https://w3c.github.io/w3process/#Votes)を参照してください。プロセスの簡単な概要を以下に示します。
 
-* Votes generally only happen when consensus cannot be reached
-* Chairs must detail the issue and voting process
-* Only group [participants](#participants) may vote
-* Each organisation only receives one vote (even if they have more members in the group)
-* Invite experts can vote
-* Outcome of the vote should be recorded in the minutes.
+* 投票は一般的にコンセンサスに到達できない場合にのみ起こる
+* 議長は問題と投票プロセスを詳しく述べなければならない
+* グループ[参加者](#participants)のみ投票可能
+* 各組織は、(グループにもっと多くのメンバーを持っていても)1票のみ
+* 招待専門家は投票できます
+* 投票の結果は議事録に記録しなければならない。
 
-Voting may also be used for minority issues; these votes have less stringest rules. For details on this please see the [W3C Process Document](https://w3c.github.io/w3process/#Votes). 
+投票は小さな問題にも使用できます。その場合はより緩い規定が使われます。詳細については、[W3C Process Document](https://w3c.github.io/w3process/#Votes)を参照してください。
+
+
 
 ## Closing a Group
-Groups may close because they have achieved their deliverables, reached their duration and do not wish to extend, or because they cannot achieve their charter goals for some reason (e.g. insufficent resources).
+## グループの閉鎖
+グループは、成果物を達成した場合、持続期間に達し延長したくない場合、または何らかの理由（例えば、不十分なリソース）でチャーター目標を達成できないため、終了することがあります。
 
-The [Director](#the-director) sends a mail to the [AC](#advisory-committee-ac) to confirm a group has closed. 
+[ディレクター](#the-director)は、[AC](#advisory-committee-ac)にメールを送って、グループの閉鎖を確認します。
 
 # W3C Recommendations and Notes
-A W3C Recommendation is a recognised W3C standard (also referred to as a "Technical Report"). W3C Recommendations have been agreed and approved by a W3C Working Group, the [AC](#advisory-committee-ac) and the [Director](#the-director).
+# W3Cにおける勧告とノート
+W3C勧告は、認知されているW3C標準（「技術報告書」とも呼ばれる）です。 W3C勧告は、W3Cワーキンググループ、[AC](#advisory-committee-ac)および[Director](#the-director)によって合意され承認される。
 
-All W3C Recommendations can be found in the [index of W3C technical reports](https://www.w3.org/TR/). 
+すべてのW3C勧告は、[W3C技術レポートの索引](https://www.w3.org/TR/)にあります。
 
-W3C Groups can also publish **W3C Notes** which are not Recommendation Track documents. Examples of W3C Notes include: lists of use cases, guidance, status of abandonded work, etc.  
+W3Cグループは、勧告トラック文書ではない** W3Cノート**を公開することもできます。 W3Cノートの例には、ユースケースのリスト、ガイダンス、放棄された作業のステータスなどが含まれます。
 
-W3C Notes also follow the [The Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track). They are usually declared as notes in **Publication of zero or more revised Public Working Drafts:** stage. 
+W3Cノートは[The Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track)もフォローします。それらは通常、ノートとして。**なんらかの改訂された公共作業ドラフトの出版** という段階です。
 
-For more information please see the [W3C Process Document](https://w3c.github.io/w3process/#Note).
+詳細は、[W3Cプロセスドキュメント](https://w3c.github.io/w3process/#Note)を参照してください。
 
 ## Requirements for W3C Recommenations (Technical Reports)
 W3C Recommenations (Technical Reports) are public documents at every stage of the [Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track). The document will display a set information including:
