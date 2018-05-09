@@ -134,7 +134,7 @@ Use this list to quick link to a section of this document. Or, scroll past it to
 * __Voting__: See [Voting](#voting).
 
 # Leadership and Leadership Groups
-The W3C Leadership and Leadership Groups are responsible for the process, technical direction, group development and major decisions taken within the W3C.
+The W3C leadership and leadership groups are responsible for the process, technical direction, group development and major decisions taken within the W3C.
 
 ## The Director
 The Director is the lead technical architect at W3C. They have a number of responsibilties which are detailed in the [W3C Process Document](https://w3c.github.io/w3process/). Some of these responsibilities are:
