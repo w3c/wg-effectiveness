@@ -537,70 +537,84 @@ W3Cまたは[ディレクター](#the-director)は、どの段階でもドラフ
 
 [Director](#the-director)が[遷移要求](#transition-requests-and-moving-between-track-stages) 中にドキュメントをレビューすると、正しいレベルのレビューが達成されたかどうかがチェックされます。
 
-### Correction Classes
-The [W3C Process Document](https://w3c.github.io/w3process/#correction-classes) defines some classes of document changes which gives reviewers some aid in deciding whether the document status has to change (for example, a document at the Proposed Recommendation stage may need to go back to Working Draft). 
+### 修正クラス
+[W3Cプロセス文書](https://w3c.github.io/w3process/#correction-classes)は、文書の変更を行うためのいくつかのクラスを定義しています。これにより、文書のステータスを変更する必要があるかどうかを判断するのに役立ちます(例えば提案された勧告の段階で作業草案に戻る必要があるかもしれない場合など）。
 
-## Ending a Document
-Working on a document can end at any time. 
+## ドキュメントを終了する
+文書の作業はいつでも終了できます。
 
-## Modifying a W3C Recommendation
+## W3C勧告の変更
 
-![Recommendation Track Diagram](https://github.com/w3c/wg-effectiveness/blob/master/images/rectrackdiagram.png)
+![推奨トラック図](https://github.com/w3c/wg-effectiveness/blob/master/images/rectrackdiagram.png)
 
 ### Revised Recommendation (Edited and Amended Recommendations)
-Errors may be found in a document after it has progressed to W3C Recommendation. In these instances a Working Group will keep a record of the error. The group will also provide details of the error with associated tests linked to the document in some way. The most common way is another published document which links to the W3C Recommendation. The Working Group will then revise the recommendation to correct the error.
+### 改訂された勧告（編集および改訂された勧告）
+ドキュメントがW3C勧告に進んだ後、ドキュメントにエラーが見つかることがあります。これらの場合、ワーキンググループはエラーの記録を保持します。グループはまた、何らかの形で文書にリンクされた関連テストのエラーの詳細を提供します。最も一般的な場合は、W3C勧告にリンクする別の公開文書です。ワーキンググループは、エラーを修正するため推奨事項を修正します。
 
-If a Working Group has already closed, then the W3C can request the change. 
+ワーキンググループが既に閉鎖されている場合、W3Cは変更を要求することができます。
 
-Editorial changes can be progressed without going back to another stage in the [Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track). [Substantive changes](https://w3c.github.io/w3process/#substantive-change) can require the document to go back to [Candidate Recommendation](#candidate-recommendation) or, when a Working Group no longer exists, a "Candidate Amended Recommendation".
+編集者の変更は、[Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track)の別の段階に戻ることなく進めることができます。 [実質的な変更](https://w3c.github.io/w3process/#substantive-change)は、文書が[候補勧告](#candidate-recommendation)に戻るように要求する，あるいはワーキンググループが存在しなくなった場合は「候補推奨勧告」になる。
 
-If the Working Group edited the document the recommendation becomes an "Edited Recommendation". If the W3C requested and completed the changes the document becomes an "Amended Recommendation". 
+ワーキンググループが文書を編集した場合、その勧告は「編集された勧告」となる。 W3Cが変更を要求し完了した場合、その文書は「改訂された勧告」となる。
 
-All [Transition Request](#transition-requests-and-moving-between-track-stages) requirements apply to revised recommendations as they do for any other stage of the [Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track).
+[勧告トラック](#w3c-recommenation-technical-report-flow-the-recommendation-track)の各ステージと同様に、すべての[遷移要求]](#transition-requests-and-moving-between-track-stages)が改訂された推奨事項に適用されます。
 
 ### Rescinded, Obsolete or Superseded Recommendations
-The W3C could decide that a W3C Recommendation is no longer recommended. There are three ways of categorising these Recommendations which have become non-recommended:
+### 撤廃されたまたは陳腐化した、または廃止された勧告
 
-* An "Obsolete Recommendation" if it is either no longer often used on the Web or doesn't represent best practices. These continue to exist as W3C Recommendations but are not recommended for future implementations. They may be restored to a Recommendation.
-* A "Superseded Recommendation" if it's been replaced with a newer specification. These continue to exist as W3C Recommendations but are not recommended for future implementations. They may be restored to a Recommendation.
-* A "Rescinded Recommendation" is a document which W3C no longer endorses, and will never restore to a Recommendation. 
+W3Cは、W3C勧告がもはや推奨されなくなったと判断する可能性があります。推奨されなくなったこれらの勧告を分類する3つの方法があります：
 
-There will be an [AC Review](#ac-reviews) for any request for a W3C Recommendation to become obsolete, superceded or rescinded. [The Director](#the-director) will notify the [AC](#advisory-committee-ac), Working Group Chairs and the public of the request, detailing where to find the Recommendation and the rationale for the request. All stakeholders (including the AC and the public) will have at least 28 days after the Director's announcement to send in their reviews. Please see the [W3C Process Document](https://w3c.github.io/w3process/#rec-rescind) for details on what happens if someone disagrees with moving the document to be obsolete, superceded or rescinded.
+* Webで頻繁に使用されなくなった場合やベストプラクティスを示すものではない場合は、「廃止された推奨事項」。これらはW3C勧告として存在し続けますが、将来の実装には推奨されません。それらは勧告に復元することができる。
+* 新しい仕様に置き換えられている場合は、「Superseded Recommendation」。これらはW3C勧告として存在し続けますが、将来の実装には推奨されません。それらは勧告に復元することができる。
+* 「廃止された勧告」とは、W3Cがもう承認しない文書であり、決して勧告に復元されません。
 
-The document will then be replublished as an Obsolete or Rescinded Recommendation. Future W3C Recommendations will not normatively reference Rescinded Recommendations. 
+W3C勧告が時代遅れになり、代行されたり、取り消されたりするという要求に対して、[ACレビュー](#ac-reviews)が行われます。 [ディレクター](#the-director)）は、[AC]（(#advisory-committee-ac)、WG議長および一般の人々に、勧告を見つける場所と要請の根拠を詳述する。すべてのステークホルダー（ACおよび公衆を含む）は、ディレクターの発表後少なくとも28日以内にレビューを送信する予定です。陳腐化、置き換え、または廃止されるようにドキュメントを移動することに誰かが同意しない場合の処理の詳細については、[W3C Process Document](https://w3c.github.io/w3process/#rec-rescind)を参照してください。
 
-If only a part of a W3C Recommendation needs to be obsoleted, superceded or rescinded then the document must go through the [Revised Recommendation](#revised-recommendation-edited-and-amended-recommendations) process. 
+文書は、陳腐化された勧告または廃止された勧告として再公開されます。将来のW3C勧告は、正式に撤回された勧告を参照しません。
+
+W3C勧告の一部のみを陳腐化、代替、または廃止する必要がある場合、その文書は[改訂勧告](#revised-recommendation-edited-and-amended-recommendations)プロセスを経なければならなりません．
 
 # Member Submissions
-Members can make document submissions to the W3C. These documents usually detail a technology or other ideas applicable to the Web. These documents have been developed outside the W3C, so they have not gone through the W3C [Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track) and are not [W3C Recommendations](#w3c-recommendation). They can become a basis of future work, but there is no guarentee of this.
+# メンバーの文書提出
+メンバーはW3Cへの文書提出を行うことができます。これらの文書は、通常、ウェブに適用可能な技術または他のアイデアを詳述しています。これらの文書はW3Cの外部で開発されているため、W3C [Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommended-track)を通過しておらず、[W3C勧告](#w3c-recommendation)ではありません。それらは将来の仕事の基礎になることができますが、これについての保証はありません。
 
-Member Submissions are a good way to build support for new work proposals for an upcoming Working Group; if a Working Group already exists it is preferable that technology is contributed through the Working Group as normal and follows the [Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track) rather than as a Member Submission.
+会員提出は、今後開催される作業部会のための新しい作業提案書の作成を支援する良い方法です。ワーキンググループが既に存在する場合、技術はワーキンググループを通して通常どおり貢献され、メンバー提出ではなく[勧告フロー](#w3c-recommenation-technical-report-flow-the-recommendation-track)に従うことが望ましい。
 
-Only one member makes a Member Submission, even if more than one member worked on the original documents. Strict processes are involved in making a Member Submission, please see the W3C Process Document on [Information Required in a Submission Request](https://w3c.github.io/w3process/#SubmissionReqs) and [Submitter Rights](https://w3c.github.io/w3process/#SubmissionRights). 
+複数のメンバーが文書を作成処理していたとしても、1人のメンバーのみがメンバー提出を行います。厳格なプロセスがメンバー提出に関与している場合は、[依頼要求に必要な情報](https://w3c.github.io/w3process/#SubmissionReqs)および[投稿者の権利](https： /w3c.github.io/w3process/#SubmissionRights)にあるW3Cのプロセス文書を参照して下さい。
 
-Member Submissions are to follow the [Publication Rules](https://www.w3.org/pubrules/) and are sent to the [W3C Team](#the-w3c-team). [The Director](#the-director) will announce the Member Submission request to the [AC](#advisory-committee-ac) then approve or reject the submissions. A rejected Member Submission can be appealed to the [TAG](#technical-architecture-group-tag) or [Advisory Board](#advisory-board-ab). Information on the appeal process can be found in the [W3C Process Document](https://w3c.github.io/w3process/#SubmissionNo).
+メンバーの投稿は[公開ルール](https://www.w3.org/pubrules/)に従い、[W3Cチーム](#the-w3c-team)に送られます。 [ディレクター](#director)は[AC](#advisory-committee-ac)にMember Submission Requestを発表し、提出を承認または却下します。却下されたメンバー提出物は、[TAG](#technical-architecture-group-tag)または[Advisory Board](#advisory-board-ab)にアピールすることができます。アピールプロセスに関する情報は、[W3Cプロセス文書](https://w3c.github.io/w3process/#SubmissionNo)に記載されています。
 
-The Team can then publish the Member Submission along with any supportive documents and comments; this will then be available to all W3C members and the public. 
+チームは、提出書類を関連書類やコメントとともに、メンバー提出物として発行することができます。これはすべてのW3Cメンバーと一般に公開されます。
 
-Further information can be found in the [W3C Process Document](https://w3c.github.io/w3process/#Submission). 
+詳細は、[W3Cプロセス書類](https://w3c.github.io/w3process/#Submission)を参照してください。
 
 # Communication
-The W3C Team will publish information on W3C Technical Reports, the Mission Statement, Legal Documents (such a Membership Agreements), The Process Document and results of W3C Activites and Workshops. Other W3C related news is distributed regularly. The team also maintains the [calendar](https://www.w3.org/participate/eventscal).
+＃ コミュニケーション
+W3Cチームは、W3Cテクニカルレポート、ミッションステートメント、法的文書（メンバーシップ契約など）、プロセス文書、W3Cアクティビティおよびワークショップの結果に関する情報を公開します。他のW3C関連のニュースは定期的に配布されています。チームは[カレンダー](https://www.w3.org/participate/eventscal)も管理しています。
 
-For more information on communication and confidentiality levels please see the [W3C Process Document](https://w3c.github.io/w3process/#chapterDissemination). The W3C Process Document refers to "Communication" as "Dissemination Policies".
+通信レベルと機密レベルについては、[W3Cプロセスドキュメント](https://w3c.github.io/w3process/#chapterDissemination)を参照してください。 W3Cのプロセス文書では、「コミュニケーション」を「普及方針」と呼んでいます。
 
-## Confidentiality Levels
-There are three confidenetiality levels at W3C:
+##機密性レベル
+W3Cには3つの秘密情報レベルがあります。
 
-* **Public:** information is open to the general public 
-* **Member-only:** information is accessible to [W3C Members](#members), [Invited Experts](#participants), [AB](#advisory-board-ab), [TAG](#technical-architecture-group-tag) and the [W3C Team](#the-w3c-team) only
-* **Team-only:** information is accessible to the W3C staff only.
+* **公開：**情報は一般に公開されています
+* **メンバーのみ：**情報は[W3Cメンバー](#members)、[招待エキスパート](#participants)、[AB](#advisory-board-ab)、[TAG](#technical-architecture-group-tag)と[W3Cチーム](#the-w3c-team)のみ
+* **チーム専用：**情報はW3Cスタッフのみがアクセスできます。
 
-Generally all information related to specification development should be publicly available. 
+一般に、仕様開発に関するすべての情報は公に利用可能でなければならない。
 
-For more information on confidentiality levels, the rules on sharing confidential data and changing confidentiality level please see the [W3C Process Document](https://w3c.github.io/w3process/#confidentiality-levels).
+機密レベルの詳細、機密データの共有および機密レベルの変更に関するルールについては、[W3Cプロセス文書](https://w3c.github.io/w3process/#confidentiality-levels)を参照してください。
 
 # Workshops and Symposia
+# ワークショップとシンポジウム
+ワークショップは、W3Cによって、新しいW3C活動への関与の促進、テクノロジーやポリシーに関するアイデアの交換、Webへの新しいテクノロジーの適用性(またはその逆)、 W3Cメンバーが興味をもつようなものの発見を促します．。
+
+シンポジウムは、特定の科目について参加者を教育することを目的としています。
+
+ワークショップとシンポジウムは、W3Cメンバーに限定することも、一般に公開することもできます。多くの場合、これらのイベントによってW3C内に新しいグループや作業項目が作成されますが、これは保証されません。
+
+ワークショップとシンポジウムにはいくつかの参加規則と組織規則があります。詳細は[W3Cプロセス文書](https://w3c.github.io/w3process/#GAEvents)をご覧ください。
+
 Workshops are organised by W3C for a number of reasons, including: promoting involvement for new W3C activities, gathering experts to exchange ideas on technology or policy, discovering the applicability of a new technology to the Web (or vice versa) or to address concerns of W3C members.
 
 A Symposium aims to educate participants on a particular subject. 
@@ -610,6 +624,7 @@ Workshops and Symposium can be limited to W3C Members or open to the public. Oft
 Workshops and Symposium has some participation and organisation rules, please see the [W3C Process Document](https://w3c.github.io/w3process/#GAEvents) for details of these. 
 
 # Liaisons
-W3C sometimes coordinates acitivies with another organisation or informs other organisations of W3C work relevant to their work or operations. Liaisons are managed by the [W3C Team](#the-w3c-team).
+# リエゾン
+W3Cは、別の組織との活動を調整したり、W3Cの仕事や業務に関連する他の組織に知らせる場合があります。連絡先は[W3Cチーム](#the-w3c-team)によって管理されます。
 
-[The Director](#the-director) can negotiate a Memorandum of Understanding (MoU) with another organisation. This may be for many reasons including the W3C working with another organisation on a joint piece of work. The [AC](#advisory-committee-ac) will be informed of an MoU before signing. For further details on MoU process please see the [W3C Process Document](https://w3c.github.io/w3process/#Liaisons).
+[ディレクター](#the-director)は、別の組織と覚書(MoU)の交渉をすることができます。これは、W3Cが共同作業で別の組織と協力することを含む多くの理由が考えられます。 [AC](#advisory-committee-ac) は、署名する前にMoUについて通知を受けとります。 MoUプロセスの詳細については、[W3Cプロセスドキュメント](https://w3c.github.io/w3process/#Liaisons)を参照してください。
