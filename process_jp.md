@@ -96,7 +96,7 @@ W3Cの主要な言語は、仕様テキスト用の英語(米国英語)です。
 * __古くなった勧告__:  [Rescinded, Obsolete or Superseded Recommendations](#rescinded-obsolete-or-superseded-recommendations)参照
 * __参加者__:  [Participants](#participants)参照
 * __プロセスドキュメント__:  [The Process Document](#the-process-document)参照
-* __提案された韓国__:  [Proposed Recommendation](#proposed-recommendation)参照
+* __提案された勧告__:  [Proposed Recommendation](#proposed-recommendation)参照
 * __公的な参加者__:  [Participants](#participants)参照
 * __勧告　Rec__:  [W3C Recommendation](#w3c-recommendation)参照
 * __勧告__:  [W3C Recommendation](#w3c-recommendation)参照
