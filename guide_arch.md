@@ -15,26 +15,44 @@ Information which people commonly look for on w3.org.
 * /TR
 
 ## Informations for Chairs
-* Meetings
-  * Setting up Teleconferences
-  * Quick start guide for setting up tools for managing an agenda, generating minutes, and updating issues lists
-  * Host a face-to-face meeting 
+### Meetings
+* Setting up Teleconferences
+* Quick start guide for setting up tools for managing an agenda, generating minutes, and updating issues lists
+* Host a face-to-face meeting 
 * Using IRC & Scribing (dup)
-* W3C Wiki (including Posting Markup examples in W3C wikis)
 
-## Informations for Editors
+### Tools For Running a WG / IG
+* Mailing List
+  * list management and best practices
+* W3C Wiki (including Posting Markup examples in W3C wikis)
+* Blog
+* group website
+
+### Starting a Group
+* Recommendation Track Readiness Best Practices
+* Create a Charter;
+
+## Informations for Editors (and Spec Proponents?!)
 * Using Github (dup)
-* Creating a draft
-  * respec and other tools
-  
-* Horizontal reviews
+* Mailing List List (dup)
+
+### Doc Creation and Tools
 * Style for Group-internal Drafts 
 * Pubrules (publication requirements) and links to related policies (e.g., namespaces, MIME type registration, version management, and in-place modifications)
   * Publications can only happen on Tuesdays and Thursdays (Member-only archive of announcement), unless you use the automated publication system (change name, and add stuff)
 * Normative References; considerations the Director takes into account when evaluating normative references
-* Mailing List List (dup)
+
+### Reviewing
+* Horizontal reviews
+
+### Incubation
+* CGs
+* BGs
+* WCIG
+* Within a WG
 
 ## Informations for Members and Participants
+* Join a group (see also Invited Expert Policy)
 * Attending Teleconferences
 * Using Github (dup)
 * Using IRC & Scribing (dup)
@@ -46,6 +64,7 @@ Information which people commonly look for on w3.org.
 
 ## Other / General Information (Secondary Nav)
 * [General W3C Info](#General-W3C-Info)
+* [Public Engagement](#Public-Engagement)
 * [Github](#github)
 * [Events](#events)
 * [Legal](#legal)
@@ -125,6 +144,10 @@ See [https://w3c.github.io/](https://w3c.github.io/) for drafts of this info.
 
 ## Public Engagement
 * Comms Team, Emails, Social Media
+* Blogs, articles, Press interviews, Upcoming Talks form (W3C Group participants, members of the W3C Team, and Office Staff); talks publicized on W3C home page, Public Weekly Newsletter, W3C Social Media.
+* Press release testimonial guidelines
+* Creating and delivering effective presentations
+* How to Make Presentations Accessible to All
 
 # Not Yet Sorted
 * Email Client Configuration
