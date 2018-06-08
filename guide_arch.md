@@ -3,41 +3,99 @@ The [W3C Guide ](https://www.w3.org/Guide/) is going to be updated and expanded 
 
 This document details a suggested structure for the new Guide Site. Headings are new sections, and bullets below are their subpages.
 
-# Hot Links
-Information which people commonly look for on w3.org
+# Home
+## Hot Links
+Information which people commonly look for on w3.org.
 
-* Using IRC
-* Using Teleconference
-* Understanding Business, Community and Working Groups
-* ~~Moderating (Facilitating) Meetings~~
-* ~~Speaking Guidelines~~
-* Quick start guide for setting up tools for managing an agenda, generating minutes, and updating issues lists (do people use this?)
-* ~~Scheduling teleconferences~~
-* Holidays wiki to help planning WG work around recurring holidays
-* How to Scribe
-* IRC Botes: Zakim, RRSAgent, Trackbot 
-* ~~Horizontal reviews~~
-* ~~Send face-to-face meeting information to calreq@w3.org; that information appears on the events calendar~~
-* Host a face-to-face meeting 
-* Non-Disclosure Agreements
-* Issue tracking:
-* People management
-* ~~HumanDimension (a Chair training module)~~
-* Code of Ethics 
-* Antitrust and Competition Guidance
-* IPR Policies
+* Using IRC & Scribing
+* TPAC / AC
+* Meeting Calendar & Teleconf Details
+* Using Github (link to main [Github](#github) section)
+* Process Doc
+* /TR
+
+## Informations for Chairs
+* Meetings
+  * Setting up Teleconferences
+  * Quick start guide for setting up tools for managing an agenda, generating minutes, and updating issues lists
+  * Host a face-to-face meeting 
+* Using IRC & Scribing (dup)
+* W3C Wiki (including Posting Markup examples in W3C wikis)
+
+## Informations for Editors
+* Using Github (dup)
+* Creating a draft
+  * respec and other tools
+  
+* Horizontal reviews
 * Style for Group-internal Drafts 
 * Pubrules (publication requirements) and links to related policies (e.g., namespaces, MIME type registration, version management, and in-place modifications)
+  * Publications can only happen on Tuesdays and Thursdays (Member-only archive of announcement), unless you use the automated publication system (change name, and add stuff)
 * Normative References; considerations the Director takes into account when evaluating normative references
-* Publications can only happen on Tuesdays and Thursdays (Member-only archive of announcement), unless you use the automated publication system (change name, and add stuff)
-* ~~W3C Documents and license related to API definitions, code samples, or examples~~
-* W3C presentation tools (ppts etc.)
-* ~~Mailing list archive of tools announcements (Member-only)~~
-* ~~Predefined ACLs~~
-* ~~SmartList Remote Maintainers Guide~~
-* ~~Spam filtering options~~
+* Mailing List List (dup)
 
-Mailing Lists Search service
+## Informations for Members and Participants
+* Attending Teleconferences
+* Using Github (dup)
+* Using IRC & Scribing (dup)
+ * IRC Botes: Zakim, RRSAgent, Trackbot 
+* Mailing List List
+* Using W3C Wiki (dup)
+
+## Staff Portal
+
+## Other / General Information (Secondary Nav)
+* [General W3C Info](#General-W3C-Info)
+* [Github](#github)
+* [Events](#events)
+* [Legal](#legal)
+
+# Sections
+## General W3C Info
+* Understanding Business, Community and Working Groups
+
+## Github
+See [https://w3c.github.io/](https://w3c.github.io/) for drafts of this info.
+
+* Intro: who uses github, brief explanation of why, other options.
+* WG / IG on github
+  * readme
+  * collaborators / pull requests / forks, (mention Contributor Management (IPR))
+  * Github and W3C mailing list
+* Issue Management
+  * Understanding Issue Management
+  * Labels
+  * Milestones(?!)
+* Repo List
+* Documents / Standards on Github
+  * Using GitHub for Spec Work
+  * Workflow for editors and other contributors
+  * creating a first draft (your own account)
+  * creating a repo in the WG / IG account (done by a team member) (include The w3c.json file)
+  * Automatic Publication from GitHub (Team?)
+* Policy
+  * How do we manage IPR with specs authored on GitHub?, Contributor Management (IPR)
+  * How do we ensure archiving of work done on GitHub?
+  * When should we use Git/GitHub as opposed to w3.org-hosted CVS or Mercurial?
+  * What shall I do about trolls and spam on GitHub?
+* Github help
+* Other interesting stuff
+  * Keeping Track with Midgard
+  
+
+## Events
+* Speaking at W3C Events
+  * W3C presentation tools (ppts etc.)
+* Holidays wiki to help planning WG work around recurring holidays
+
+## Legal
+* Non-Disclosure Agreements
+* Antitrust and Competition Guidance
+* IPR Policies
+
+## Code of Conduct(?!)
+* People Management
+* Code of Ethics 
 
 ## Sticky Links
 * Understanding the Process Document
@@ -68,12 +126,9 @@ Mailing Lists Search service
 ## Public Engagement
 * Comms Team, Emails, Social Media
 
-## Tools
-* Github
-  * w3c.github.io
+# Not Yet Sorted
 * Email Client Configuration
 * Email Client Configuration for mailing-list filtering
-* W3C Wiki Notes (including Posting Markup examples in W3C wikis)
 * Backup Service
 * Local W3C Mirror
 * Wiki Access Control
