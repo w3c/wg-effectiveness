@@ -3,7 +3,6 @@ The [W3C Guide ](https://www.w3.org/Guide/) is going to be updated and expanded 
 
 This document details a suggested structure for the new Guide Site. Headings are new sections, and bullets below are their subpages.
 
-# Home
 ## Hot Links
 Information which people commonly look for on w3.org.
 
