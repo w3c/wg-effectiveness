@@ -8,7 +8,7 @@ The Working Group Effectiveness Task Force is a W3C AB organised task force whic
 The Task Force was set up after the assessment of some working groups which, although producing well used technologies, were not able to complete their chartered specifications on time. In response, the [Common Standards Issues](CSI.md) document was created, which aimed to help working groups identify issues affecting their progress, and help them solve these. The creation of the [Common Standards Issues](CSI.md) document lead to the creation of this Task Force. 
 
 ## Task Force Members
-[dontcallmedom](https://github.com/dontcallmedom), [torgo](https://github.com/torgo), [astearns](https://github.com/astearns), [plehegar](https://github.com/plehegar) (**team contact**), [nrooney](https://github.com/nrooney) (**chair**), [jeffjaffe](https://github.com/jeffjaffe), [marcoscaceres](https://github.com/marcoscaceres), Paul Cotton, [Wendy Seltzer](https://github.com/wseltzer), [Leonie Watson](https://github.com/LJWatson), [Tzviya Siegman]((https://github.com/TzviyaSiegman)).
+[dontcallmedom](https://github.com/dontcallmedom), [torgo](https://github.com/torgo), [astearns](https://github.com/astearns), [plehegar](https://github.com/plehegar) (**team contact**), [nrooney](https://github.com/nrooney) (**chair**), [jeffjaffe](https://github.com/jeffjaffe), [marcoscaceres](https://github.com/marcoscaceres), Paul Cotton, [Wendy Seltzer](https://github.com/wseltzer), [Leonie Watson](https://github.com/LJWatson), [Tzviya Siegman](https://github.com/TzviyaSiegman).
 
 ## Outcomes
 The group has agreed to work on the current outcomes. We have a number of outcomes, so a Phase 1 and a Phase 2 has been agreed.
