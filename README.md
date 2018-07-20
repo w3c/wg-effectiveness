@@ -1,4 +1,4 @@
-_New to this repo? Feel free to comment on and add [issues](https://github.com/w3c/wg-effectiveness/issues). Want to **join the group?** Email <nrooney@gsma.com>. Any W3C Group Chairs, Particpants, Invited Experts and Members are welcome to join!_
+_New to this repo? Feel free to comment on and add [issues](https://github.com/w3c/wg-effectiveness/issues). Want to **join the group?** Email <nrooney@gsma.com>. Any W3C Group Chairs, Participants, Invited Experts and Members are welcome to join!_
 
 # Working Group Effectiveness Task Force
 Monthly call time 2pm UTC second Friday of the month. Natasha Rooney chairs.
