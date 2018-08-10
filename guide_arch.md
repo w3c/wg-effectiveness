@@ -52,7 +52,11 @@ Information which people commonly look for on w3.org.
   * Publications can only happen on Tuesdays and Thursdays (Member-only archive of announcement), unless you use the automated publication system (change name, and add stuff)
 * Normative References; considerations the Director takes into account when evaluating normative references
 
-### Reviewing
+### Rec Track (dup)
+* Recommendation Track Readiness Best Practices
+* RecTrack stages and how to advance to the next stage
+
+### Reviewing (should be in chair section?)
 * Horizontal reviews
 
 ### Incubation
