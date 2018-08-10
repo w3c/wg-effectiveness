@@ -59,7 +59,7 @@ Information which people commonly look for on w3.org.
 ### Reviewing (should be in chair section?)
 * Horizontal reviews
 
-### Incubation
+### Incubation (should be in chair section?)
 * CGs
 * BGs
 * WCIG
