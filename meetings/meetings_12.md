@@ -6,6 +6,9 @@ IRC: #WGE
 * Agenda
 * Aim: Guide Updates, Bullying Issue, TPAC
 
+## Bullying
+We've been having a discussion on the issues list re [bullying](https://github.com/w3c/wg-effectiveness/issues/68). Let's open the discussion to see what can be done to help.
+
 ## Outcomes and Updates
 See [README.md](https://github.com/w3c/wg-effectiveness/) 
 
@@ -24,12 +27,10 @@ Guide is being structured over in [/Guide on Github](https://github.com/w3c/Guid
 Have we had further thoughts on consistency of Working Group homepages?
 
 ### [Testing] Testing
-Testing issue has been added to [W3C Process Github Repo](https://github.com/w3c/w3process/issues/157). I'll raise when we begin discussing plans for process 2019.
-
-I haven't heard anything back from Marcos re videos since January. I'll give him a nudge!
+We will detail some items on testing in Guide/Github (do we know who would be best to write this?!). Testing issue has been added to [W3C Process Github Repo](https://github.com/w3c/w3process/issues/157). 
 
 ### [CSI] Common Standards Issues Document and Triage Process
-Need to continue work on [Common Standards Issues](https://github.com/w3c/wg-effectiveness/blob/master/CSI.md) Document. This will be presented to the AC at AC2018. Any thoughts on this from the group?
+Final touches, then can present at TPAC.
 
 ### [Ombudsman] Ombudsman for Working Group Effectiveness with Guidelines for Escalation
 Do we want to write a process for this?
