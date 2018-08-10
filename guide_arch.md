@@ -27,9 +27,20 @@ Information which people commonly look for on w3.org.
 * Blog
 * group website
 
+### Guidelines and Advice for Running a Group
+* Advice (@todo: need to break this down)
+* CSI
+* Getting help from the Team
+
 ### Starting a Group
+* Is starting a group the right course of action?
+  * WICG
+  * CG
+* Create a Charter
+
+### Rec Track
 * Recommendation Track Readiness Best Practices
-* Create a Charter;
+* RecTrack stages and how to advance to the next stage
 
 ## Informations for Editors (and Spec Proponents?!)
 * Using Github (dup)
