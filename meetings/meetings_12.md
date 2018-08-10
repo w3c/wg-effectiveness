@@ -12,6 +12,8 @@ We've been having a discussion on the issues list re [bullying](https://github.c
 ## WG Flow
 Disccused in [Issue 67](https://github.com/w3c/wg-effectiveness/issues/67). Are we doing enought to help this with our current plans? Can we do more?
 
+Rachel made a good suggestion in [Issue 50](https://github.com/w3c/wg-effectiveness/issues/50).
+
 ## Outcomes and Updates
 See [README.md](https://github.com/w3c/wg-effectiveness/) 
 
