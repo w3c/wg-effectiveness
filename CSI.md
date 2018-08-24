@@ -130,7 +130,9 @@ Below is a list of issues which result from the symptoms outlined above. It incl
 
 A working group can be successful without the below, but ensuring these are in place will give a working group the best chance to succeed:
 
-### Expert Mix
+### Expert Mix: within the group or external advisory to the group
+
+Below is a list of expertise which should be within the group or have links to external-to-the-group individuals who can provide guidance on particular areas. Sometimes this guidance can come from Horizontal Reviews, sometimes it's best to request this guidance from other Working or Interest Groups before progressing past a Working Group Draft.
 
 A working group should have expertise in implementation and testing from throughout the deployment chain:
 
@@ -144,6 +146,8 @@ Working groups will be less likely to be unpleasantly surprised by horizontal re
 
 **Accessibility**
 
+This is an important consideration for any specification. Accessibility groups within W3C can provide guidance here. 
+
 **Internationalisation**
 
 These will be an important consideration for any specification dealing with user-facing components - interfaces or information ultimately presented to users.
@@ -153,6 +157,8 @@ These will be an important consideration for any specification dealing with user
 This is an important consideration for any specification. Inventing a new architecture imposes a significant barrier to developers learning to use the technology, and choices between existing architectural patterns can have significant consequences including for the other aspects mentioned here
 
 **Privacy**
+
+This should be reviewed for any specification, especially those which give the device or browser some ability to see data or know something about the user. Individuals who work within the [W3c Privacy Activity](https://www.w3.org/Privacy/) can help here.
 
 **Security**
 
