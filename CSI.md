@@ -24,6 +24,10 @@ Below is a list of common symptoms of issues experienced by working groups. It i
 
 * **Description:** In general specification and implementation operate in parallel at W3C. Sometimes implementations push further forward than the specification which may cause a specification to be lead by one implementation, or incite symptoms **[Overly Assertive Implementers](#overly-assertive-implementers)** and **[Overly Assertive Experts](#overly-assertive-experts)**. Leads to **[Never-Ending Discussion](#never-ending-discussion)**, **[Failed Spec](#failed-spec)**.
 
+### Overloaded Scope
+
+* **Description:** Functionality is continually added to the scope of the specification, often as more and more WG members bring further requirements or requests. Leads to **[Scope Creep / Super-Spec](#scope-creep--super-spec)**, **[Incomplete Spec](#incomplete-spec)**.
+
 ### Tight Deadline
 
 * **Description:** The deadline set by the charter or by the editors and chairs is too restrictive. The time allowed does not allow for the standardisation process to complete, it does not allow for all of the experts to comment, or possibly even allow for the editor to complete the draft. This leads to **[Incomplete Spec](#incomplete-spec)**. Can be addressed with **[SMART](#smart)**, **[Diplomatic Leadership](#strong-leadership)**.
