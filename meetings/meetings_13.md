@@ -16,6 +16,11 @@ Rachel made a good suggestion in [Issue 50](https://github.com/w3c/wg-effectiven
 
 Jeff raised the "Continuous Incubation" topic, and I created a doc with his thoughts, should we expand this? <https://github.com/w3c/wg-effectiveness/blob/master/continuous_incubation.md>
 
+## Accommodating non-github group members
+Disccused in [Issue 73](https://github.com/w3c/wg-effectiveness/issues/73). Is github a barrier to some people? 
+
+[Issue 72](https://github.com/w3c/wg-effectiveness/issues/72) is also relevant here.
+
 ## Outcomes and Updates
 See [README.md](https://github.com/w3c/wg-effectiveness/) 
 
