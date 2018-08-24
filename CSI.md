@@ -10,7 +10,7 @@ If you are visiting this page you may be experiencing some issues with progressi
 
 ## Common Symptoms
 
-Below is a list of common symptoms of issues experienced by working groups. It includes working group member imbalance, lack of experts, perfectionism and lack of drive. The results are explained in **[Common Results](#common-results)**.
+Below is a list of common symptoms of issues experienced by working groups. It includes working group member imbalance, lack of experts, perfectionism and lack of drive. Those items which could be a [W3C Process](https://www.w3.org/2018/Process-20180201/) violation are marked. The results are explained in **[Common Results](#common-results)**.
 
 ### Huge Impact
 
@@ -22,7 +22,7 @@ Below is a list of common symptoms of issues experienced by working groups. It i
 
 ### Spec/Implementation Race Condition
 
-* **Description:** In general specification and implementation operate in parallel at W3C. Sometimes implementations push further forward than the specification which may cause a specification to be lead by one implementation, or incite symptoms **[Overly Assertive Implementers](#overly-assertive-implementers)** and **[Overly Assertive Experts](#overly-assertive-experts)**. Leads to **[Never-Ending Discussion](#never-ending-discussion)**, **[Failed Spec](#failed-spec)**.
+* **Description:** In general specification and implementation operate in parallel at W3C. Sometimes implementations push further forward than the specification which may cause a specification to be lead by one implementation, or incite symptoms **[Overly Assertive Implementers](#overly-assertive-implementers)** and **[Overly Assertive Experts](#overly-assertive-experts)**. Leads to **[Never-Ending Discussion](#never-ending-discussion)**, **[Failed Spec](#failed-spec)**. The [W3C Process](https://www.w3.org/2018/Process-20180201/) details information on implementaion experience needed to progress a specification.
 
 ### Overloaded Scope
 
@@ -42,15 +42,15 @@ Below is a list of common symptoms of issues experienced by working groups. It i
 
 ### One Implementation Only
 
-* **Description:** Only one implementation of the draft exists. This can results in **[Incomplete Spec](#incomplete-spec)** as other implementation issues have not yet arisen and could also lead to **[Failed Spec](#failed-spec)** as when further implementations do arise the issues they experience may require the spec to be completely re-evaluated.  
+* **Description:** Only one implementation of the draft exists. This can results in **[Incomplete Spec](#incomplete-spec)** as other implementation issues have not yet arisen and could also lead to **[Failed Spec](#failed-spec)** as when further implementations do arise the issues they experience may require the spec to be completely re-evaluated. The [W3C Process](https://www.w3.org/2018/Process-20180201/) gives details on implementaion experience needed to progress a specification.
 
 ### No Implementation
 
-* **Description:** No implementation of the draft exists. Not only does this result in **[Incomplete Spec](#incomplete-spec)** but also results in **[Failed Spec](#failed-spec)** as when implementations do arise they’re not tested in real world scenarios and end up being phased out or not completed.  
+* **Description:** No implementation of the draft exists. Not only does this result in **[Incomplete Spec](#incomplete-spec)** but also results in **[Failed Spec](#failed-spec)** as when implementations do arise they’re not tested in real world scenarios and end up being phased out or not completed. The [W3C Process](https://www.w3.org/2018/Process-20180201/) gives details on implementaion experience needed to progress a specification.
 
 ### Overly Assertive Implementers and Overly Assertive Experts
 
-* **Description:** In working groups across standards organisations there are sometimes individuals who assert themselves over others. In this case either the Implementers or the Experts (or both, or individuals who are both implementers and experts) assert themselves firmly over others in the working group. This is not to say that their opinion is incorrect; but that the method of assertion may be too strong. Leads to **[Scope Creep / Super-Spec](#scope-creep--super-spec)**, **[Incomplete Spec](#incomplete-spec)**, **[Never-Ending Discussion](#never-ending-discussion)**.
+* **Description:** In working groups across standards organisations there are sometimes individuals who assert themselves over others. In this case either the Implementers or the Experts (or both, or individuals who are both implementers and experts) assert themselves firmly over others in the working group. This is not to say that their opinion is incorrect; but that the method of assertion may be too strong. Leads to **[Scope Creep / Super-Spec](#scope-creep--super-spec)**, **[Incomplete Spec](#incomplete-spec)**, **[Never-Ending Discussion](#never-ending-discussion)**. This situation may also produce a [Code of Ethics and Professional Conduct](https://www.w3.org/Consortium/cepc/) violation.  
 
 ### Author Lack
 
@@ -58,7 +58,7 @@ Below is a list of common symptoms of issues experienced by working groups. It i
 
 ### Expert Lack (including Implementer Lack)
 
-* **Description:** The Working Group suffers with a lack of understanding in one or more particular areas related to the technology being standardised, building the specification, the standards process, developer expectation or implementer expectation. Can incite other symptoms such as **[Clashing Implementation](#clashing-implementation)** or **[Overly Assertive Implementers](#overly-assertive-implementers)**. Leads to **[Failed Spec](#failed-spec)**.
+* **Description:** The Working Group suffers with a lack of understanding in one or more particular areas related to the technology being standardised, building the specification, the standards process, developer expectation or implementer expectation. Can incite other symptoms such as **[Clashing Implementation](#clashing-implementation)** or **[Overly Assertive Implementers](#overly-assertive-implementers)**. Leads to **[Failed Spec](#failed-spec)**. The [W3C Process](https://www.w3.org/2018/Process-20180201/) informs on wide review, and it's need in progressing a specification.
 
 ### Drive Lack
 
@@ -91,7 +91,7 @@ Below is a list of common symptoms of issues experienced by working groups. It i
 
 ### Lack of Consensus
 
-* **Description:** The group cannot come to a consensus on a topic. Can lead to **[Never-Ending Discussion](#never-ending-discussion)** and **[Incomplete Spec](#incomplete-spec)**.
+* **Description:** The group cannot come to a consensus on a topic. Can lead to **[Never-Ending Discussion](#never-ending-discussion)** and **[Incomplete Spec](#incomplete-spec)**. The [W3C Process](https://www.w3.org/2018/Process-20180201/) gives information on consensus and steps which can be taken when consensus isn't reached.
 
 ### Lack of Extensibility
 
