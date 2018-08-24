@@ -39,7 +39,7 @@ We will detail some items on testing in Guide/Github (do we know who would be be
 ### [CSI] Common Standards Issues Document and Triage Process
 Open issues to discuss:
 
-- [11](https://github.com/w3c/wg-effectiveness/issues/11)
+- [11: Next level of guidance for "Common Standards Issues"](https://github.com/w3c/wg-effectiveness/issues/11)
 
 ### [Ombudsman] Ombudsman for Working Group Effectiveness with Guidelines for Escalation
 Do we want to write a process for this?
