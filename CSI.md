@@ -206,3 +206,7 @@ Scope Creep can occur when specification editors and working groups wish for spe
 ### Extensibility
 
 Extensible specifications can be successful in their own right as well as inciting other successful specs which are built on top of them. Having the right [Expert Mix](#expert-mix) (especially implementers and editors of any original extensible specification) will aid the development of an extensible specification within your working group, but predicting the need for extensibility and designing the right extension points is generally very difficult. If you feel like your group does not gave the right [Expert Mix](#expert-mix) to build an extensible specification, please ask your team contact to help connect you to the right individuals.
+
+### Modularisation
+
+@todo
