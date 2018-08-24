@@ -2,6 +2,8 @@
 
 This page details some common issues working groups may experience when working on standards. The document lists "symptoms" of issues, a "result" of these symptoms (which are the core issues experienced), and ways to solve these by defining a list of qualities for a "Successful Working Group".
 
+"WG" is used within this document to represent the term "Working Group".
+
 ## For Readers (Chairs, Editors, Implementers and WG Members)
 
 If you are visiting this page you may be experiencing some issues with progressing or completing the standards defined in your group's charter or you're being extra prudent to make sure issues do not happen within your currently well-working working group! In any case, to use this document go to the [Common Symptoms](#common-symptoms) section and see what symptoms you or others have experienced a working group. The [Common Symptoms](#common-symptoms) have related [Common Results](#common-results) which can be serious issues which affect the performance of a working group. Some advice on how to solve or avoid these symptoms and issues is given in the [Defining a Successful Working Group](#defining-a-successful-working-group) section.
