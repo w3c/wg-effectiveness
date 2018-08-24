@@ -209,4 +209,4 @@ Extensible specifications can be successful in their own right as well as inciti
 
 ### Modularisation
 
-@todo
+Breaking down specifications into smaller parts which, together, can be used to build solutions which adapt to the required needs. Specifications which may result in [Scope Creep / Super-Spec](#scope-creep--super-spec) can greatly benefit here; as breaking down the specification into smaller specifications makes the development of the complete set of specifications much easier to complete in a shorter timeframe. Some groups also incubate each of the sections / smaller specifications; this way the group or specification proponents have guidance from the outset. 
