@@ -34,9 +34,9 @@ Describing a system on [Buddy System](https://github.com/w3c/wg-effectiveness/bl
 Reminder that our [chair email templates](https://github.com/w3c/wg-effectiveness/blob/master/chair_emails.md) exist. Can / should we do more?
 
 ### [Guide] Updated /guide (Easy to Read and Access Information for New and Existing Attendees)
-Guide is being structured over in [/Guide on Github](https://github.com/w3c/Guide). Need to work on Information Architecture.
+Guide is being structured over in [/Guide on Github](https://github.com/w3c/Guide).
 
-Have we had further thoughts on consistency of Working Group homepages?
+Our [Issues]() detail some things which we think should be included in /guide. Some will require us to write some things, such as [an explainer template](https://github.com/w3c/wg-effectiveness/issues/66). 
 
 ### [Testing] Testing
 We will detail some items on testing in Guide/Github (do we know who would be best to write this?!). Testing issue has been added to [W3C Process Github Repo](https://github.com/w3c/w3process/issues/157). 
