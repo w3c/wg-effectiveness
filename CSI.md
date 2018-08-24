@@ -34,7 +34,11 @@ Below is a list of common symptoms of issues experienced by working groups. It i
 
 ### Existing Implementation
 
-* **Description:** An "Existing Implementation" exists, which may bring aspirational improvements to a spec in conflict with the implementor's resistance to change code/break sites already relying on the implementation. Leads to **[Scope Creep / Super-Spec](#scope-creep--super-spec)**, and **[Incomplete Spec](#incomplete-spec)**.  
+* **Description:** An "Existing Implementation" exists, which may bring aspirational improvements to a spec in conflict with the implementor's resistance to change code/break sites already relying on the implementation. Leads to **[Scope Creep / Super-Spec](#scope-creep--super-spec)**, and **[Incomplete Spec](#incomplete-spec)**.
+
+### One Implementation Only
+
+* **Description:** Only one implementation of the draft exists. This can results in **[Incomplete Spec](#incomplete-spec)** as other implementation issues have not yet arisen and could also lead to **[Failed Spec](#failed-spec)** as when further implementations do arise the issues they experience may require the spec to be completely re-evaluated.  
 
 ### No Implementation
 
