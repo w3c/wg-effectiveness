@@ -40,7 +40,7 @@ Below is a list of common symptoms of issues experienced by working groups. It i
 
 ### Overly Assertive Implementers and Overly Assertive Experts
 
-* **Description:** In working groups across SDOs there are sometimes individuals who assert themselves over others. In this case either the Implementers or the Experts (or both, or individuals who are both implementers and experts) assert themselves firmly over others in the working group. This is not to say that their opinion is incorrect; but that the method of assertion may be too strong. Leads to **[Scope Creep / Super-Spec](#scope-creep--super-spec)**, **[Incomplete Spec](#incomplete-spec)**, **[Never-Ending Discussion](#never-ending-discussion)**.
+* **Description:** In working groups across standards organisations there are sometimes individuals who assert themselves over others. In this case either the Implementers or the Experts (or both, or individuals who are both implementers and experts) assert themselves firmly over others in the working group. This is not to say that their opinion is incorrect; but that the method of assertion may be too strong. Leads to **[Scope Creep / Super-Spec](#scope-creep--super-spec)**, **[Incomplete Spec](#incomplete-spec)**, **[Never-Ending Discussion](#never-ending-discussion)**.
 
 ### Author Lack
 
@@ -69,15 +69,15 @@ Below is a list of common symptoms of issues experienced by working groups. It i
 ### Ineffective Incubation
 
 * **Description:** New ideas for standards come from industry, implementers, developers and others. Incubation takes these ideas and preps them for standards work, by allowing some experts in W3C process and implementations to comment and guide new ideas. A lack of or incorrect incubation may lead to **[Incomplete Spec](#incomplete-spec)**, **[Never-Ending Discussion](#never-ending-discussion)**, **[Failed Spec](#failed-spec)**.
-* **Solution:** Early incubation through WICG or a dedicated Community Group which includes the right  **[Expert Mix](#expert-mix)**.
+* **Solution:** Early incubation through the Web Platform Incubator Community Group  or a dedicated Community Group which includes the right  **[Expert Mix](#expert-mix)**.
 
-### SDO Collaboration
+### Standards Organisation Collaboration
 
-* **Description:** Other SDOs have their own working practices which may work well for their standards development but may clash with the W3C process. This may lead to **[Never-Ending Discussion](#never-ending-discussion)**, **[Incomplete Spec](#incomplete-spec)** and **[Failed Spec](#failed-spec)**.
+* **Description:** Other Standards Organisations have their own working practices which may work well for their standards development but may clash with the W3C process. This may lead to **[Never-Ending Discussion](#never-ending-discussion)**, **[Incomplete Spec](#incomplete-spec)** and **[Failed Spec](#failed-spec)**.
 
 ### Not Understanding Spec Dependencies
 
-* **Description:** Some specs require an understanding of others or underlying technologies in order to be successfully implemented and used. For example, understanding WebIDL is important for certain spec development, in-depth understanding DOM may be crucial for others. Lack of understanding of these dependencies can lead to **[Failed Spec](#failed-spec)**.
+* **Description:** Some specs require an understanding of others or underlying technologies in order to be successfully implemented and used. For example, understanding [WebIDL](https://www.w3.org/TR/WebIDL-1/) is important for certain spec development, in-depth understanding [DOM](https://www.w3.org/DOM/DOMTR) may be crucial for others. Lack of understanding of these dependencies can lead to **[Failed Spec](#failed-spec)**.
 
 ### Lack of Consensus
 
