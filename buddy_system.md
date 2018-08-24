@@ -12,6 +12,12 @@ Here is an overview of a process for a buddy system for chairs at W3C.
   * Email these people, ask them if they would volunteer to be a buddy (buddy-mentor)
 * Begin pairing those people who request to have a buddy, with those who volunteer to be a buddy (buddy-mentee).
 
+### Guidelines for Pairing Buddies
+Here are some guidelines for pairing buddies (for Team use).
+
+* Pairing people with individuals they do not know may be more helpful than pairing people who already know each other. It's often the case that people who know each other are already in a buddy-style relationship, and work in the same groups or area at W3C; by pairing people who know each other together the two individuals miss out on the experiences of groups across the W3C, and miss out on expanding their network.
+* (any more?)
+
 ### Helpful Resources for Buddies
 We should also write some helpful resources for buddy-mentors and buddy-mentees. These should live in /Guide. Below is a start.
 
