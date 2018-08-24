@@ -37,7 +37,9 @@ Have we had further thoughts on consistency of Working Group homepages?
 We will detail some items on testing in Guide/Github (do we know who would be best to write this?!). Testing issue has been added to [W3C Process Github Repo](https://github.com/w3c/w3process/issues/157). 
 
 ### [CSI] Common Standards Issues Document and Triage Process
-Final touches, then can present at TPAC.
+Open issues to discuss:
+
+- [11](https://github.com/w3c/wg-effectiveness/issues/11)
 
 ### [Ombudsman] Ombudsman for Working Group Effectiveness with Guidelines for Escalation
 Do we want to write a process for this?
