@@ -6,7 +6,7 @@ This page details some common issues working groups may experience when working 
 
 ## For Readers (Chairs, Editors, Implementers and WG Members)
 
-If you are visiting this page you may be experiencing some issues with progressing or completing the standards defined in your group's charter or you're being extra prudent to make sure issues do not happen within your currently well-working working group! In any case, to use this document go to the [Common Symptoms](#common-symptoms) section and see what symptoms you or others have experienced a working group. The [Common Symptoms](#common-symptoms) have related [Common Results](#common-results) which can be serious issues which affect the performance of a working group. Some advice on how to solve or avoid these symptoms and issues is given in the [Defining a Successful Working Group](#defining-a-successful-working-group) section.
+If you are visiting this page you may be experiencing some issues with progressing or completing the standards defined in your group's charter or you're being extra prudent to make sure issues do not happen within your currently well-working working group. In any case, to use this document go to the [Common Symptoms](#common-symptoms) section and see what symptoms you or others have experienced in a working group. The [Common Symptoms](#common-symptoms) have related [Common Results](#common-results) which can be serious issues which affect the performance of a working group. Some advice on how to solve or avoid these symptoms and issues is given in the [Defining a Successful Working Group](#defining-a-successful-working-group) section.
 
 ## Common Symptoms
 
@@ -78,8 +78,7 @@ Below is a list of common symptoms of issues experienced by working groups. It i
 
 ### Ineffective Incubation
 
-* **Description:** New ideas for standards come from industry, implementers, developers and others. Incubation takes these ideas and preps them for standards work, by allowing some experts in W3C process and implementations to comment and guide new ideas. A lack of or incorrect incubation may lead to **[Incomplete Spec](#incomplete-spec)**, **[Never-Ending Discussion](#never-ending-discussion)**, **[Failed Spec](#failed-spec)**.
-* **Solution:** Early incubation through the Web Platform Incubator Community Group  or a dedicated Community Group which includes the right  **[Expert Mix](#expert-mix)**.
+* **Description:** New ideas for standards come from industry, implementers, developers and others. Incubation takes these ideas and preps them for standards work, by allowing some experts in W3C process and implementations to comment and guide new ideas. A lack of or incorrect incubation may lead to **[Incomplete Spec](#incomplete-spec)**, **[Never-Ending Discussion](#never-ending-discussion)**, **[Failed Spec](#failed-spec)**. Early incubation through the Web Platform Incubator Community Group  or a dedicated Community Group which includes the right  **[Expert Mix](#expert-mix)** can help here.
 
 ### Standards Organisation Collaboration
 
@@ -95,8 +94,7 @@ Below is a list of common symptoms of issues experienced by working groups. It i
 
 ### Lack of Extensibility
 
-* **Description:** Specifications which allow for extensibility are often more successful in the long term. An extremely restrictive or opaque specification may be implemented, but may not be used in the long term and will result in being a  **[Failed Spec](#failed-spec)**.  
-* **Solution:** Can be solved with  **[Extensibility](#extensibility)** or **[Versioning](#versioning)**.
+* **Description:** Specifications which allow for extensibility are often more successful in the long term. An extremely restrictive or opaque specification may be implemented, but may not be used in the long term and will result in being a  **[Failed Spec](#failed-spec)**. Can be solved with  **[Extensibility](#extensibility)** or **[Versioning](#versioning)**.
 
 ### Anti-Privacy or Anti-Security
 
@@ -112,7 +110,7 @@ Below is a list of issues which result from the symptoms outlined above. It incl
 
 ### Scope Creep / Super-Spec
 
-* **Description:** A WG charter describes the scope of the standards to be completed within the WG during the charter period. Even so, due to many factors (such as **[Huge Impact](#huge-impact)** and   **[Spec/Innovation Race Condition](#specinnovation-race-condition)**) the scope of the spec begins to creep to include aspects that some members of the working group or public have expressed as important for the current working draft version of the spec. The specification becomes complicated and decisions on the new ideas are rushed.  
+* **Description:** A WG charter describes the scope of the standards to be completed within the WG during the charter period. Even so, due to many factors (such as **[Huge Impact](#huge-impact)** and **[Spec/Innovation Race Condition](#specinnovation-race-condition)**) the scope of the spec begins to creep to include aspects that some members of the working group or public have expressed as important for the current working draft version of the spec. The specification becomes complicated and decisions on the new ideas are rushed.  
 * **Solution:** Can be solved by **[Versioning](#versioning)**, **[Extensibility](#extensibility)**, **[Drive to Ship](#drive-to-ship)**, **[Diplomatic Leadership](#strong-leadership)**.
 
 ### Incomplete Spec
