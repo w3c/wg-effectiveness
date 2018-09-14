@@ -10,12 +10,17 @@ IRC: #WGE
 Our issues related to /guide are moving to [the /guide repo](https://github.com/w3c/Guide/issues).
 
 ## Open Issues
-[https://github.com/w3c/wg-effectiveness/issues/77], (72)[https://github.com/w3c/wg-effectiveness/issues/72], (45)[https://github.com/w3c/wg-effectiveness/issues/45] , (12)[https://github.com/w3c/wg-effectiveness/issues/12].
+[77](https://github.com/w3c/wg-effectiveness/issues/77), 
+[72](https://github.com/w3c/wg-effectiveness/issues/72), 
+[45](https://github.com/w3c/wg-effectiveness/issues/45), 
+[12](https://github.com/w3c/wg-effectiveness/issues/12).
 
 ## Is Adding to /guide enough?
 For these issues:
 
-(68)[https://github.com/w3c/wg-effectiveness/issues/68], (67)[https://github.com/w3c/wg-effectiveness/issues/67], (66)[https://github.com/w3c/wg-effectiveness/issues/66].
+[66](https://github.com/w3c/wg-effectiveness/issues/66), 
+[67](https://github.com/w3c/wg-effectiveness/issues/67), 
+[68](https://github.com/w3c/wg-effectiveness/issues/68). 
 
 ## Outcomes and Updates
 See [README.md](https://github.com/w3c/wg-effectiveness/) 
