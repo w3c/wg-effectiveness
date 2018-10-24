@@ -49,12 +49,12 @@ Testing has become an essential part of standards development, but it's taking a
 * Others: here are some other ideas we have for testing:
   * Adding Test Details into /Guide: Detail types of tests that are required (e.g. interoperability, stress tests, security tests, etc)
   * No Tests No Merge should become a GitHub rule for our tools / github related outputs
-  * Possible ombudsman for testing.
+  * Possible ombudspeople for testing.
 
 ### [CSI] Common Standards Issues Document and Triage Process
 The Task Force are continuing work on the [Common Standards Issues](https://github.com/w3c/wg-effectiveness/blob/master/CSI.md) Document. This will be presented to the AC at AC2018.
 
-### [Ombudsman] Ombudsman for Working Group Effectiveness with Guidelines for Escalation
+### [Ombudspeopl] Ombudspeople for Working Group Effectiveness with Guidelines for Escalation
 W3C currently has team contacts who can be approached with issues related to working group effectivness. This team should be reviewed (possibly adding some non team contacts) and promoted within the W3C. The team should have guidelines on what happens when issues need to be escalated. The task force will need to work on a flow. 
 
 ## Links to current chair/team resources:
