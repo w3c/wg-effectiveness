@@ -80,6 +80,10 @@ Below is a list of common symptoms of issues experienced by working groups. It i
 
 * **Description:** New ideas for standards come from industry, implementers, developers and others. Incubation takes these ideas and preps them for standards work, by allowing some experts in W3C process and implementations to comment and guide new ideas. A lack of or incorrect incubation may lead to **[Incomplete Spec](#incomplete-spec)**, **[Never-Ending Discussion](#never-ending-discussion)**, **[Failed Spec](#failed-spec)**. Early incubation through the Web Platform Incubator Community Group  or a dedicated Community Group which includes the right  **[Expert Mix](#expert-mix)** can help here.
 
+### Neverending Incubation
+
+* **Description:** The Wroking Group continues to bring new ideas or expansions to a specification, continuously incubating these new ideas which results in stalling the completion of the specification whilst these improvements progress though the incuation process. Leads to **[Scope Creep / Super-Spec](#scope-creep--super-spec)**, **[Incomplete Spec](#incomplete-spec)** and **[Never-Ending Discussion](#never-ending-discussion)**.
+
 ### Standards Organisation Collaboration
 
 * **Description:** Other Standards Organisations have their own working practices which may work well for their standards development but may clash with the W3C process. This may lead to **[Never-Ending Discussion](#never-ending-discussion)**, **[Incomplete Spec](#incomplete-spec)** and **[Failed Spec](#failed-spec)**.
