@@ -1,16 +1,6 @@
 # Welcome Pack for New Members
 Welcome to the W3C. This pack contains some key information on how to get started with W3C participation including participating in groups, events and being an AC Member.
 
-## Being an AC Member
-Each organisation member of W3C has one Advisory Committee (AC) Member. The AC Member has certain privileges such as the ability to paricipate in AC Meetings and vote on standards process decisions. The AC Member can also assign members of their organisation to W3C Groups. Here is a short list of what you can expect as an AC Member:
-
-* Added to the W3C AC Members mailing list where key information on the below and general W3C AC Member discussion occurs
-* Assign organisation members to participate in W3C groups
-* Vote for Advisory Board (AB) and Technical Architecture Group (TAG) members
-* Review the creation of new group charters and object or extend the review period if needed
-* Review specifications (W3C Proposed Recommendations) in their final stage of development and object or extend the review period if needed
-* Attend two AC Meetings a year: one AC Meeting between Mar-Jun, and one AC Meeting at TPAC in Sept - Oct.
-
 ## Assigning your organisation members to participate in W3C groups
 As an AC Member you may assign employees from your organisation to participate in W3C Working and Interest Groups. Each Working or Interest Group will have it's own homepage (e.g. [Web App Security](https://www.w3.org/2011/webappsec/)). On these pages there will be a link to the group's charter, and a link to "Join the Group". By clicking "Join the Group" you'll be taken to the W3C Member portal where you will be able to join the group personally, or sign one of your colleagues to the group.
 
@@ -42,3 +32,15 @@ W3C offices in certian regions hold regional meetings periodically. These region
 * [Japan](/#)
 * anywhere else?!
 
+## Being an AC Member
+Each organisation member of W3C has one Advisory Committee (AC) Member. The AC Member has certain privileges such as the ability to paricipate in AC Meetings and vote on standards process decisions. The AC Member can also assign members of their organisation to W3C Groups. Here is a short list of what you can expect as an AC Member:
+
+* Added to the W3C AC Members mailing list where key information on the below and general W3C AC Member discussion occurs
+* Assign organisation members to participate in W3C groups
+* Vote for Advisory Board (AB) and Technical Architecture Group (TAG) members
+* Review the creation of new group charters and object or extend the review period if needed
+* Review specifications (W3C Proposed Recommendations) in their final stage of development and object or extend the review period if needed
+* Attend two AC Meetings a year: one AC Meeting between Mar-Jun, and one AC Meeting at TPAC in Sept - Oct.
+
+## Code of Ethics
+Text.
