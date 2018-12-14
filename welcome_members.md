@@ -17,7 +17,7 @@ As an AC Member you may assign employees from your organisation to participate i
 ## Participating in W3C Groups
 Each group has a different way of working, although their are often similarities. Groups often hold teleconference meetings (these will be hosted on Webex), and groups always have a mailing list. As a group member, you or your colleagues will automatically be signed up to the group mailing list when joining a group, and will receive teleconference details in emails.
 
-Some groups hold face-to-face meetings. These will be arranged on the mailing list.
+Some groups hold face-to-face meetings. These will be arranged on the mailing list. The frequency of these face-to-face meetings depend on the group.
 
 ### Meetings: IRC and Decorum
 Both teleconference and face-to-face meetings are minuted. W3C uses Internet Relay Chat (IRC) to help both minute the meetings accurately and to control speakers by using a queue system. You will require an IRC client to join a W3C IRC group chat; if you do not have one you commonly use then W3C has [http://irc.w3.org] which you may use.
@@ -33,3 +33,10 @@ A "scribe" is selected at the beginning of a meeting. The scribe will minute the
 * s/[typo]/[correction]: will change the first instance of [typo] with [correction] in the text above.
 
 Other IRC commands can be found [here](/#).
+
+## Regional Meetings
+W3C offices in certian regions hold regional meetings periodically. These regional offices have mailing lists which you may join to here about these regional meetings, events and discuss other relevant information to the W3C regional members.
+
+* [Japan](/#)
+* anywhere else?!
+
