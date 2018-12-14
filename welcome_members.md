@@ -1,5 +1,7 @@
 # Welcome Pack for New Members
-Welcome to the W3C. This pack contains some key information on how to get started with W3C participation including participating in groups, events and being an AC Member.
+Welcome to the W3C. This pack contains some key information on how to get started with W3C participation including participating in groups, events and being an AC Member. 
+
+@todo information on W3C structure or link to where that can be found.
 
 ## Participating in W3C Groups
 Each group has a different way of working, although their are often similarities. Groups often hold teleconference meetings (these will be hosted on Webex), and groups always have a mailing list. As a group member, you or your colleagues will automatically be signed up to the group mailing list when joining a group, and will receive teleconference details in emails.
