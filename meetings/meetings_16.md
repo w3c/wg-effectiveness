@@ -1,6 +1,6 @@
 # Working Group Effectiveness Task Force Meeting #16
-IRC: #WGE
-14:00 UTC, Fri 14 Dec
+* IRC: #WGE
+* 14:00 UTC, Fri 14 Dec
 
 ## Admin
 * Welcome
