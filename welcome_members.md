@@ -26,6 +26,9 @@ A "scribe" is selected at the beginning of a meeting. The scribe will minute the
 
 Other IRC commands can be found [here](/#).
 
+### Github
+Text.
+
 ## Regional Meetings
 W3C offices in certian regions hold regional meetings periodically. These regional offices have mailing lists which you may join to here about these regional meetings, events and discuss other relevant information to the W3C regional members.
 
