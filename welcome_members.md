@@ -12,7 +12,9 @@ Each organisation member of W3C has one Advisory Committee (AC) Member. The AC M
 * Attend two AC Meetings a year: one AC Meeting between Mar-Jun, and one AC Meeting at TPAC in Sept - Oct.
 
 ## Assigning your organisation members to participate in W3C groups
-As an AC Member you may assign employees from your organisation to participate in W3C Working and Interest Groups. Each Working or Interest Group will have it's own homepage (e.g. [Web App Security](https://www.w3.org/2011/webappsec/). On these pages there will be a link to the group's charter, and a link to "Join the Group". By clicking "Join the Group" you'll be taken to the W3C Member portal where you will be able to join the group personally, or sign one of your colleagues to the group.
+As an AC Member you may assign employees from your organisation to participate in W3C Working and Interest Groups. Each Working or Interest Group will have it's own homepage (e.g. [Web App Security](https://www.w3.org/2011/webappsec/)). On these pages there will be a link to the group's charter, and a link to "Join the Group". By clicking "Join the Group" you'll be taken to the W3C Member portal where you will be able to join the group personally, or sign one of your colleagues to the group.
+
+You or your colleague should receive a welcome email from the group.
 
 ## Participating in W3C Groups
 Each group has a different way of working, although their are often similarities. Groups often hold teleconference meetings (these will be hosted on Webex), and groups always have a mailing list. As a group member, you or your colleagues will automatically be signed up to the group mailing list when joining a group, and will receive teleconference details in emails.
