@@ -53,5 +53,5 @@ You or your colleague should receive a welcome email from the group.
 ## Code of Ethics
 Text.
 
-## W3C Specific Terms
+## W3C Structure and Interactions
 Incubation, WICG, TAG, AB, ...
