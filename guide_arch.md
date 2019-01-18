@@ -66,7 +66,7 @@ Information which people commonly look for on w3.org.
 * Using IRC & Scribing (own section)
  * IRC Botes: Zakim, RRSAgent, Trackbot 
 * Mailing List List
-* Using W3C Wiki (dup)
+* Using W3C Wiki (own section)
 
 ### Incubation 
 * CGs
@@ -86,11 +86,12 @@ Information which people commonly look for on w3.org.
 # Sections
 ## Meetings, IRC
 * IRC and scribing
-* 
+* Teleconferences
 
 ## Groups
 * Understanding Business, Community and Working Groups
 * Mailing List list
+* Wiki
 
 ## Rec Track (own section)
 * Recommendation Track Readiness Best Practices (own section)
