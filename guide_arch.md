@@ -18,7 +18,7 @@ Information which people commonly look for on w3.org.
 * Setting up Teleconferences
 * Quick start guide for setting up tools for managing an agenda, generating minutes, and updating issues lists
 * Host a face-to-face meeting 
-* Using IRC & Scribing (dup)
+* Using IRC & Scribing (own section)
 
 ### Tools For Running a WG / IG
 * Mailing List
@@ -43,8 +43,8 @@ Information which people commonly look for on w3.org.
 * RecTrack stages and how to advance to the next stage
 
 ## Informations for Editors (and Spec Proponents?!)
-* Using Github (dup)
-* Mailing List List (dup)
+* Using Github (own section)
+* Mailing List List (own section)
 
 ### Doc Creation and Tools
 * Style for Group-internal Drafts 
@@ -52,27 +52,27 @@ Information which people commonly look for on w3.org.
   * Publications can only happen on Tuesdays and Thursdays (Member-only archive of announcement), unless you use the automated publication system (change name, and add stuff)
 * Normative References; considerations the Director takes into account when evaluating normative references
 
-### Rec Track (dup)
-* Recommendation Track Readiness Best Practices
-* RecTrack stages and how to advance to the next stage
+### Rec Track (own section)
+* Recommendation Track Readiness Best Practices (own section)
+* RecTrack stages and how to advance to the next stage (own section)
 
 ### Reviewing (should be in chair section?)
 * Horizontal reviews
 
-### Incubation (should be in chair section?)
+## Informations for Members and Participants
+* Join a group (see also Invited Expert Policy)
+* Attending Teleconferences
+* Using Github (own section)
+* Using IRC & Scribing (own section)
+ * IRC Botes: Zakim, RRSAgent, Trackbot 
+* Mailing List List
+* Using W3C Wiki (dup)
+
+### Incubation 
 * CGs
 * BGs
 * WCIG
 * Within a WG
-
-## Informations for Members and Participants
-* Join a group (see also Invited Expert Policy)
-* Attending Teleconferences
-* Using Github (dup)
-* Using IRC & Scribing (dup)
- * IRC Botes: Zakim, RRSAgent, Trackbot 
-* Mailing List List
-* Using W3C Wiki (dup)
 
 ## Staff Portal
 
@@ -84,8 +84,17 @@ Information which people commonly look for on w3.org.
 * [Legal](#legal)
 
 # Sections
-## General W3C Info
+## Meetings, IRC
+* IRC and scribing
+* 
+
+## Groups
 * Understanding Business, Community and Working Groups
+* Mailing List list
+
+## Rec Track (own section)
+* Recommendation Track Readiness Best Practices (own section)
+* RecTrack stages and how to advance to the next stage (own section)
 
 ## Github
 See [https://w3c.github.io/](https://w3c.github.io/) for drafts of this info.
