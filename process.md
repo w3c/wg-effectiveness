@@ -148,7 +148,7 @@ The Director is the lead technical architect at W3C. They have a number of respo
 ## Advisory Board (AB)
 The Advisory Board (AB) provides ongoing guidance to the Team on issues of strategy, management, legal matters, process, and conflict resolution. The AB also manages the evolution of the [W3C Process Document](https://w3c.github.io/w3process/).
 
-The AB is nine individuals elected by the [AC](#advisory-committee-ac). The team appoints a chair who is not necessarily a member fo the AB (currently the W3C CEO). AB members participate as individuals, not on behalf of their employer. The AB provides updates about their activities on the [AB website](https://www.w3.org/2002/ab/) and at AC Meetings.
+The AB is nine individuals elected by the [AC](#advisory-committee-ac). The team appoints a chair who is not necessarily a member of the AB (currently the W3C CEO). AB members participate as individuals, not on behalf of their employer. The AB provides updates about their activities on the [AB website](https://www.w3.org/2002/ab/) and at AC Meetings.
 
 For more information on AB members, terms, election process and responsibilities, please see the [AB Website](https://www.w3.org/2002/ab/) and the [W3C Process Document](https://w3c.github.io/w3process/).
 
