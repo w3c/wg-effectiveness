@@ -26,9 +26,9 @@ Readers should note that this document is not a legal document, it does not repl
   * [Voting](#voting)
   * [Closing a Group](#closing-a-group)
 * [W3C Recommendations and Notes](#w3c-recommendations-and-notes)
-  * [Requirements for W3C Recommenations](#requirements-for-w3c-recommenations-technical-reports)
+  * [Requirements for W3C Recommendations](#requirements-for-w3c-recommendations-technical-reports)
   * [Editors](#editors)
-  * [W3C Recommenation (Technical Report) Flow: The "Recommendation Track"](#w3c-recommenation-technical-report-flow-the-recommendation-track)
+  * [W3C Recommendation (Technical Report) Flow: The "Recommendation Track"](#w3c-recommendation-technical-report-flow-the-recommendation-track)
   * [Maturity Levels Explained](#maturity-levels-explained)
   * [Transition Requests and Moving Between Recommendation Track Stages](#transition-requests-and-moving-between-recommendation-track-stages)
   * [Reviewing Documents and Wide Review](#reviewing-documents-and-wide-review)
@@ -97,7 +97,7 @@ Use this list to quick link to a section of this document. Or, scroll past it to
 * __Public Participant__: See [Participants](#participants)
 * __Rec__: See [W3C Recommendation](#w3c-recommendation)
 * __Recommendation__: See [W3C Recommendation](#w3c-recommendation)
-* __Recommendation Track__: See [W3C Recommenation (Technical Report) Flow: The "Recommendation Track"](#w3c-recommenation-technical-report-flow-the-recommendation-track)
+* __Recommendation Track__: See [W3C Recommendation (Technical Report) Flow: The "Recommendation Track"](#w3c-recommendation-technical-report-flow-the-recommendation-track)
 * __Reference Draft__: latest Working Draft published within 90 days of the First Public Working Draft or if no Public Working Draft __:
 * __Rescinded Recommendation__: See [Rescinded, Obsolete or Superseded Recommendations](#rescinded-obsolete-or-superseded-recommendations)
 * __Revised Candidate Recommendation__: See [Revised Candidate Recommendation](#revised-candidate-recommendations)
@@ -182,7 +182,7 @@ The [AC](#advisory-committee-ac) will review new or modified Working and Interes
 After the review has ended, [The Director](#the-director) will announce the results of the review detailing support and any formal objections. The proposal could be: approved, approved with changes, returned for further work or rejected. Please consult the [W3C Process Document](https://www.w3.org/Consortium/Process/#ACReview) for a break down of each of these.
 
 ### AC Appeals
-The [AC](#advisory-committee-ac) can appeal W3C decisions. This is rare. Appeals are usually related to Working or Interest Group creation or modification, or a document progressing through the [Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track). For a fuller list of decisions which can be appealed please see the [W3C Process Document](https://www.w3.org/Consortium/Process/#ACAppeal).
+The [AC](#advisory-committee-ac) can appeal W3C decisions. This is rare. Appeals are usually related to Working or Interest Group creation or modification, or a document progressing through the [Recommendation Track](#w3c-recommendation-technical-report-flow-the-recommendation-track). For a fuller list of decisions which can be appealed please see the [W3C Process Document](https://www.w3.org/Consortium/Process/#ACAppeal).
 
 Appeals must start within three weeks of the a decision. AC Members send an appeal to the [Team](#the-w3c-team), the Team then announce this appeal to the AC allowing the AC to support the appeal if they wish. 
 
@@ -352,14 +352,14 @@ All W3C Recommendations can be found in the [index of W3C technical reports](htt
 
 W3C Groups can also publish **W3C Notes** which are not Recommendation Track documents. Examples of W3C Notes include: lists of use cases, guidance, status of abandonded work, etc.  
 
-W3C Notes also follow the [The Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track). They are usually declared as notes in **Publication of zero or more revised Public Working Drafts:** stage. 
+W3C Notes also follow the [The Recommendation Track](#w3c-recommendation-technical-report-flow-the-recommendation-track). They are usually declared as notes in **Publication of zero or more revised Public Working Drafts:** stage. 
 
 For more information please see the [W3C Process Document](https://www.w3.org/Consortium/Process/#Note).
 
-## Requirements for W3C Recommenations (Technical Reports)
-W3C Recommenations (Technical Reports) are public documents at every stage of the [Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track). The document will display a set information including:
+## Requirements for W3C Recommendations (Technical Reports)
+W3C Recommendations (Technical Reports) are public documents at every stage of the [Recommendation Track](#w3c-recommendation-technical-report-flow-the-recommendation-track). The document will display a set information including:
 
-* The document's maturity level (see [Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track))
+* The document's maturity level (see [Recommendation Track](#w3c-recommendation-technical-report-flow-the-recommendation-track))
 * The Working Group who developed the document
 * Instructions on how and where to file bugs
 * "Next Steps" for the document
@@ -367,9 +367,9 @@ W3C Recommenations (Technical Reports) are public documents at every stage of th
 * Explanation of changes from the previous document version (a "Change Log").
 
 ## Editors
-Every W3C Recommenation (Technical Report) will have one or more Editors. These Editors are responsible for writing a document in a way which reflects the decisions of the Working Group. All Editors must be members of the Working Group responsible for the document they are editing. 
+Every W3C Recommendation (Technical Report) will have one or more Editors. These Editors are responsible for writing a document in a way which reflects the decisions of the Working Group. All Editors must be members of the Working Group responsible for the document they are editing. 
 
-## W3C Recommenation (Technical Report) Flow: The "Recommendation Track" 
+## W3C Recommendation (Technical Report) Flow: The "Recommendation Track" 
 A typical flow of a document from draft to Technical Report is below:
 
 ![Recommendation Track Diagram](https://github.com/w3c/wg-effectiveness/blob/master/images/rectrackdiagram.png)
@@ -409,7 +409,7 @@ When a Working Group has agreed to begin work on a new standard or W3C Note they
 
 A Working Group then continues to work on this document, coming to consensus on decisions and editing the document to continue to create "Revised Working Drafts". If significant changes to the document have been made the group should be re-uploaded the document to the [W3C Technical Reports Page](https://www.w3.org/TR/). A Revised Working Draft will need to uploaded also if 6 months pass with no change; this Revised Draft indicates why there has been no change within this time.  
 
-The group will have to prepare some information on the Working Draft for a transition to the next Recommendation Track stage  (see [Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track) and [Transition Requests](#transition-requests-and-moving-between-track-stages) for more information on stages and transtions); these include:
+The group will have to prepare some information on the Working Draft for a transition to the next Recommendation Track stage  (see [Recommendation Track](#w3c-recommendation-technical-report-flow-the-recommendation-track) and [Transition Requests](#transition-requests-and-moving-between-track-stages) for more information on stages and transtions); these include:
 
 * Recordings of the Group decision to advance the document
 * Record of the changes from the last version
@@ -422,7 +422,7 @@ For all Working Drafts a Working Group will document outstanding issues and issu
 Working Drafts can transition to become "Revised Working Drafts", ["Candidate Recommendation"](#candidate-recommendation) or "Working Group Note".
 
 ### Candidate Recommendation
-Candidate Recommendations are documents which are in their final review. At this stage the group will prepare a set of information to progress the document to the next stage (see [Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track) and [Transition Requests](#transition-requests-and-moving-between-track-stages) for more information on stages and transtions). The information to be collected is:
+Candidate Recommendations are documents which are in their final review. At this stage the group will prepare a set of information to progress the document to the next stage (see [Recommendation Track](#w3c-recommendation-technical-report-flow-the-recommendation-track) and [Transition Requests](#transition-requests-and-moving-between-track-stages) for more information on stages and transtions). The information to be collected is:
 
 * Explanation of how the document meets the Working Group requirements (outlined in the [Charter](#charter-and-call-for-participation)) or why the requirements have changed
 * Dependencies on other specifications
@@ -455,7 +455,7 @@ For more information please see the [W3C Process Document](https://www.w3.org/Co
 Substantive edits cannot happen on Proposed Recommendations, so to make any changes the document will move back to being a ["Working Draft"](#working-draft) or a ["Candidate Recommendation"](#candidate-recommendation). Otherwise it can become a ["W3C Recommendation"](#w3c-recommendation) or "Working Group Note".
 
 ### W3C Recommendation
-The W3C Recommendation is an approved standard of the W3C and the end of the [W3C Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track)! There are many informal terms used for a W3C Recommedation including "Rec", "Recommendation", "TR", "Technical Report", "Spec", "Standard"; they all mean the same thing.
+The W3C Recommendation is an approved standard of the W3C and the end of the [W3C Recommendation Track](#w3c-recommendation-technical-report-flow-the-recommendation-track)! There are many informal terms used for a W3C Recommedation including "Rec", "Recommendation", "TR", "Technical Report", "Spec", "Standard"; they all mean the same thing.
 
 To get to W3C Recommendation a "W3C Decision" is required; this is where a document has met all the [Transition Request](#transition-requests-and-moving-between-track-stages) requirements, the [Director](#the-director) has approved the document and the document has passed [AC Review](#ac-reviews) during the ["Proposed Recommendation"](#proposed-recommendation) stage. 
 
@@ -513,11 +513,11 @@ Errors may be found in a document after it has progressed to W3C Recommendation.
 
 If a Working Group has already closed, then the W3C can request the change. 
 
-Editorial changes can be progressed without going back to another stage in the [Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track). [Substantive changes](https://www.w3.org/Consortium/Process/#substantive-change) can require the document to go back to [Candidate Recommendation](#candidate-recommendation) or, when a Working Group no longer exists, a "Candidate Amended Recommendation".
+Editorial changes can be progressed without going back to another stage in the [Recommendation Track](#w3c-recommendation-technical-report-flow-the-recommendation-track). [Substantive changes](https://www.w3.org/Consortium/Process/#substantive-change) can require the document to go back to [Candidate Recommendation](#candidate-recommendation) or, when a Working Group no longer exists, a "Candidate Amended Recommendation".
 
 If the Working Group edited the document the recommendation becomes an "Edited Recommendation". If the W3C requested and completed the changes the document becomes an "Amended Recommendation". 
 
-All [Transition Request](#transition-requests-and-moving-between-track-stages) requirements apply to revised recommendations as they do for any other stage of the [Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track).
+All [Transition Request](#transition-requests-and-moving-between-track-stages) requirements apply to revised recommendations as they do for any other stage of the [Recommendation Track](#w3c-recommendation-technical-report-flow-the-recommendation-track).
 
 ### Rescinded, Obsolete or Superseded Recommendations
 The W3C could decide that a W3C Recommendation is no longer recommended. There are three ways of categorising these Recommendations which have become non-recommended:
@@ -533,9 +533,9 @@ The document will then be replublished as an Obsolete or Rescinded Recommendatio
 If only a part of a W3C Recommendation needs to be obsoleted, superceded or rescinded then the document must go through the [Revised Recommendation](#revised-recommendation-edited-and-amended-recommendations) process. 
 
 # Member Submissions
-Members can make document submissions to the W3C. These documents usually detail a technology or other ideas applicable to the Web. These documents have been developed outside the W3C, so they have not gone through the W3C [Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track) and are not [W3C Recommendations](#w3c-recommendation). They can become a basis of future work, but there is no guarentee of this.
+Members can make document submissions to the W3C. These documents usually detail a technology or other ideas applicable to the Web. These documents have been developed outside the W3C, so they have not gone through the W3C [Recommendation Track](#w3c-recommendation-technical-report-flow-the-recommendation-track) and are not [W3C Recommendations](#w3c-recommendation). They can become a basis of future work, but there is no guarentee of this.
 
-Member Submissions are a good way to build support for new work proposals for an upcoming Working Group; if a Working Group already exists it is preferable that technology is contributed through the Working Group as normal and follows the [Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track) rather than as a Member Submission.
+Member Submissions are a good way to build support for new work proposals for an upcoming Working Group; if a Working Group already exists it is preferable that technology is contributed through the Working Group as normal and follows the [Recommendation Track](#w3c-recommendation-technical-report-flow-the-recommendation-track) rather than as a Member Submission.
 
 Only one member makes a Member Submission, even if more than one member worked on the original documents. Strict processes are involved in making a Member Submission, please see the W3C Process Document on [Information Required in a Submission Request](https://www.w3.org/Consortium/Process/#SubmissionReqs) and [Submitter Rights](https://www.w3.org/Consortium/Process/#SubmissionRights). 
 
