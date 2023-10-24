@@ -8,7 +8,6 @@ Readers should note that this document is not a legal document, it does not repl
   * [Language](#language)
   * [Terms](#terms)
 * [Leadership and Leadership Groups](#leadership-and-leadership-groups)
-  * [The Director](#the-director)
   * [Advisory Board (AB)](#advisory-board-ab)
   * [Technical Architecture Group (TAG)](#technical-architecture-group-tag)
   * [Advisory Committee (AC)](#advisory-committee-ac)
@@ -25,6 +24,7 @@ Readers should note that this document is not a legal document, it does not repl
   * [Consensus and Formal Objections](#consensus-and-formal-objections)
   * [Voting](#voting)
   * [Closing a Group](#closing-a-group)
+  * [W3C Councils](#w3c-councils)
 * [W3C Recommendations and Notes](#w3c-recommendations-and-notes)
   * [Requirements for W3C Recommenations](#requirements-for-w3c-recommenations-technical-reports)
   * [Editors](#editors)
@@ -68,7 +68,6 @@ Use this list to quick link to a section of this document. Or, scroll past it to
 * __Confidentiality Levels__: See [Confidentiality Levels](#confidentiality-levels)
 * __Consensus__: See [Consensus and Formal Objections](#consensus-and-formal-objections)
 * __Correction Classes__: See [Correction Classes](#correction-classes)
-* __The Director__: See [The Director](#the-director)
 * __Dissemination Policies__: See [Communication](#communication)
 * __Dissent__: See [Consensus and Formal Objections](#consensus-and-formal-objections)
 * __Edited Recommendation__: See [Revised Recommendation (Edited and Amended Recommendations)](#revised-recommendation-edited-and-amended-recommendations)
@@ -113,10 +112,11 @@ Use this list to quick link to a section of this document. Or, scroll past it to
 * __Team Only__: See [Confidentiality Levels](#confidentiality-levels)
 * __Team Representatives__: See [Participants](#participants)
 * __Team Submissions__: published information to the W3C Website put forward by the team see [The W3C Process Document](https://www.w3.org/Consortium/Process/#TeamSubmission) for more information.
-* __The Technical Architectur Group__: See [The TAG](#technical-architecture-group-tag)
+* __The Technical Architecture Group__: See [The TAG](#technical-architecture-group-tag)
 * __Technical Report__: See [W3C Recommendation](#w3c-recommendation)
 * __TR__: See [W3C Recommendation](#w3c-recommendation)
 * __Transition Request__: See [Transition Requests and Moving Between Recommendation Track Stages](#transition-requests-and-moving-between-recommendation-track-stages)
+* __W3C Council__: See [W3C Councils](#w3c-councils)
 * __W3C Fellows__: Member employees working as part of the Team. See [the W3C Website for more information](https://www.w3.org/Consortium/Recruitment/Fellows)
 * __W3C Members__: See [Members](#members)
 * __W3C Member Submissions__: See [Member Submissions](#member-submissions)
@@ -136,26 +136,17 @@ Use this list to quick link to a section of this document. Or, scroll past it to
 # Leadership and Leadership Groups
 The W3C leadership and leadership groups are responsible for the process, technical direction, group development and major decisions taken within the W3C.
 
-## The Director
-The Director is the lead technical architect at W3C. They have a number of responsibilties which are detailed in the [W3C Process Document](https://www.w3.org/Consortium/Process/). Some of these responsibilities are:
-
-* Chartering new Interest and Working Groups
-* Appointing group Chairs
-* Publication of Technical Reports
-* Deciding on outcomes for Formal Objections
-* chairing the [TAG](#technical-architecture-group-tag).
-
 ## Advisory Board (AB)
 The Advisory Board (AB) provides ongoing guidance to the Team on issues of strategy, management, legal matters, process, and conflict resolution. The AB also manages the evolution of the [W3C Process Document](https://www.w3.org/Consortium/Process/).
 
-The AB is nine individuals elected by the [AC](#advisory-committee-ac). The team appoints a chair who is not necessarily a member of the AB (currently the W3C CEO). AB members participate as individuals, not on behalf of their employer. The AB provides updates about their activities on the [AB website](https://www.w3.org/2002/ab/) and at AC Meetings.
+The AB is nine individuals elected by the [AC](#advisory-committee-ac). The Team appoints a chair who is not necessarily a member of the AB (currently the W3C CEO). AB members participate as individuals, not on behalf of their employer. The AB provides updates about their activities on the [AB website](https://www.w3.org/2002/ab/) and at AC Meetings.
 
 For more information on AB members, terms, election process and responsibilities, please see the [AB Website](https://www.w3.org/2002/ab/) and the [W3C Process Document](https://www.w3.org/Consortium/Process/).
 
 ## Technical Architecture Group (TAG)
 The work of the Technical Architecture Group (TAG) is focused on Web Architecture and technical outputs of W3C. The TAG discuss and resolve issues related to Web Architecture, and coordinate cross-technology architecture developments inside and outside W3C.
 
-The TAG consists of the W3C Director (currently Tim Berners-Lee, who is also a TAG life-member), three director-appointed individuals and six individuals elected by the [AC](#advisory-committee-ac). TAG members participate as individuals, not on behalf of their employer. The TAG provides updates on its activities at AC Meetings, and on the (member-only) AC Mailing List for AC representatives.
+The TAG consists of three Team-appointed individuals, six individuals elected by the [AC](#advisory-committee-ac), and Tim Berners-Lee, who is a TAG life-member. TAG members participate as individuals, not on behalf of their employer. The TAG provides updates on its activities at AC Meetings, and on the (member-only) AC Mailing List for AC representatives.
 
 For more information on TAG members, terms, election process and responsibilities, please see the [TAG Website](https://www.w3.org/2001/tag/) and the [W3C Process Document](https://www.w3.org/Consortium/Process/#TAG).
 
@@ -179,19 +170,21 @@ The [AC](#advisory-committee-ac) will review new or modified Working and Interes
 
 [The Team](##the-w3c-team) will send a "Call for Review" to the AC on the AC Mailing List. Each AC member may send in one review on behalf of their [W3C Member](#understanding-w3c-members) organisation. AC Members can modify their reviews until the review period has ended.
 
-After the review has ended, [The Director](#the-director) will announce the results of the review detailing support and any formal objections. The proposal could be: approved, approved with changes, returned for further work or rejected. Please consult the [W3C Process Document](https://www.w3.org/Consortium/Process/#ACReview) for a break down of each of these.
+After the review has ended, [the Team](#the-w3c-team) will announce the results of the review detailing support and any formal objections. The proposal could be: approved, approved with changes, returned for further work or rejected. Please consult the [W3C Process Document](https://www.w3.org/Consortium/Process/#ACReview) for a break down of each of these.
 
 ### AC Appeals
 The [AC](#advisory-committee-ac) can appeal W3C decisions. This is rare. Appeals are usually related to Working or Interest Group creation or modification, or a document progressing through the [Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track). For a fuller list of decisions which can be appealed please see the [W3C Process Document](https://www.w3.org/Consortium/Process/#ACAppeal).
 
 Appeals must start within three weeks of the a decision. AC Members send an appeal to the [Team](#the-w3c-team), the Team then announce this appeal to the AC allowing the AC to support the appeal if they wish. 
 
-If a substantial amount of support is recieved within a certain timeframe then a vote may be organised. The vote will assess whether the AC supports or rejects the Director's decision. Please consult the [W3C Process Document](https://www.w3.org/Consortium/Process/#ACAppeal) for details on the requirements and running of this ballot.
+If a substantial amount of support is recieved within a certain timeframe then a vote may be organised. The vote will assess whether the AC supports or rejects the W3C decision. Please consult the [W3C Process Document](https://www.w3.org/Consortium/Process/#ACAppeal) for details on the requirements and running of this ballot.
 
 ## The W3C Team
-The Team consists of the Director, CEO, W3C paid staff, unpaid interns, and [W3C Fellows](https://www.w3.org/Consortium/Recruitment/Fellows) (Member employees working as part of the Team).  
+The Team consists of the CEO, W3C paid staff, unpaid interns, and [W3C Fellows](https://www.w3.org/Consortium/Recruitment/Fellows) (Member employees working as part of the Team).  
 
 The team provides technical leadership, supports Interest and Working Group acitivies, and manages communications to members and the public. The team may make [Team Submissions](https://www.w3.org/Consortium/Process/#TeamSubmission).
+
+Oversight over the Team is provided by the W3C Board of Directors.
 
 For more information on the W3C team see the [W3C Process Document](https://www.w3.org/Consortium/Process/#Team).
 
@@ -229,11 +222,11 @@ For more information on groups see the [W3C Process Document](https://www.w3.org
 The Process for setting up an Interest or Working Group is explained below:
 
 * __Generating Interest__: a topic gains some interest within W3C. This could be via a [member submission](#member-submissions), a [W3C run workshop](#workshops-and-symposia), W3C team research, a [Community Group](https://www.w3.org/community/) or through the [Web Incubator Community Group](https://www.w3.org/community/wicg/).
-* __AC Announcement__: the Director announces the development of an Interest or Working Group charter on the AC Mailing List.
+* __AC Announcement__: the Team announces the development of an Interest or Working Group charter on the AC Mailing List.
 * __Charter Development__: the Interest / Working Group proponents work on the new group charter with a W3C team member.
 * __Member Review__: W3C members review the charter, and give feedback.
-* __Director Approval__: the Director approves the creation of the Interest / Working Group on the AC Mailing List.
-* __Call For Participation__: the Director calls for participation in the newly formed group on the AC Mailing List.
+* __W3C Approval__: the Team announces a W3C Decision approving the creation of the Interest / Working Group on the AC Mailing List.
+* __Call For Participation__: the Team calls for participation in the newly formed group on the AC Mailing List.
 
 Each Working Group and Interest Group will be supported by at least one [W3C team member](#the-w3c-team). Group participants are usually [Member Represenatives](#participants) although [Invited Experts](#participants) may also be able to join groups.
 
@@ -244,7 +237,7 @@ All Working and Interest Groups have a Charter. Charters are developed by [W3C M
 
 When a new Charter is made the proponents (people writing the charter) make the Advisory Committee ([AC](#advisory-committee-ac)) aware of the new charter through the [AC mailing list](#) list. The AC reviews all new charters for a minimum of four weeks. 
 
-After the AC has approved the Charter, the [Director](#the-director) calls for participation in the group, inviting all [AC members](#advisory-committee-ac) to join or nominate colleagues to join the group. 
+After the AC has approved the Charter, the Team calls for participation in the group, inviting all [AC members](#advisory-committee-ac) to join or nominate colleagues to join the group. 
 
 For details on the Call for Participation and AC Appeals against Working or Interest Groups being created please see the [W3C Process Document](https://www.w3.org/Consortium/Process/#cfp). 
 
@@ -280,7 +273,7 @@ The W3C Process Document discusses terms such as "Reference Draft", "Exclusion D
 * __Exclusion Draft__: this is a recent [Working Draft](#working-draft) or [Candidate Recommendation](#candidate-recommendation) that triggered an Exclusion Opportunity. For specific information please see the [W3C Process Document](https://www.w3.org/Consortium/Process/#WGCharter) and [W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy-20170801/).
 
 ### Charter Extensions
-Working and Interest Groups can be extended past their agreed Charter completion dates. The [Director](#the-director) can do this by simply announcing to the [AC Mailing List](#) that the group has been extended and the new time period.
+Working and Interest Groups can be extended past their agreed Charter completion dates. The Team can do this by simply announcing to the [AC Mailing List](#) that the group has been extended and the new time period.
 
 Details on group extensions can be found in the [W3C Process Document](https://www.w3.org/Consortium/Process/#charter-extension). 
 
@@ -322,9 +315,9 @@ Consensus is a core value of W3C. The W3C agreed definition for Consensus and Di
 2. **Dissent:** At least one individual in the set registers a Formal Objection.
 
 ### Group Decision Appeals and Formal Objections
-A set of group members may appeal a group decision. The group should first register their opinion with the chair and team contact, and then rasie a **Group Decision Appeal** which requests the Director to review the decision. For more information please see the [W3C Process Document](https://www.w3.org/Consortium/Process/#WGAppeals).
+A set of group members may appeal a group decision. The group should first register their opinion with the chair and team contact, and then rasie a **Group Decision Appeal** which requests a [W3C Council](#w3c-council) to review the decision. For more information please see the [W3C Process Document](https://www.w3.org/Consortium/Process/#WGAppeals).
 
-Individuals may raise a **Formal Objection** against Interest or Working Group decisions. The Director will review any Formal Objections and the related group decision. Formal Objections should contain technical arguments and proposed changes. Formal Objections will be public. 
+Individuals may raise a **Formal Objection** against Interest or Working Group decisions. A [W3C Council](#w3c-council) will review any Formal Objections and the related group decision. Formal Objections should contain technical arguments and proposed changes. Formal Objections will be public. 
 
 For more information on Formal Objections please see the [W3C Process Document](https://www.w3.org/Consortium/Process/#Consensus).
 
@@ -343,10 +336,13 @@ Voting may also be used for minority issues; these votes have less stringest rul
 ## Closing a Group
 Groups may close because they have achieved their deliverables, reached their duration and do not wish to extend, or because they cannot achieve their charter goals for some reason (e.g. insufficent resources).
 
-The [Director](#the-director) sends a mail to the [AC](#advisory-committee-ac) to confirm a group has closed. 
+The [Team](#the-w3c-team) sends a mail to the [AC](#advisory-committee-ac) to confirm a group has closed.
+
+## W3C Councils
+A W3C Council is the body convened to resolve Formal Objections by combining the capabilities and perspectives of the [AB](#advisory-board-ab), the [TAG](#technical-architecture-group-tag), and the [Team](#the-w3c-team), and is tasked with doing so in the best interests of the Web and W3C.
 
 # W3C Recommendations and Notes
-A W3C Recommendation is a recognised W3C standard (also referred to as a "Technical Report"). W3C Recommendations have been agreed and approved by a W3C Working Group, the [AC](#advisory-committee-ac) and the [Director](#the-director).
+A W3C Recommendation is a recognised W3C standard (also referred to as a "Technical Report"). W3C Recommendations have been agreed and approved by a W3C Working Group, the [AC](#advisory-committee-ac) and the [Team](#the-w3c-team).
 
 All W3C Recommendations can be found in the [index of W3C technical reports](https://www.w3.org/TR/). 
 
@@ -379,16 +375,16 @@ A typical flow of a document from draft to Technical Report is below:
   * To progress to next step: submit the Editor's Draft to the Working Group via the Working Group mailing list (email). 
 * **Publication of the First Public Working Draft:** a draft document, which can be reviewed by the members of the group and the public. 
   * Maturity Level: Working Draft
-  * To progress to next step: Working Group consensus on the document, Director approves.
+  * To progress to next step: Working Group consensus on the document, Team verifies.
 * **Publication of zero or more revised Public Working Drafts:** the community makes suggested changes to the drafts, these are considered and possibly added to make a revised Public Working Draft. 
   * Maturity Level: Working Draft
-  * To progress to next step: Working Group consensus on the document, Director approves.
+  * To progress to next step: Working Group consensus on the document, Team verifies.
 * **Publication of a Candidate Recommendation:** when the Working Group agrees the document is ready for final review the document is progressed to Candidate Recommendation. The document should satisfy all it's technical requirements, and it should have some working implementations. A Working Group should be confident that this document is final. The [AC](#advisory-committee-ac) reviews the draft, implementations are encouraged and an opportunity to provide a patent exclusion is made. 
   * Maturity Level: Candidate Recommendation
-  * To progress to next step: Working Group approves, [AC](#ac-reviews) Review, Director approves.
-* **Publication of a Proposed Recommendation:** The W3C Director has agreed the document is of sufficient quality to be a standard, the [AC](#advisory-committee-ac) now reviews the document as final. Any changes at this stage requires a new Working Draft or Candidate Recommendation. 
+  * To progress to next step: Working Group approves, [AC](#ac-reviews) Review, Team verifies.
+* **Publication of a Proposed Recommendation:** The Team has verified the document is of sufficient quality to be a standard, the [AC](#advisory-committee-ac) now reviews the document as final. Any changes at this stage requires a new Working Draft or Candidate Recommendation. 
   * Maturity Level: Proposed Recommendation
-  * To progress to next step: Working Group consensus on the document, [AC](#ac-reviews) Review, Director approves.
+  * To progress to next step: Working Group consensus on the document, [AC](#ac-reviews) Review, Team verifies.
 * **Publication as a W3C Recommendation:** the document is now a standard for the Web. 
   * Maturity Level: W3C Recommendation
 * **Possibly, Publication as an Edited Recommendation:** a W3C Recommendation receives edits, and must progress these edits through the process.
@@ -447,7 +443,7 @@ Proposed Recommendation is the final stage of the document before becoming a [W3
 
 Working Groups should ensure the Proposed Recommendation meets the [Transition Request](#transition-requests-and-moving-between-track-stages) requirements and will collect required information including details of implementation experience and explanations of issues and how these were formally addressed. A full list of information to gather can be found in the [W3C Process Document](https://www.w3.org/Consortium/Process/#rec-pr).
 
-The Working Group will then notify their [Team Contact](#the-w3c-team) to request that the Director notifies the AC of the review period. The AC Review Period is at least 28 days and is 10 days after an Exclusion Opportunity (detailed in the [W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy-20170801/#sec-exclude-mech). 
+The Working Group will then notify their [Team Contact](#the-w3c-team) to request that the Team notifies the AC of the review period. The AC Review Period is at least 28 days and is 10 days after an Exclusion Opportunity (detailed in the [W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy-20170801/#sec-exclude-mech). 
 
 For more information please see the [W3C Process Document](https://www.w3.org/Consortium/Process/#rec-pr).
 
@@ -457,9 +453,9 @@ Substantive edits cannot happen on Proposed Recommendations, so to make any chan
 ### W3C Recommendation
 The W3C Recommendation is an approved standard of the W3C and the end of the [W3C Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track)! There are many informal terms used for a W3C Recommedation including "Rec", "Recommendation", "TR", "Technical Report", "Spec", "Standard"; they all mean the same thing.
 
-To get to W3C Recommendation a "W3C Decision" is required; this is where a document has met all the [Transition Request](#transition-requests-and-moving-between-track-stages) requirements, the [Director](#the-director) has approved the document and the document has passed [AC Review](#ac-reviews) during the ["Proposed Recommendation"](#proposed-recommendation) stage. 
+To get to W3C Recommendation a "W3C Decision" is required; this is where a document has met all the [Transition Request](#transition-requests-and-moving-between-track-stages) requirements, the [Team](#the-w3c-team) has approved the document and the document has passed [AC Review](#ac-reviews) during the ["Proposed Recommendation"](#proposed-recommendation) stage. 
 
-[The Director](#the-director) will announce the publication of the W3C Recommendation. If any AC member disagrees with the decision, they could raise an ["Advisory Committee Appeal"](#ac-appeals).
+[The Team](#the-w3c-team) will announce the publication of the W3C Recommendation. If any AC member disagrees with the decision, they could raise an ["Advisory Committee Appeal"](#ac-appeals).
 
 #### Next Steps
 W3C Recommendations can become: 
@@ -475,7 +471,7 @@ W3C Recommendations can become:
 Going from one stage to the next involves making a "Transition Request". Team contacts will make Transition Requests once a number of goals have been met. These include: 
 
 * Obtaining and record group consensus
-* Obtain Director approval
+* Obtain Team approval
 * Publicly documented changes to the previous version of the document
 * Formally address issues by responding to a reviewer explaining decisions which have been made before or since the review (see the [W3C Process Document](https://www.w3.org/Consortium/Process/#formal-address) for more information)
 * Explain the Formal Objections raised and how these were managed.
@@ -486,17 +482,17 @@ It's recommended to include some other information such as details on implementa
 ***Adaquate implementation experience*** is required to progress documents to W3C Recommendation. There is no checklist for "adaquate implementation experience", but group participants should strive to gather implementations that are publicly deployed, matching the proposed draft, and implemented by those other than the draft authors. For full guidelines see the [W3C Process Document](https://www.w3.org/Consortium/Process/#implementation-experience).
 
 ### Moving Backwards in the Recommendation Track
-Both the [Director](#the-director) and [AC](#advisory-committee-ac) decisions could send the document back to a previous stage on The Recommendations Track. It is possible and common for the Director and AC to suggest changes which sends the document back to the Public Working Draft stage. 
+Both the W3C Decision and [AC](#advisory-committee-ac) decisions could send the document back to a previous stage on The Recommendations Track. It is possible and common for the Team and AC to suggest changes which sends the document back to the Public Working Draft stage. 
 
 ### Stopping Progress in the Recommendation Track
-The W3C and / or the [Director](#the-director) can stop the advancement of a draft at any stage; the [AC](#advisory-committee-ac) will be made aware if this happens. For more information on these and detail breakdowns of the recommendation flow please see the [W3C Process Document](https://www.w3.org/Consortium/Process/#maturity-levels).
+The W3C and / or the [Team](#the-w3c-team) can stop the advancement of a draft at any stage; the [AC](#advisory-committee-ac) will be made aware if this happens. For more information on these and detail breakdowns of the recommendation flow please see the [W3C Process Document](https://www.w3.org/Consortium/Process/#maturity-levels).
 
 ## Reviewing Documents and Wide Review
 Documents can be reviewed as soon as they are published. Sending reviews in early is always advised. W3C participants often state that a document should receive "Wide Review"; but this term is not defined by the [W3C Process Document](https://www.w3.org/Consortium/Process/#wide-review). 
 
 Generally, all stakeholders of the Web Community should have the ability to review the document. An annoucnement will be made on [public-review-announce@w3.org](mailto:public-review-announce@w3.org) and the responsible Working Group should also make requests to [Horizontal Groups](https://www.w3.org/Guide/Charter.html#horizontal-review) (e.g. TAG and the Privacy Interest Group) to gain their reviews. The group should do everything it can to ensure all group participants, implementers, affected industry players, the Horizontal Groups and the general public have had adaquate time and instruction to review the document. 
 
-When the [Director](#the-director) reviews the document during a [Transition Request](#transition-requests-and-moving-between-track-stages) they will check that the correct level of reviews have been achieved. 
+When the [Team](#the-w3c-team) reviews the document during a [Transition Request](#transition-requests-and-moving-between-track-stages) they will check that the correct level of reviews have been achieved. 
 
 ### Correction Classes
 The [W3C Process Document](https://www.w3.org/Consortium/Process/#correction-classes) defines some classes of document changes which gives reviewers some aid in deciding whether the document status has to change (for example, a document at the Proposed Recommendation stage may need to go back to Working Draft). 
@@ -526,7 +522,7 @@ The W3C could decide that a W3C Recommendation is no longer recommended. There a
 * A "Superseded Recommendation" if it's been replaced with a newer specification. These continue to exist as W3C Recommendations but are not recommended for future implementations. They may be restored to a Recommendation.
 * A "Rescinded Recommendation" is a document which W3C no longer endorses, and will never restore to a Recommendation. 
 
-There will be an [AC Review](#ac-reviews) for any request for a W3C Recommendation to become obsolete, superceded or rescinded. [The Director](#the-director) will notify the [AC](#advisory-committee-ac), Working Group Chairs and the public of the request, detailing where to find the Recommendation and the rationale for the request. All stakeholders (including the AC and the public) will have at least 28 days after the Director's announcement to send in their reviews. Please see the [W3C Process Document](https://www.w3.org/Consortium/Process/#rec-rescind) for details on what happens if someone disagrees with moving the document to be obsolete, superceded or rescinded.
+There will be an [AC Review](#ac-reviews) for any request for a W3C Recommendation to become obsolete, superceded or rescinded. [The Team](#the-w3c-team) will notify the [AC](#advisory-committee-ac), Working Group Chairs and the public of the request, detailing where to find the Recommendation and the rationale for the request. All stakeholders (including the AC and the public) will have at least 28 days after the Team's announcement to send in their reviews. Please see the [W3C Process Document](https://www.w3.org/Consortium/Process/#rec-rescind) for details on what happens if someone disagrees with moving the document to be obsolete, superceded or rescinded.
 
 The document will then be replublished as an Obsolete or Rescinded Recommendation. Future W3C Recommendations will not normatively reference Rescinded Recommendations. 
 
@@ -539,7 +535,7 @@ Member Submissions are a good way to build support for new work proposals for an
 
 Only one member makes a Member Submission, even if more than one member worked on the original documents. Strict processes are involved in making a Member Submission, please see the W3C Process Document on [Information Required in a Submission Request](https://www.w3.org/Consortium/Process/#SubmissionReqs) and [Submitter Rights](https://www.w3.org/Consortium/Process/#SubmissionRights). 
 
-Member Submissions are to follow the [Publication Rules](https://www.w3.org/pubrules/) and are sent to the [W3C Team](#the-w3c-team). [The Director](#the-director) will announce the Member Submission request to the [AC](#advisory-committee-ac) then approve or reject the submissions. A rejected Member Submission can be appealed to the [TAG](#technical-architecture-group-tag) or [Advisory Board](#advisory-board-ab). Information on the appeal process can be found in the [W3C Process Document](https://www.w3.org/Consortium/Process/#SubmissionNo).
+Member Submissions are to follow the [Publication Rules](https://www.w3.org/pubrules/) and are sent to the [W3C Team](#the-w3c-team). [The Team](#the-w3c-team) will announce the Member Submission request to the [AC](#advisory-committee-ac) then approve or reject the submissions. A rejected Member Submission can be appealed to the [TAG](#technical-architecture-group-tag) or [Advisory Board](#advisory-board-ab). Information on the appeal process can be found in the [W3C Process Document](https://www.w3.org/Consortium/Process/#SubmissionNo).
 
 The Team can then publish the Member Submission along with any supportive documents and comments; this will then be available to all W3C members and the public. 
 
@@ -573,4 +569,4 @@ Workshops and Symposium has some participation and organisation rules, please se
 # Liaisons
 W3C sometimes coordinates acitivies with another organisation or informs other organisations of W3C work relevant to their work or operations. Liaisons are managed by the [W3C Team](#the-w3c-team).
 
-[The Director](#the-director) can negotiate a Memorandum of Understanding (MoU) with another organisation. This may be for many reasons including the W3C working with another organisation on a joint piece of work. The [AC](#advisory-committee-ac) will be informed of an MoU before signing. For further details on MoU process please see the [W3C Process Document](https://www.w3.org/Consortium/Process/#Liaisons).
+[The Team](#the-w3c-team) can negotiate a Technical Agreement (sometimes called a Memorandum of Understanding) with another organisation. This may be for many reasons including the W3C working with another organisation on a joint piece of work. The [AC](#advisory-committee-ac) will be informed of an Technical Agreement before signing. For further details on Technical Agreement process please see the [W3C Process Document](https://www.w3.org/Consortium/Process/#Liaisons).
