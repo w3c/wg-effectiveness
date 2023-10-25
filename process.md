@@ -443,7 +443,7 @@ Proposed Recommendation is the final stage of the document before becoming a [W3
 
 Working Groups should ensure the Proposed Recommendation meets the [Transition Request](#transition-requests-and-moving-between-track-stages) requirements and will collect required information including details of implementation experience and explanations of issues and how these were formally addressed. A full list of information to gather can be found in the [W3C Process Document](https://www.w3.org/Consortium/Process/#rec-pr).
 
-The Working Group will then notify their [Team Contact](#the-w3c-team) to request that the Team notifies the AC of the review period. The AC Review Period is at least 28 days and is 10 days after an Exclusion Opportunity (detailed in the [W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy-20170801/#sec-exclude-mech). 
+The Working Group will then notify their [Team Contact](#the-w3c-team) to request that the Team notifies the AC of the review period. The AC Review Period is at least 28 days and is 10 days after an Exclusion Opportunity (detailed in the [W3C Patent Policy](https://www.w3.org/Consortium/Patent-Policy/#sec-exclude-mech). 
 
 For more information please see the [W3C Process Document](https://www.w3.org/Consortium/Process/#rec-pr).
 
