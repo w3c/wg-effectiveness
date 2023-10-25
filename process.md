@@ -315,7 +315,7 @@ Consensus is a core value of W3C. The W3C agreed definition for Consensus and Di
 2. **Dissent:** At least one individual in the set registers a Formal Objection.
 
 ### Group Decision Appeals and Formal Objections
-A set of group members may appeal a group decision. The group should first register their opinion with the chair and team contact, and then rasie a **Group Decision Appeal** which requests a [W3C Council](#w3c-council) to review the decision. For more information please see the [W3C Process Document](https://www.w3.org/Consortium/Process/#WGAppeals).
+A set of group members may appeal a group decision. The group should first register their opinion with the chair and team contact, and then raise a **Group Decision Appeal** which requests a [W3C Council](#w3c-council) to review the decision. For more information please see the [W3C Process Document](https://www.w3.org/Consortium/Process/#WGAppeals).
 
 Individuals may raise a **Formal Objection** against Interest or Working Group decisions. A [W3C Council](#w3c-council) will review any Formal Objections and the related group decision. Formal Objections should contain technical arguments and proposed changes. Formal Objections will be public. 
 
