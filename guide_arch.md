@@ -161,7 +161,7 @@ See [https://w3c.github.io/](https://w3c.github.io/) for drafts of this info.
 ## Spec Development
 * Spec terminology
 * Progressing from First Public Draft to REC
-* Gaining Adaquate Reviews
+* Gaining Adequate Reviews
 
 * Making notes
 * Obsoleting and Rescinding W3C Specifications

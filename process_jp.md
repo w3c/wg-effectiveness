@@ -29,9 +29,9 @@
   * [Voting](#voting)
   * [Closing a Group](#closing-a-group)
 * [W3C Recommendations and Notes](#w3c-recommendations-and-notes)
-  * [Requirements for W3C Recommenations](#requirements-for-w3c-recommenations-technical-reports)
+  * [Requirements for W3C Recommendations](#requirements-for-w3c-recommendations-technical-reports)
   * [Editors](#editors)
-  * [W3C Recommenation (Technical Report) Flow: The "Recommendation Track"](#w3c-recommenation-technical-report-flow-the-recommendation-track)
+  * [W3C Recommendation (Technical Report) Flow: The "Recommendation Track"](#w3c-recommendation-technical-report-flow-the-recommendation-track)
   * [Maturity Levels Explained](#maturity-levels-explained)
   * [Transition Requests and Moving Between Recommendation Track Stages](#transition-requests-and-moving-between-recommendation-track-stages)
   * [Reviewing Documents and Wide Review](#reviewing-documents-and-wide-review)
@@ -100,7 +100,7 @@ W3Cの主要な言語は、仕様テキスト用の英語(米国英語)です。
 * __公的な参加者__:  [Participants](#participants)参照
 * __勧告　Rec__:  [W3C Recommendation](#w3c-recommendation)参照
 * __勧告__:  [W3C Recommendation](#w3c-recommendation)参照
-* __勧告の流れ__:  [W3C Recommenation (Technical Report) Flow: The "Recommendation Track"](#w3c-recommenation-technical-report-flow-the-recommendation-track)参照
+* __勧告の流れ__:  [W3C Recommendation (Technical Report) Flow: The "Recommendation Track"](#w3c-recommendation-technical-report-flow-the-recommendation-track)参照
 * __参照ドラフト__: 最新のワーキングドラフトは最初の公になったワーキングドラフトから90日以内に出版しなければならない
 * __無効勧告__:  [Rescinded, Obsolete or Superseded Recommendations](#rescinded-obsolete-or-superseded-recommendations)参照
 * __修正された候補勧告__:  [Revised Candidate Recommendation](#revised-candidate-recommendations)参照
@@ -191,7 +191,7 @@ ACメンバーシップと責任の詳細については、[W3Cプロセスド�
 
 ### AC Appeals
 ### 異議申し立て
-[AC](#advisory-committee-ac)は、W3Cの決定に異議申し立てすることができます。 これはまれです。 異議申し立ては通常、ワーキンググループまたはインタレストグループの作成または変更、または[Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track)を通じて進行中のドキュメントに関連しています。 アピールできるかどうかの完全なリストについては、[W3Cプロセス文書](https://w3c.github.io/w3process/#ACAppeal)を参照してください。
+[AC](#advisory-committee-ac)は、W3Cの決定に異議申し立てすることができます。 これはまれです。 異議申し立ては通常、ワーキンググループまたはインタレストグループの作成または変更、または[Recommendation Track](#w3c-recommendation-technical-report-flow-the-recommendation-track)を通じて進行中のドキュメントに関連しています。 アピールできるかどうかの完全なリストについては、[W3Cプロセス文書](https://w3c.github.io/w3process/#ACAppeal)を参照してください。
 
 異議申し立ては、決定後3週間以内に開始する必要があります。 ACメンバーは[チーム](#the-w3c-team)に異議申し立てを報告し、チームはACにこの異議申し立てをアナウンスして、ACが望む場合に異議申し立てをサポートできるようにします。
 
@@ -383,15 +383,15 @@ W3C勧告は、認知されているW3C標準（「技術報告書」とも呼�
 
 W3Cグループは、勧告トラック文書ではない **W3Cノート** を公開することもできます。 W3Cノートの例には、ユースケースのリスト、ガイダンス、放棄された作業のステータスなどが含まれます。
 
-W3Cノートは[The Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track)もフォローします。それらは通常、ノートとして。**なんらかの改訂された公共作業ドラフトの出版** という段階です。
+W3Cノートは[The Recommendation Track](#w3c-recommendation-technical-report-flow-the-recommendation-track)もフォローします。それらは通常、ノートとして。**なんらかの改訂された公共作業ドラフトの出版** という段階です。
 
 詳細は、[W3Cプロセスドキュメント](https://w3c.github.io/w3process/#Note)を参照してください。
 
-## Requirements for W3C Recommenations (Technical Reports)
+## Requirements for W3C Recommendations (Technical Reports)
 ## W3Cの勧告(技術報告書)に対する要求条件
-W3C勧告（Technical Reports）は、[勧告のフロー](#w3c-recommenation-technical-report-flow-the-recommendation-track)のあらゆる段階で公開される文書である。ドキュメントには、以下を含むセット情報が表示されます。
+W3C勧告（Technical Reports）は、[勧告のフロー](#w3c-recommendation-technical-report-flow-the-recommendation-track)のあらゆる段階で公開される文書である。ドキュメントには、以下を含むセット情報が表示されます。
 
-* ドキュメントの成熟度レベル([勧告のフロー](#w3c-recommenation-technical-report-flow-the-recommended-track)を参照)
+* ドキュメントの成熟度レベル([勧告のフロー](#w3c-recommendation-technical-report-flow-the-recommended-track)を参照)
 * 文書を作成したワーキンググループ
 * バグの記録方法と場所についての説明
 * このドキュメントの「次のステップ」
@@ -403,6 +403,7 @@ W3C勧告（Technical Reports）は、[勧告のフロー](#w3c-recommenation-te
 ## エディター
 すべてのW3C勧告(テクニカルレポート)には、1人以上のエディターがいます。これらのエディターは、WGの決定を反映する形で文書を作成する責任があります。すべてのエディターは編集中の文書を担当するWGのメンバーでなければなりません。
 
+## W3C Recommendation (Technical Report) Flow: The "Recommendation Track"
 ## W3C勧告（技術報告）フロー：「勧告トラック」
 ドラフトからテクニカルレポートまでの文書の典型的な流れは次のとおりです。
 
@@ -443,7 +444,7 @@ W3C勧告（Technical Reports）は、[勧告のフロー](#w3c-recommenation-te
 ワーキンググループが新しい標準またはW3Cノートで作業を開始することに合意したとき、作業ドラフトを作成する。ワーキングドラフトは新しい文書でも、ワーキンググループは[エディタードラフト](#editors-draft)を採用することもできます。これらの両方の移行は「最初の公開作業ドラフト」になる。この段階では、[W3Cの特許ポリシーに詳述されている"除外特許の呼びかけ"](https://www.w3.org/Consortium/Patent-Policy-20170801/#sec-exclude-mech)を始めます．
 ワーキンググループは引き続きこの文書の作業を続け、意思決定と文書の編集に合意し、「改訂作業ドラフト」を作成し続ける。文書に重大な変更が加えられた場合、その文書を[W3Cテクニカルレポートページ](https://www.w3.org/TR/)に再アップロードする必要があります。 6ヵ月経過しても変更がなければ、改訂作業ドラフトをアップロードする必要があります。この改訂案は、なぜこの時間内に変更がないのかを示しています。
 
-グループは、次の推奨トラックステージ([勧告フロー](#w3c-recommenation-technical-report-flow-the-recommended-track)および[遷移要求]を参照)への移行のために、作業ドラフトに関する情報を準備する必要があります。 （ステージとトランジションの詳細については、[勧告フロー](#w3c-recommenation-technical-report-flow-the-recommendation-track)と[遷移要求](#transition-requests-and-moving-between-track-stages)を参照してください。これらには、
+グループは、次の推奨トラックステージ([勧告フロー](#w3c-recommendation-technical-report-flow-the-recommended-track)および[遷移要求]を参照)への移行のために、作業ドラフトに関する情報を準備する必要があります。 （ステージとトランジションの詳細については、[勧告フロー](#w3c-recommendation-technical-report-flow-the-recommendation-track)と[遷移要求](#transition-requests-and-moving-between-track-stages)を参照してください。これらには、
 
 * 文書を進めるためのグループ決定の記録
 * 最後のバージョンからの変更の記録
@@ -457,7 +458,7 @@ W3C勧告（Technical Reports）は、[勧告のフロー](#w3c-recommenation-te
 作業草案は、「修正作業ドラフト」，[候補勧告](#candidate-recommendation)、または「作業グループノート」に移行することができます。
 
 ### 候補勧告
-候補勧告は、最終的なレビューがなされる文書である。この段階で、グループは文書を次の段階に進めるための一連の情報を準備する.トラックステージ間の遷移要求と移動のステージの詳細については([勧告フロー](#w3c-recommenation-technical-report-flow-the-recommendation-track)と[移行要求](#transition-requests-and-moving-between-track-stages)を参照してください。収集される情報は次のとおりです。
+候補勧告は、最終的なレビューがなされる文書である。この段階で、グループは文書を次の段階に進めるための一連の情報を準備する.トラックステージ間の遷移要求と移動のステージの詳細については([勧告フロー](#w3c-recommendation-technical-report-flow-the-recommendation-track)と[移行要求](#transition-requests-and-moving-between-track-stages)を参照してください。収集される情報は次のとおりです。
 
 * 文書がワーキンググループの要件([チャーター](#charter-and-call-for-participation)に概要が記載されている)に合致していることを説明する．または要件が変更されたのならその理由
 * 他の仕様への依存
@@ -492,7 +493,7 @@ W3C勧告（Technical Reports）は、[勧告のフロー](#w3c-recommenation-te
 
 ### W3C Recommendation
 ### W3C勧告
-W3C勧告は、W3Cの承認された標準であり、[W3C勧告トラック](#w3c-recommenation-technical-report-flow-the-recommendation-track)の終点です！ 「Rec」、「Recommendation」、「TR」、「Technical Report」、「Spec」、「Standard」を含むW3C勧告に使用される多くの非公式用語があります。そらはすべて同じことを意味します。
+W3C勧告は、W3Cの承認された標準であり、[W3C勧告トラック](#w3c-recommendation-technical-report-flow-the-recommendation-track)の終点です！ 「Rec」、「Recommendation」、「TR」、「Technical Report」、「Spec」、「Standard」を含むW3C勧告に使用される多くの非公式用語があります。そらはすべて同じことを意味します。
 
 W3C勧告に到達するには、「W3C決定」が必要です。これは、文書がすべての[遷移要求](#transition-requests-and-moving-between-track-stages)要件を満たし、[Director](#the director)が文書を承認し、文書が[提案された推薦](#proposed-recommendation)ステージ中の[ACレビュー](#ac-reviews)にパスすることが必要です．
 
@@ -553,11 +554,11 @@ W3Cまたは[ディレクター](#the-director)は、どの段階でもドラフ
 
 ワーキンググループが既に閉鎖されている場合、W3Cは変更を要求することができます。
 
-編集者の変更は、[Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommendation-track)の別の段階に戻ることなく進めることができます。 [実質的な変更](https://w3c.github.io/w3process/#substantive-change)は、文書が[候補勧告](#candidate-recommendation)に戻るように要求する，あるいはワーキンググループが存在しなくなった場合は「候補推奨勧告」になる。
+編集者の変更は、[Recommendation Track](#w3c-recommendation-technical-report-flow-the-recommendation-track)の別の段階に戻ることなく進めることができます。 [実質的な変更](https://w3c.github.io/w3process/#substantive-change)は、文書が[候補勧告](#candidate-recommendation)に戻るように要求する，あるいはワーキンググループが存在しなくなった場合は「候補推奨勧告」になる。
 
 ワーキンググループが文書を編集した場合、その勧告は「編集された勧告」となる。 W3Cが変更を要求し完了した場合、その文書は「改訂された勧告」となる。
 
-[勧告トラック](#w3c-recommenation-technical-report-flow-the-recommendation-track)の各ステージと同様に、すべての[遷移要求]](#transition-requests-and-moving-between-track-stages)が改訂された推奨事項に適用されます。
+[勧告トラック](#w3c-recommendation-technical-report-flow-the-recommendation-track)の各ステージと同様に、すべての[遷移要求]](#transition-requests-and-moving-between-track-stages)が改訂された推奨事項に適用されます。
 
 ### Rescinded, Obsolete or Superseded Recommendations
 ### 撤廃されたまたは陳腐化した、または廃止された勧告
@@ -576,9 +577,9 @@ W3C勧告の一部のみを陳腐化、代替、または廃止する必要が�
 
 # Member Submissions
 # メンバーの文書提出
-メンバーはW3Cへの文書提出を行うことができます。これらの文書は、通常、ウェブに適用可能な技術または他のアイデアを詳述しています。これらの文書はW3Cの外部で開発されているため、W3C [Recommendation Track](#w3c-recommenation-technical-report-flow-the-recommended-track)を通過しておらず、[W3C勧告](#w3c-recommendation)ではありません。それらは将来の仕事の基礎になることができますが、これについての保証はありません。
+メンバーはW3Cへの文書提出を行うことができます。これらの文書は、通常、ウェブに適用可能な技術または他のアイデアを詳述しています。これらの文書はW3Cの外部で開発されているため、W3C [Recommendation Track](#w3c-recommendation-technical-report-flow-the-recommended-track)を通過しておらず、[W3C勧告](#w3c-recommendation)ではありません。それらは将来の仕事の基礎になることができますが、これについての保証はありません。
 
-会員提出は、今後開催される作業部会のための新しい作業提案書の作成を支援する良い方法です。ワーキンググループが既に存在する場合、技術はワーキンググループを通して通常どおり貢献され、メンバー提出ではなく[勧告フロー](#w3c-recommenation-technical-report-flow-the-recommendation-track)に従うことが望ましい。
+会員提出は、今後開催される作業部会のための新しい作業提案書の作成を支援する良い方法です。ワーキンググループが既に存在する場合、技術はワーキンググループを通して通常どおり貢献され、メンバー提出ではなく[勧告フロー](#w3c-recommendation-technical-report-flow-the-recommendation-track)に従うことが望ましい。
 
 複数のメンバーが文書を作成処理していたとしても、1人のメンバーのみがメンバー提出を行います。厳格なプロセスがメンバー提出に関与している場合は、[依頼要求に必要な情報](https://w3c.github.io/w3process/#SubmissionReqs)および[投稿者の権利](https： /w3c.github.io/w3process/#SubmissionRights)にあるW3Cのプロセス文書を参照して下さい。
 
@@ -619,7 +620,7 @@ Workshops are organised by W3C for a number of reasons, including: promoting inv
 
 A Symposium aims to educate participants on a particular subject. 
 
-Workshops and Symposium can be limited to W3C Members or open to the public. Often these events result in new groups or work items within W3C, but this is not guarenteed. 
+Workshops and Symposium can be limited to W3C Members or open to the public. Often these events result in new groups or work items within W3C, but this is not guaranteed. 
 
 Workshops and Symposium has some participation and organisation rules, please see the [W3C Process Document](https://w3c.github.io/w3process/#GAEvents) for details of these. 
 
