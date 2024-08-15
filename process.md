@@ -550,8 +550,8 @@ For more information on communication and confidentiality levels please see the 
 There are three confidenetiality levels at W3C:
 
 * **Public:** information is open to the general public 
-* **Member-only:** information is accessible to [W3C Members](#members), [Invited Experts](#participants), [AB](#advisory-board-ab), [TAG](#technical-architecture-group-tag) and the [W3C Team](#the-w3c-team) only
-* **Team-only:** information is accessible to the W3C staff only.
+* **Member-only:** information is available to [W3C Members](#members), [Invited Experts](#participants), [AB](#advisory-board-ab), [TAG](#technical-architecture-group-tag) and the [W3C Team](#the-w3c-team) only
+* **Team-only:** information is available to the W3C staff only.
 
 Generally all information related to specification development should be publicly available. 
 
