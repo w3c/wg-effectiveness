@@ -12,7 +12,7 @@ Readers should note that this document is not a legal document, it does not repl
   * [Technical Architecture Group (TAG)](#technical-architecture-group-tag)
   * [Advisory Committee (AC)](#advisory-committee-ac)
   * [The W3C Team](#the-w3c-team)
-* [Understanding W3C Members](#understanding-w3c-members)
+* [Concept of W3C Members](#concept-of-w3c-members)
   * [Members](#members)
   * [Membership Consortia](#membership-consortia)
 * [W3C Groups](#w3c-groups)
@@ -168,7 +168,7 @@ For more information on AC membership and responsibilities, please see the [W3C 
 ### AC Reviews
 The [AC](#advisory-committee-ac) will review new or modified Working and Interest Groups charters, [Proposed Recommendations](#proposed-recommendation), proposals to [Obsolete, Rescind, Supersede, or Restore Recommendations](#rescinded-obsolete-or-superseded-recommendations), and propose changes to the W3C process. Typically, these review periods are at least 28 days.
 
-[The Team](##the-w3c-team) will send a "Call for Review" to the AC on the AC Mailing List. Each AC member may send in one review on behalf of their [W3C Member](#understanding-w3c-members) organisation. AC Members can modify their reviews until the review period has ended.
+[The Team](##the-w3c-team) will send a "Call for Review" to the AC on the AC Mailing List. Each AC member may send in one review on behalf of their [W3C Member](#concept-of-w3c-members) organisation. AC Members can modify their reviews until the review period has ended.
 
 After the review has ended, [the Team](#the-w3c-team) will announce the results of the review detailing support and any formal objections. The proposal could be: approved, approved with changes, returned for further work or rejected. Please consult the [W3C Process Document](https://www.w3.org/Consortium/Process/#ACReview) for a break down of each of these.
 
@@ -188,7 +188,7 @@ Oversight over the Team is provided by the W3C Board of Directors.
 
 For more information on the W3C team see the [W3C Process Document](https://www.w3.org/Consortium/Process/#Team).
 
-# Understanding W3C Members
+# Concept of W3C Members
 ## Members
 W3C Members make up the bulk of participants in W3C Interest and Working Groups. Each member also has one seat on the [Advisory Committee](#advisory-committee-ac). 
 
