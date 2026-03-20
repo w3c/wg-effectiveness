@@ -368,7 +368,7 @@ Every W3C Recommendation (Technical Report) will have one or more Editors. These
 ## W3C Recommendation (Technical Report) Flow: The "Recommendation Track" 
 A typical flow of a document from draft to Technical Report is below:
 
-![Recommendation Track Diagram](https://github.com/w3c/wg-effectiveness/blob/master/images/rectrackdiagram.png)
+![Recommendation Track Diagram](https://raw.githubusercontent.com/w3c/wg-effectiveness/main/images/rectrackdiagram.png)
 
 * **(Optional) Creation of Editor's Drafts:** anyone can start an Editor's Draft. Working Group members will often develop these as individuals or within a small group and then submit them to a group to be considered for a First Public Working Draft. 
   * Maturity Level: Editors Draft
