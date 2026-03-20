@@ -502,7 +502,7 @@ Working on a document can end at any time.
 
 ## Modifying a W3C Recommendation
 
-![Recommendation Track Diagram](https://github.com/w3c/wg-effectiveness/blob/master/images/rectrackdiagram.png)
+![Recommendation Track Diagram](https://raw.githubusercontent.com/w3c/wg-effectiveness/main/images/rectrackdiagram.png)
 
 ### Revised Recommendation (Edited and Amended Recommendations)
 Errors may be found in a document after it has progressed to W3C Recommendation. In these instances a Working Group will keep a record of the error. The group will also provide details of the error with associated tests linked to the document in some way. The most common way is another published document which links to the W3C Recommendation. The Working Group will then revise the recommendation to correct the error.
